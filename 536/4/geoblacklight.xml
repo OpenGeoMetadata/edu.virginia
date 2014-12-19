@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns="http://lucene.apache.org/solr/4/document" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:solr="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">6babb11b-b6bb-46aa-b30e-63c544907d29-4</field>
+    <field name="dc_identifier_s">6babb11b-b6bb-46aa-b30e-63c544907d29-4</field>
+    <field name="dc_title_s">georeferenced map 000003093: McGregor 000003093 - 1684 (copy 2) - Pas kaart van de zee kusten van Virginia : tusschen C. Henry en t hooge land van Renselaars Hoek, door vooght geometra</field>
+    <field name="dc_description_s">* Title: Pas kaart van de zee kusten van Virginia : tusschen C. Henry en t hooge land van Renselaars Hoek, door vooght geometra 
+* t Amsterdam by Johannis van Keulen, boek en zee kaart verkoper aande niewe brug inde Gekroonde Lootsman, met privilegie voor 15 jaaren.
+* Author: Keulen, Johannes van 
+* Credit: Area Table 755 1684 Keulen copy 2
+* Copy 2: Hand colored with wider margins</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">UVa</field>
+    <field name="dct_references_s">
+                    {
+                        "http://schema.org/url": "6babb11b-b6bb-46aa-b30e-63c544907d29-4",
+                        "http://schema.org/thumbnailUrl": "http://gis.lib.virginia.edu:8080/geoserver/wms/reflect?layers=McGregor:000003093_00011&amp;format=image/jpeg",
+                        "http://schema.org/DownloadAction": "http://gis.lib.virginia.edu:8080/geoserver/wfs/reflect?layers=McGregor:000003093_00011&amp;outputFormat=shape-zip",
+                        "http://www.loc.gov/mods/v3": "foobar",
+                        "http:isotc211.org/schemas/2005/gmd": "6babb11b-b6bb-46aa-b30e-63c544907d29-4.iso19139",
+                        "http://www.opengis.net/def/serviceType/ogc/wms": "http://gis.lib.virginia.edu/geoserver/wms",
+                        "http://www.opengis.net/def/serviceType/ogc/wfs": "http://gis.lib.virginia.edu/geoserver/wfs",
+                        "http://www.opengis.net/def/serviceType/ogc/wcs": "http://gis.lib.virginia.edu/geoserver/wcs"
+                    }
+                </field>
+    <field name="layer_id_s">McGregor:000003093_00011</field>
+    <field name="layer_slug_s">uva-McGregor:000003093_00011</field>
+    <field name="layer_geom_type_s">Polygon</field>
+    <field name="layer_modified_dt">2010-10-29T16:25:24Z</field>
+    <field name="dc_format_s">Shapefile </field>
+    <field name="dc_language_s">eng</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dc_subject_sm">boundaries</field>
+    <field name="dct_issued_s">2009</field>
+    <field name="georss_box_s">36.54 -77.593 40.106 -74.559</field>
+    <field name="georss_polygon_s">36.54 -77.593 36.54 -74.559 40.106 -74.559 40.106 -77.593 36.54 -77.593</field>
+    <field name="solr_geom">ENVELOPE(-77.593, -74.559, 40.106, -74.559)</field>
+    <field name="solr_bbox">-77.593 36.54 -74.559 40.106</field>
+    <field name="solr_sw_pt">36.54,-77.593</field>
+    <field name="solr_ne_pt">40.106,-74.559</field>
+    <field name="solr_year_i">2014</field>
+    <field name="solr_wms_url">http://gis.lib.virginia.edu/geoserver/wms</field>
+    <field name="solr_wfs_url">http://gis.lib.virginia.edu/geoserver/wfs</field>
+    <field name="solr_wcs_url">http://gis.lib.virginia.edu/geoserver/wcs</field>
+  </doc>
+</add>

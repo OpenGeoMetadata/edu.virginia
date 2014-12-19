@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<add xmlns="http://lucene.apache.org/solr/4/document" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:solr="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">18d634df-f0e5-4a83-b3ba-7d8ca049af46-10</field>
+    <field name="dc_identifier_s">18d634df-f0e5-4a83-b3ba-7d8ca049af46-10</field>
+    <field name="dc_title_s">Block Annotations 14400: City of Arlington GIS Datasets (Datastack)</field>
+    <field name="dc_description_s">This collection (stacked series) of datasets is provided to the UVA Library's Scholars' Lab by the office of Engineering Mapping Center of the County of Arlington, Virginia, USA.  The data are managed and maintained by the Engineering Mapping Center, which is a branch of the Department of Public Works.  These data pertain primarily to the infrastructure and land use within the County of Arlington, Virginia, as well as related natural features.  The datastack primarily dates back to 2003, but some Census data from 1990 and 2000 are also included.  Data are provided AS-IS with no guarantee of their completeness, accuracy or content.
+
+* // *
+ISO Thematic Topics Categories include: boundaries, environment, location, planning Cadastre, structure, transportation, geoscientific Information and utilities/communications.
+* // *
+Datasets/Layers included in this datastack (with non-exclusive list of included attributes):
+*	Arlington Real Estate records database (incl: geocoding information, street and address names as of 06-2003)
+*	Addresses (point) incl: street number and address
+*	Airport
+*	Alley (polygon)
+*	Approved_anno 14400 (1:14,400 scale text indicating year Neighborhood Conservation Area (NCA) was approved by County Board)
+*	Block 1990 annotations (1990 Census annotations 1:14,400 and 1:2,000 scale text)
+*	1990 Census block groups
+*	2000 Census block groups
+*	Blocks1990 (1990 Census Block boundaries)
+*	Blocks2000 (2000 Census Block boundaries)
+*	Bridges (poly)
+*	Buildings (poly)
+*	Civic Association annotations (1:14,400 scale)
+*	Civic buffer (line which delineates civic areas)
+*	Civic_poly (Civic Association areas)
+*	County_Anno_100 (1:100 scale County feature annotation)
+*	County boundaries (line and polygon)
+*	Driveway_poly (driveway features)
+*	Facility_pnt (point representing county facilities, e.g. MetroRail stations, fire stations, libraries, etc.)
+*	Faults (arc representing geological fault lines)
+*	Firebox_Anno (annotation for individual fireboxes)
+*	Fireboxes
+*	Firstdue_Anno (annotation for individual fire due areas)
+*	Firstdue_Areas (first due areas for each fire stations)
+*	Geology (geological fault lines)
+*	Handicap ramp features
+*	House district annotation
+*	Major road anno 14400 (1:14400 scale annotation for major roads)
+*	Metro corridor 1990 (1990 Census Metro Corridor boundaries)
+*	Metro corridors 2000 (2000 Census Metro Corridor boundaries)
+*	Metro stations as of 1990
+*	Metro stations as of 2000
+*	Neighborhood Conservation Area (NCA) Anno 14400 (1:14400 scale annotation for Neighborhood)
+*	NCA updated Anno 14400 (1:14400 scale annotation for indicating
+year of updated in 2003)
+*	NSA 1990 (Census 1990 Neighborhood Service Areas)
+*	NSA 1990  anno 14400 (Census 1990 NSA with 14,400 scale annotation)
+*	Neighborhood conservation areas (buffers) (areas with County-approved conservation plans)
+*	Neighborhood conservation areas (poly)
+*	Pave / Planimetric geodatabase, contains paved sidewalks, bridges, buildings, alleys, driveways and medians
+*	Paved median poly (paved medians, driveways, roads, sidewalks, building, bridge and alleys)
+*	Place names 1,200 (annotation featuring major building and feature names for County at 1:1,200 scale)
+*	Place names 14,400 (1:14,400 scale annotation)
+*	Police beat
+*	Police beat annotation
+*	Police districts, annotation
+*	Potomac poly (incl: Potomac River, Tidal Basin and other waterways.  Divided into 8 parts so the user can define how much surrounding waterway to include.)
+*	Voter Precinct area boundaries w/ annotation
+*	Quad poly Poly identifying section quadrants (NW, NE, SW, SE), w/ annotation
+*	Roads
+*	Section anno, poly (Poly identifying map sections (collections of 16 sheets)
+*	Senate district area boundaries w/ annotation
+*	Sheet anno (Poly identifying individual map sheets (1500â€™ by 1000â€™) w/ annotation)
+*	Sidewalks poly
+*	Soils (includes soil classification and soils affected by urbanization)
+*	Street network (arc, node)
+*	Street names
+*	Tract 1990 anno 14400 (1990 Census tract boundaries w/ annotation)
+*	Tracts 2000 (2000 Census tract boundaries)
+*	Voter house district (House district voting area boundaries)
+*	Voter precinct (voting districts and precincts and polling places)
+*	Voter senate district (Senate district voting area boundaries)
+*	Zip code boundaries
+*	All schools (point) incl: school names
+*	Baseball fields (point)
+*	Basketball courts (point)
+*	Community centers (point) inc: center name, address and buildling details (parking facilities, bathrooms, etc.)
+*	Dog exercise areas (point) incl: park names
+*	Elementary school zone boundaries
+*	Future parks (poly) incl: current parks and designatated future park areas
+*	High school boundaries (poly)
+*	Nature centers (point) incl: park name and address
+*	Northern Virginia Regional Park Authority (NVRPA) areas (poly) incl: W&amp;OD bike trail
+*	Playgrounds at parks (point) incl: name and address, play equiptment and year of last rennovation
+*	Picnic shelters (point)
+*	Pools (indoor) (point) incl: location name (high school)
+*	Private open spaces (poly) incl: park names and easements
+*	Public art (point) incl: art title, address, detailed location fields
+*	Public parks (poly) incl: name and address
+*	Service area buffer (poly)
+*	Service areas (poly) (boundaries)
+*	Ssoccer fields (point) incl: park name
+*	Tennis courts (point) incl: park name, address and # of courts</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">UVa</field>
+    <field name="dct_references_s">
+                    {
+                        "http://schema.org/url": "18d634df-f0e5-4a83-b3ba-7d8ca049af46-10",
+                        "http://schema.org/thumbnailUrl": "http://gis.lib.virginia.edu:8080/geoserver/wms/reflect?layers=Arlington:Block_Anno_14400&amp;format=image/jpeg",
+                        "http://schema.org/DownloadAction": "http://gis.lib.virginia.edu:8080/geoserver/wfs/reflect?layers=Arlington:Block_Anno_14400&amp;outputFormat=shape-zip",
+                        "http://www.loc.gov/mods/v3": "foobar",
+                        "http:isotc211.org/schemas/2005/gmd": "18d634df-f0e5-4a83-b3ba-7d8ca049af46-10.iso19139",
+                        "http://www.opengis.net/def/serviceType/ogc/wms": "http://gis.lib.virginia.edu/geoserver/wms",
+                        "http://www.opengis.net/def/serviceType/ogc/wfs": "http://gis.lib.virginia.edu/geoserver/wfs",
+                        "http://www.opengis.net/def/serviceType/ogc/wcs": "http://gis.lib.virginia.edu/geoserver/wcs"
+                    }
+                </field>
+    <field name="layer_id_s">Arlington:Block_Anno_14400</field>
+    <field name="layer_slug_s">uva-Arlington:Block_Anno_14400</field>
+    <field name="layer_geom_type_s">Polygon</field>
+    <field name="layer_modified_dt">2008-11-18T14:35:29Z</field>
+    <field name="dc_format_s">Shapefile </field>
+    <field name="dc_language_s">eng</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dc_subject_sm">boundaries</field>
+    <field name="dc_subject_sm">environment</field>
+    <field name="dc_subject_sm">location</field>
+    <field name="dc_subject_sm">planningCadastre</field>
+    <field name="dc_subject_sm">structure</field>
+    <field name="dc_subject_sm">transportation</field>
+    <field name="dc_subject_sm">geoscientificInformation</field>
+    <field name="dc_subject_sm">utilitiesCommunication</field>
+    <field name="dct_issued_s">2009</field>
+    <field name="georss_box_s">38.82678 -77.17349 38.93489 -77.03046</field>
+    <field name="georss_polygon_s">38.82678 -77.17349 38.82678 -77.03046 38.93489 -77.03046 38.93489 -77.17349 38.82678 -77.17349</field>
+    <field name="solr_geom">ENVELOPE(-77.17349, -77.03046, 38.93489, -77.03046)</field>
+    <field name="solr_bbox">-77.17349 38.82678 -77.03046 38.93489</field>
+    <field name="solr_sw_pt">38.82678,-77.17349</field>
+    <field name="solr_ne_pt">38.93489,-77.03046</field>
+    <field name="solr_year_i">2014</field>
+    <field name="solr_wms_url">http://gis.lib.virginia.edu/geoserver/wms</field>
+    <field name="solr_wfs_url">http://gis.lib.virginia.edu/geoserver/wfs</field>
+    <field name="solr_wcs_url">http://gis.lib.virginia.edu/geoserver/wcs</field>
+  </doc>
+</add>
