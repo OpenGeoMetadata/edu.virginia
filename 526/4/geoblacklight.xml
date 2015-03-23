@@ -34,12 +34,6 @@
     <field name="georss_box_s">36.383381 -78.255913 40.613740 -72.798367</field>
     <field name="georss_polygon_s">36.383381 -78.255913 36.383381 -72.798367 40.613740 -72.798367 40.613740 -78.255913 36.383381 -78.255913</field>
     <field name="solr_geom">ENVELOPE(-78.255913, -72.798367, 40.613740, -72.798367)</field>
-    <field name="solr_bbox">-78.255913 36.383381 -72.798367 40.613740</field>
-    <field name="solr_sw_pt">36.383381,-78.255913</field>
-    <field name="solr_ne_pt">40.613740,-72.798367</field>
     <field name="solr_year_i">2014</field>
-    <field name="solr_wms_url">http://gis.lib.virginia.edu/geoserver/wms</field>
-    <field name="solr_wfs_url">http://gis.lib.virginia.edu/geoserver/wfs</field>
-    <field name="solr_wcs_url">http://gis.lib.virginia.edu/geoserver/wcs</field>
   </doc>
 </add>
