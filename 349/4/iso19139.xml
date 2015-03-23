@@ -77,7 +77,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>City of Charlottesville 2007 GIS Datasets  (Datastack)</gco:CharacterString>
+                        <gco:CharacterString>Charlottesville_2007_streetCenterlines</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -101,62 +101,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This collection (stacked series) of datasets is provided to the
-                    UVA Library's Scholars' Lab by the Information Technology Department of the City
-                    of Charlottesville, Virginia, USA, and is provided AS-IS with no guarantees as
-                    regards to its accuracy or temporal currency. It pertains primarily to the
-                    infrastructure and land use within the City of Charlottesville as well as
-                    related natural features. * // * The temporal extent of the datasets in the
-                    datastack is generally in the 2002 - 2007 range, but some datasets may include
-                    attribute data collected during previous field surveys. * // * Datasets/Layers
-                    included in this datastack (with non-exclusive list of included attributes): *
-                    City Boundaries * City Neighborhoods * 
-Cultural Points of Interest * 
-Voting Precincts * Elementary School
-                    Attendance Zones * Buildings and Structures (footprints only) * Walls and Fences
-                    * Parcels (polygon shape) - incl. parcel#, zoning, and historic designation
-                    info. * Parcel Points (center points) - incl. property &amp; parcel#,
-                    address, zip code, owner, zoning, legal description, acreage. * Developments -
-                    incl. development name, construction status, planner, # housing units, and
-                    neighborhood. * Parks - incl. park name and type. * Open Spaces - incl. name and
-                    acreage. * Elevation Contours - 2 ft. amsl contours, index and interval contours
-                    noted or separated. * Street Centerlines - street name, FIPS code, additional
-                    geocoding/address matching info. * Street Edges * Guard rails * Parking areas *
-                    Driveways * Railroads * Bicycle routes * CTS bus routes * Pedestrian sidewalks
-                    and paved trails * Rivanna Trail Foundation (RTF) Trails * City Trails - incl.
-                    surface type and existing or proposed status. * Road Stream Crossings - incl.
-                    structure and construction type * Stream Utility Crossings - incl. type and
-                    stream impact score. * Hydrants - incl. hydrant type, city id#, year installed,
-                    size, and condition. * Manholes - incl. manhole type, characteristics and
-                    condition, # services, depth, owner, and use status. * Water Lines and Pipes -
-                    incl. diameter, install date, construction, owner, use status, and node/junction
-                    info. * Water Valves - incl. city id#, street and cross location, and other city
-                    specs. * Sanitation Lines and Pipes - construction type, diameter, inspection
-                    date, condition, owner, and use status. * Storm Sewer Structures - incl.
-                    structure type, depth, size, easements, and condition. * Storm Culverts - incl.
-                    culvert type, diameter, easements, and condition. * Storm Pipes - incl. drain
-                    type, diameter, easements, and condition * Storm Drainage Basins * Floodplains *
-                    Floodways * Streams and Rivers * Stream Characteristics (of selected stream
-                    segment/reaches) - incl. watershed, stream name, survey date, stream health
-                    characteristics. * Stream Cross-Sections (of selected stream segment/reaches) -
-                    incl. watershed, stream name, bankfull height, profile depth, and substrate
-                    type. * Stream Erosion (along selected stream segment/reaches) - incl. survey
-                    date, and erosion severity. * Stream Buffers (along selected stream
-                    segment/reaches) - incl. survey date, bank condition, and need for buffer or
-                    restoration. * Stream Head Cut (of selected stream segment/reaches) - incl. head
-                    height. * Stream Obstructions (of selected stream segment/reaches) - incl.
-                    survey date and obstruction type. * Stream Pipe Ditches (along selected stream
-                    segment/reaches) - incl. pipe diameter and type, discharge, and stream impact. *
-                    Stream Dump Sites (along selected stream segment/reaches) - incl. dump site id#
-                    and material dumped. * Greenway Asphalt Paths: Existing and Proposed * Greenway
-                    Combo Bike/Pedestrian Paths: Existing * Greenway Bike Lanes: Proposed * Greenway
-                    Class A &amp; B Trails: Existing and Proposed * Greenway Off-River Trail:
-                    Proposed * Greenway Sidewalks: Existing and Proposed * Greenway Bridges *
-                    Greenway Access Points: public with/without facilities, neighborhood, and from
-                    meadowcreek parkway. * Greenway Boat Access Points * // * These data were made
-                    available to the University of Virginia for educational and research uses only.
-                    Access is restricted to students, faculty and staff of the University of
-                    Virginia.</gco:CharacterString>
+                <gco:CharacterString>Street centerlines for Charlottesville, Virginia.</gco:CharacterString>
             </gmd:abstract>
             <gmd:purpose gco:nilReason="missing">
                 <gco:CharacterString/>
@@ -362,28 +307,7 @@ Voting Precincts * Elementary School
                 <gmd:MD_CharacterSetCode codeListValue="utf8" codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_CharacterSetCode"/>
             </gmd:characterSet>
             <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode>boundaries</gmd:MD_TopicCategoryCode>
-            </gmd:topicCategory>
-            <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode>elevation</gmd:MD_TopicCategoryCode>
-            </gmd:topicCategory>
-            <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode>environment</gmd:MD_TopicCategoryCode>
-            </gmd:topicCategory>
-            <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode>location</gmd:MD_TopicCategoryCode>
-            </gmd:topicCategory>
-            <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode>planningCadastre</gmd:MD_TopicCategoryCode>
-            </gmd:topicCategory>
-            <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode>structure</gmd:MD_TopicCategoryCode>
-            </gmd:topicCategory>
-            <gmd:topicCategory>
                 <gmd:MD_TopicCategoryCode>transportation</gmd:MD_TopicCategoryCode>
-            </gmd:topicCategory>
-            <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode>utilitiesCommunication</gmd:MD_TopicCategoryCode>
             </gmd:topicCategory>
             <gmd:extent>
                 <gmd:EX_Extent>
