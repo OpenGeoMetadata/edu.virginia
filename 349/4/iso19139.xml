@@ -77,7 +77,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Charlottesville_2007_streetCenterlines</gco:CharacterString>
+                        <gco:CharacterString>Charlottesville 2007 StreetCenterlines</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -204,7 +204,7 @@
                             <gmd:address>
                                 <gmd:CI_Address>
                                     <gmd:deliveryPoint>
-                                        <gco:CharacterString>120 Seventh St.                                         NE</gco:CharacterString>
+                                        <gco:CharacterString>120 Seventh St. NE</gco:CharacterString>
                                     </gmd:deliveryPoint>
                                     <gmd:deliveryPoint>
                                         <gco:CharacterString>Rm. 405</gco:CharacterString>
