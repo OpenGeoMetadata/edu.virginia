@@ -75,7 +75,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>DistrictOfColumbia_2008_ANC02</gco:CharacterString>
+                        <gco:CharacterString>District Of Columbia 2008 ANC02</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -100,7 +100,8 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Advisory Neighborhood Commission Board of Elections from 2002 for Washington, DC.</gco:CharacterString>
+                <gco:CharacterString>Advisory Neighborhood Commission Board of Elections
+                    for Washington, DC. from 2002</gco:CharacterString>
             </gmd:abstract>
             <gmd:purpose gco:nilReason="missing">
                 <gco:CharacterString/>
@@ -284,7 +285,7 @@
                         />
                     </gmd:useConstraints>
                     <gmd:otherConstraints>
-                        <gco:CharacterString>UVa on-grounds access only</gco:CharacterString>
+                        <gco:CharacterString>public</gco:CharacterString>
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>

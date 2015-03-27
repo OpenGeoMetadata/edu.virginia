@@ -75,7 +75,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>DistrictOfColumbia_2008_AOCBuildings</gco:CharacterString>
+                        <gco:CharacterString>District Of Columbia 2008 AOC Buildings</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -284,7 +284,7 @@
                         />
                     </gmd:useConstraints>
                     <gmd:otherConstraints>
-                        <gco:CharacterString>UVa on-grounds access only</gco:CharacterString>
+                        <gco:CharacterString>public</gco:CharacterString>
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
