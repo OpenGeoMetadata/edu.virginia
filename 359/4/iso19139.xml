@@ -96,7 +96,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Afghanistan_2005_Cultivated</gco:CharacterString>
+                        <gco:CharacterString>Afghanistan 2005 Cultivated Areas</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -233,7 +233,7 @@
                         />
                     </gmd:useConstraints>
                     <gmd:otherConstraints>
-                        <gco:CharacterString>UVA on-grounds access only</gco:CharacterString>
+                        <gco:CharacterString>public</gco:CharacterString>
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
