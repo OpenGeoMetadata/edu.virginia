@@ -75,7 +75,7 @@
    <gmd:citation>
     <gmd:CI_Citation>
      <gmd:title>
-      <gco:CharacterString>Alexandria_2004_CityLimist</gco:CharacterString>
+      <gco:CharacterString>Alexandria 2004 City Limits polyline</gco:CharacterString>
      </gmd:title>
      <gmd:date>
       <gmd:CI_Date>
@@ -95,7 +95,7 @@
     </gmd:CI_Citation>
    </gmd:citation>
    <gmd:abstract>
-    <gco:CharacterString>City limits for Alexandria, Virginia.</gco:CharacterString>
+    <gco:CharacterString>City limits polyline feature for Alexandria, Virginia.</gco:CharacterString>
    </gmd:abstract>
    <gmd:status>
     <gmd:MD_ProgressCode codeListValue="completed"
@@ -271,7 +271,7 @@
        codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_RestrictionCode"/>
      </gmd:useConstraints>
      <gmd:otherConstraints>
-      <gco:CharacterString>UVa on-grounds access only</gco:CharacterString>
+      <gco:CharacterString>public</gco:CharacterString>
      </gmd:otherConstraints>
     </gmd:MD_LegalConstraints>
    </gmd:resourceConstraints>
