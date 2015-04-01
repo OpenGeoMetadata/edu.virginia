@@ -77,7 +77,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>USGS quadrangle index maps (Datastack)</gco:CharacterString>
+                        <gco:CharacterString>ESRI 2009 1:24,000 USGS quad index metadata</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -101,36 +101,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This data collection (stacked series) consists of a series of index maps used to locate and identify corresponding USGS topographic maps 
-and orthophoto imagery.  The data are ultimately derived from publically-available USGS data.  The spatial extents of these data cover the 
-state of Virginia and represent a subset of the full national coverage of the original datasets.  This data is provided by UVA Library’s 
-Scholars’ Lab AS-IS with no guarantees as regards to its accuracy or temporal currency.  
-
-*//*
-
-The Digital Orthophoto Quarter Quadrangle (DOQQ) inventory map is of unknown initial provenance.  It has had additional attribute data added 
-to it by the Scholars' Lab concerning the archival status and location of each individual VA DOQQ image in our collection.  Included in that 
-additional information is the data on which each individual photo was taken.  The DOQQ data itself can currently by accessed through UVA Library's 
-Virginia Gazetteer Database (http://www.lib.virginia.edu/scholarslab/resources/gis/vagaz/index.html) if the DOQQ is listed as being located on 
-Fisher (On_Fisher = 1); otherwise it can be retrieved by staff of the 
-Scholars' Lab if it is located on CD (On_CD = 1).  Additionally, the vast majority of the DOQQs can be acquired online from the USGS's Seamless 
-Data Warehouse (seamless.usgs.gov) except in cases where more current photos have replaced those in our collection.
-
-*//*
-
-The three full quadrangle index maps (at 1:250,000 and 1:100,000 and 1:24,000 scale) are VA subsets derived from the national index maps created and 
-distributed by ESRI from source data obtained from USGS and ArcUSA.  These geodata have been provided to UVA through its 
-ArcGIS license agreements with ESRI and are redistributable without a Value-Added Software Application (i.e., adding the sample data to an 
-existing, [non]commercial data set for redistribution) with proper metadata and source/copyright attribution to the respective data vendor(s).  
-For complete metadata of the source quadrangle index maps, please refer to our Geospatial Data Portal metadata records for the original 
-ESRI_USA datastack and its individual layers.
-
-*//* 
-
-These data were made available to the University of Virginia for educational and research uses only. Access is restricted to students, 
-faculty and staff of the University of Virginia.
-
-*//* *//* SPECIAL SLAB NOTE: These datasets reside on the NEW SLAB SHARED DRIVE, and have been uploaded into PostGIS. Namespace and Datastore folders have been created in GeoServer and Pointsman, but the individual webservices have NOT yet been created (and therefore the links to the "layers" below will not work!!!).</gco:CharacterString>
+                <gco:CharacterString>Metadata for full quadrangle index maps at 1:24,000 scale</gco:CharacterString>
             </gmd:abstract>
             <gmd:purpose gco:nilReason="missing">
                 <gco:CharacterString/>
