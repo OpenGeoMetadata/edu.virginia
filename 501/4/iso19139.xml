@@ -94,7 +94,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>CharlottesvilleLandCo_1890_MinorVenable</gco:CharacterString>
+                        <gco:CharacterString>Charlottesville Land Co 1890 Minor Venable</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -306,8 +306,8 @@
                             codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_RestrictionCode"
                         />
                     </gmd:useConstraints>
-                    <gmd:otherConstraints gco:nilReason="missing">
-                        <gco:CharacterString/>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>public</gco:CharacterString>
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>

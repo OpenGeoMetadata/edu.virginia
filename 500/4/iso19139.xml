@@ -77,7 +77,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>USGS Virginia Geographic Names Information System (GNIS) Culteral Place Names</gco:CharacterString>
+                        <gco:CharacterString>USGS Virginia Geographic Names Information System (GNIS) 2009 Culteral Place Names</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -288,6 +288,9 @@
                     <gmd:useConstraints>
                         <gmd:MD_RestrictionCode codeListValue="" codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_RestrictionCode"/>
                     </gmd:useConstraints>
+                    <gmd:otherConstraints>
+                        <gco:CharacterString>public</gco:CharacterString>
+                    </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
             <gmd:spatialRepresentationType>
@@ -300,7 +303,7 @@
                 <gmd:MD_CharacterSetCode codeListValue="utf8" codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_CharacterSetCode"/>
             </gmd:characterSet>
             <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode>location</gmd:MD_TopicCategoryCode>
+                <gmd:MD_TopicCategoryCode>society</gmd:MD_TopicCategoryCode>
             </gmd:topicCategory>
             <gmd:extent>
                 <gmd:EX_Extent>
