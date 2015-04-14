@@ -101,7 +101,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>City limits for Charlottesville, Virginia.  Data from 2000 US census.</gco:CharacterString>
+                <gco:CharacterString>City limits for Charlottesville, Virginia. Data from 2000 US census.</gco:CharacterString>
             </gmd:abstract>
             <gmd:purpose gco:nilReason="missing">
                 <gco:CharacterString/>
@@ -258,6 +258,7 @@
                 </gmd:MD_MaintenanceInformation>
             </gmd:resourceMaintenance>
             <gmd:graphicOverview>
+            <gmd:graphicOverview>
                 <gmd:MD_BrgeoservereGraphic>
                     <gmd:fileName>
                         <gco:CharacterString>cville2007_thumb150.jpg</gco:CharacterString>
@@ -270,7 +271,6 @@
                     </gmd:fileType>
                 </gmd:MD_BrgeoservereGraphic>
             </gmd:graphicOverview>
-            <gmd:graphicOverview>
                 <gmd:MD_BrgeoservereGraphic>
                     <gmd:fileName>
                         <gco:CharacterString>cville2007_thumb600.jpg</gco:CharacterString>

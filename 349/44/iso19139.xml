@@ -101,7 +101,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Bike routes for Charlottesville, Virginia</gco:CharacterString>
+                <gco:CharacterString>Bike routes for Charlottesville, Virginia.</gco:CharacterString>
             </gmd:abstract>
             <gmd:purpose gco:nilReason="missing">
                 <gco:CharacterString/>
