@@ -112,7 +112,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>USGS Geologic Faults for Virginia</gco:CharacterString>
+                <gco:CharacterString>USGS Geologic Faults for Virginia.</gco:CharacterString>
             </gmd:abstract>
             <gmd:purpose gco:nilReason="missing">
                 <gco:CharacterString/>
@@ -303,7 +303,7 @@
                         <gmd:MD_RestrictionCode codeListValue="otherRestrictions" codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_RestrictionCode"/>
                     </gmd:useConstraints>
                     <gmd:otherConstraints>
-                        <gco:CharacterString>Public</gco:CharacterString>
+                        <gco:CharacterString>public</gco:CharacterString>
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
