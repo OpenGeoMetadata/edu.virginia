@@ -77,7 +77,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>City of Charlottesville 2010 GIS Datasets  (Datastack)</gco:CharacterString>
+                        <gco:CharacterString>Charlottesville 2010 Surface Water Lines</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -101,43 +101,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This collection (stacked series) of datasets is provided to the UVA Library's Scholars' Lab by the Information Technology Department of the City of Charlottesville, Virginia, USA, and is provided AS-IS with no guarantees as regards to its accuracy or temporal currency. It pertains primarily to the infrastructure and land use within the City of Charlottesville as well as                related natural features. * // * 
-The temporal extent of the datasets in the datastack is generally current as of August 2010, but some datasets may include data that originated earlier. 
-* // * 
-This dataset updates some but not all of the the GIS layers included in the City of Charlottesville 2007 Datastack.
- * // * 
-Datasets/Layers included in this datastack (with non-exclusive list of included attributes): 
-
-* City Boundaries 
-* City Neighborhoods 
-* Historic Districts 
-* Enterance Corridors
-* Voting Precincts 
-* Voting places - incl. polling place name and precint #. 
-* Buildings and Structures (footprints only) 
-* Slabs (plazas, patios, tennis courts, etc.) 
-* Miscellaneous buildings 
-* Swimming pools 
-* Walls 
-* Parcels (polygon shape) - incl. property &amp; parcel#, zoning, historic designation, address, zip code, owner, zoning, legal description, acreage. 
-* Multiple (MLTP) parcels - parcels with subdivisions. 
-* Steep vacant parcels 
-* Parks - incl. park name and type. 
-* Elevation Contours - 2 ft. amsl contours, index and interval contours noted. 
-* Survey points and Control points 
-* Street Centerlines - street name and additional geocoding/address matching info. 
-* Street Edges and areas 
-* Bridges 
-* Alleys 
-* Driveways 
-* Parking areas 
-* Parking Exemption zones 
-* Pedestrian sidewalks and walkways 
-* Surface Water features (lines and polygons) - Streams, Rivers, Ponds. 
-
-* // * These data were made available to the University of Virginia for educational and research uses only.       Access is restricted to students, faculty and staff of the University of Virginia.
-
-*//* *//* SPECIAL SLAB NOTE: These datasets reside on the NEW SLAB SHARED DRIVE, and have been uploaded into PostGIS. Namespace and Datastore folders have been created in GeoServer and Pointsman, but the individual webservices have NOT yet been created (and therefore the links to the "layers" below will not work!!!).</gco:CharacterString>
+                <gco:CharacterString>Surface water line features, including streams, rivers, and ponds, in Charlottesville, Virginia.</gco:CharacterString>
             </gmd:abstract>
             <gmd:purpose gco:nilReason="missing">
                 <gco:CharacterString/>
@@ -328,7 +292,7 @@ Datasets/Layers included in this datastack (with non-exclusive list of included 
                         <gmd:MD_RestrictionCode codeListValue="otherRestrictions" codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_RestrictionCode"/>
                     </gmd:useConstraints>
                     <gmd:otherConstraints>
-                        <gco:CharacterString>UVA on-grounds access only</gco:CharacterString>
+                        <gco:CharacterString>public</gco:CharacterString>
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
