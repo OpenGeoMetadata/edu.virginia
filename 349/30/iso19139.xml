@@ -101,7 +101,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Storm Structures for Charlottesville, Virginia</gco:CharacterString>
+                <gco:CharacterString>Storm Structures for Charlottesville, Virginia.</gco:CharacterString>
             </gmd:abstract>
             <gmd:purpose gco:nilReason="missing">
                 <gco:CharacterString/>

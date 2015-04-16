@@ -101,7 +101,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Parcels for Charlottesville, Virginia.  Data is from 1999.</gco:CharacterString>
+                <gco:CharacterString>Parcels for Charlottesville, Virginia. Data is from 1999.</gco:CharacterString>
             </gmd:abstract>
             <gmd:purpose gco:nilReason="missing">
                 <gco:CharacterString/>
