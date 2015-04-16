@@ -88,7 +88,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Pitner's 1920 Map of Albemarle County, VA</gco:CharacterString>
+                        <gco:CharacterString>Pitner's 1920 Map of Albemarle County, VA. Only inset of Charlottesville, Virginia.</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -108,7 +108,7 @@
             <gmd:abstract>
                 <gco:CharacterString>
 * Published by Carl Pitner, 404 Star Bldg., Washington-D.C.
-* Includes a detailed inset map of Charlottesville at 1:6000 scale (full county map at 1:128000).
+* Detailed inset map of Charlottesville at 1:6000 scale.
 * Shgeoserver white schools, high schools, colored schools, churches, improved roads, unimproved roads, district boundaries and railroads.
 * Also includes historic places and landmarks.
 * Other copies (not this one) were issued with printed statement "Compliments of the National Bank and Trust Co., Charlottesville, Va."

@@ -86,7 +86,7 @@
    <gmd:citation>
     <gmd:CI_Citation>
      <gmd:title>
-      <gco:CharacterString>Albemarle 2010 Critical Slopes in Year 2007</gco:CharacterString>
+      <gco:CharacterString>Albemarle 2010 Critical Slopes 2007</gco:CharacterString>
      </gmd:title>
      <gmd:date>
       <gmd:CI_Date>
@@ -104,7 +104,7 @@
     </gmd:CI_Citation>
    </gmd:citation>
    <gmd:abstract>
-    <gco:CharacterString>Critical slopes in the year 2007 in Albemarle County, Virginia</gco:CharacterString>   </gmd:abstract>
+    <gco:CharacterString>Critical slopes from 2007 in Albemarle County, Virginia.</gco:CharacterString>   </gmd:abstract>
    <gmd:status>
     <gmd:MD_ProgressCode codeListValue="completed" codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_ProgressCode"/>
    </gmd:status>
