@@ -91,8 +91,7 @@
    <gmd:citation>
     <gmd:CI_Citation>
      <gmd:title>
-      <gco:CharacterString>Sanborn Fire Insurance Maps - Charlottesville, VA -
-       1920 Map 26</gco:CharacterString>
+      <gco:CharacterString>Sanborn Fire Insurance Maps - Charlottesville, VA - 1920 Map 26</gco:CharacterString>
      </gmd:title>
      <gmd:date>
       <gmd:CI_Date>
@@ -204,8 +203,8 @@
       <gmd:MD_RestrictionCode codeListValue=""
        codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_RestrictionCode"/>
      </gmd:useConstraints>
-     <gmd:otherConstraints gco:nilReason="missing">
-      <gco:CharacterString>public</gco:CharacterString></gco:CharacterStringp>
+     <gmd:otherConstraints>
+      <gco:CharacterString>public</gco:CharacterString>
      </gmd:otherConstraints>
     </gmd:MD_LegalConstraints>
    </gmd:resourceConstraints>

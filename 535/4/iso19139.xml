@@ -106,7 +106,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Title: Carte de la campagne en Virginie du Major Général Mis. de la Fayette ou se trouvent les camps et marches ainsy gue ceux du Lieutent. Général Lord Cornwallis en 1781 Author: Du Chesnoy, Michael Credit: Area Table 755-421 1781 Du Chesnoy 1961</gco:CharacterString>
+                <gco:CharacterString>Author: Du Chesnoy, Michael Credit: Area Table 755-421 1781 Du Chesnoy 1961</gco:CharacterString>
             </gmd:abstract>
             <gmd:purpose gco:nilReason="missing">
                 <gco:CharacterString/>

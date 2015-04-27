@@ -106,8 +106,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Title: A new map of the English empire in America : viz Virginia New York MaryLand New Iarsey Carolina New England Pennsylvania Newfoundland New France &amp;c. 
-Author: Morden, Robert
+                <gco:CharacterString>Author: Morden, Robert
 Credit: Area Table 7 1695 Morden</gco:CharacterString>
             </gmd:abstract>
             <gmd:purpose gco:nilReason="missing">

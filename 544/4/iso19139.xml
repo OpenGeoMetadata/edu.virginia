@@ -87,7 +87,7 @@
    <gmd:citation>
     <gmd:CI_Citation>
      <gmd:title>
-      <gco:CharacterString>Massie - 1907 - A new and historical map of Albemarle County, Virginia - by Frank A. Massie.</gco:CharacterString>
+      <gco:CharacterString>Massie - 1907 - A new and historical map of Albemarle County, Virginia</gco:CharacterString>
      </gmd:title>
      <gmd:date>
       <gmd:CI_Date>
@@ -106,7 +106,6 @@
    </gmd:citation>
    <gmd:abstract>
     <gco:CharacterString>Author: Frank A. Massie.  Credit: Owned and published by the Virginia School Company, 1907.  UVA library call#: G3883 .A3 1907 .M3.
- * // * 
 * Inset: Junction rail road map of Virginia, also showing relative position of Albemarle Co. in the state.
 * Includes statistics for Albemarle County and Charlottesville for 1906; population figures for 1900.
 * Elevation indicated by hachures.

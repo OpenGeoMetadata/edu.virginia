@@ -106,8 +106,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Title: A new and accurate map of Virginia &amp; Maryland : laid down from surveys and regulated by astronl. observatns.
-Author: Bowen, Emanuel
+                <gco:CharacterString>Author: Bowen, Emanuel
 Credit: Area Table 755 1752 Bowen</gco:CharacterString>
             </gmd:abstract>
             <gmd:purpose gco:nilReason="missing">

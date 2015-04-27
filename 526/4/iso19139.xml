@@ -106,8 +106,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>* Title: Pas kaart van de zee kusten van Virginia : tusschen C. Henry en t hooge land van Renselaars Hoek, door vooght geometra / t Amsterdam by Johannis van Keulen, boek en zee kaart verkoper aande niewe brug inde Gekroonde Lootsman, met privilegie voor 15 jaaren.
-* Author: Keulen, Johannes van
+                <gco:CharacterString>* Author: Keulen, Johannes van
 * Credit: Area Table 755 1684 Keulen
 * Copy 1: Uncolored.</gco:CharacterString>
             </gmd:abstract>

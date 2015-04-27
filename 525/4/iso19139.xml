@@ -106,9 +106,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Title: A plan of the entrance of Chesapeak Bay, with James and York Rivers : wherein are shown the respective positions (in the beginning of October) 1. of the British army commanded by Lord Cornwallis, at Gloucester and York in Virginia; 2. of the American and French forces under General Washington, 3. and of the French fleet under Count de Grasse 
-
-Credit: Area Table 755-421 1781 Officer</gco:CharacterString>
+                <gco:CharacterString>Credit: Area Table 755-421 1781 Officer</gco:CharacterString>
             </gmd:abstract>
             <gmd:purpose gco:nilReason="missing">
                 <gco:CharacterString/>
