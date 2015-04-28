@@ -81,7 +81,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Chesapeake Bay Program 2003 Railroads</gco:CharacterString>
+                        <gco:CharacterString>Chesapeake Bay Program 2003 All Railroads</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -111,7 +111,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Railroads for the Chesapeake Bay Program.</gco:CharacterString>
+                <gco:CharacterString>All railroads for the Chesapeake Bay Program.</gco:CharacterString>
             </gmd:abstract>
             <gmd:purpose gco:nilReason="missing">
                 <gco:CharacterString/>

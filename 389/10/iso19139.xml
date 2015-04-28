@@ -81,7 +81,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Loudoun 2005 Street Centerlines</gco:CharacterString>
+                        <gco:CharacterString>Loudoun 2005 Road Centerlines</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -108,7 +108,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Street centerlines for Loudoun County, Virginia.</gco:CharacterString>
+                <gco:CharacterString>Road centerlines for Loudoun County, Virginia.</gco:CharacterString>
             </gmd:abstract>
             <gmd:purpose gco:nilReason="missing">
                 <gco:CharacterString/>

@@ -332,27 +332,6 @@
             <gmd:topicCategory>
                 <gmd:MD_TopicCategoryCode>imageryBaseMapsEarthCover</gmd:MD_TopicCategoryCode>
             </gmd:topicCategory>
-            <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode/>
-            </gmd:topicCategory>
-            <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode/>
-            </gmd:topicCategory>
-            <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode/>
-            </gmd:topicCategory>
-            <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode/>
-            </gmd:topicCategory>
-            <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode/>
-            </gmd:topicCategory>
-            <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode/>
-            </gmd:topicCategory>
-            <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode/>
-            </gmd:topicCategory>
             <gmd:extent>
                 <gmd:EX_Extent>
                     <gmd:geographicElement>

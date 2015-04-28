@@ -81,7 +81,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Loudoun 2005 ?????????????????????????</gco:CharacterString>
+                        <gco:CharacterString>Loudoun 2005 Rescue Company’s First Due Areas</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -108,7 +108,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>???????????????????????????????????</gco:CharacterString>
+                <gco:CharacterString>Rescue company’s first due areas for Loudoun County, Virginia.</gco:CharacterString>
             </gmd:abstract>
             <gmd:purpose gco:nilReason="missing">
                 <gco:CharacterString/>
@@ -325,7 +325,7 @@
                 />
             </gmd:characterSet>
             <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode>?????????????????????????????</gmd:MD_TopicCategoryCode>
+                <gmd:MD_TopicCategoryCode>boundaries</gmd:MD_TopicCategoryCode>
             </gmd:topicCategory>
             <gmd:extent>
                 <gmd:EX_Extent>

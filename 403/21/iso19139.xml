@@ -91,7 +91,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Mountain Lake Biological Station Roads</gco:CharacterString>
+                        <gco:CharacterString>Mountain Lake Biological Station 2009 All Roads</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -113,7 +113,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Roads for the Mountain Lake Biological Station.</gco:CharacterString>
+                <gco:CharacterString>Roads for the Mountain Lake Biological Station and surrounding areas.</gco:CharacterString>
             </gmd:abstract>
             <gmd:status>
                 <gmd:MD_ProgressCode codeListValue="completed"
@@ -300,33 +300,7 @@
                         />
                     </gmd:useConstraints>
                     <gmd:otherConstraints>
-                        <gco:CharacterString>CONDITIONS OF USE: By accessing these data you agree to
-                            these conditions: 1) NOT to use them for any commercial activity or for
-                            the generation of profit for you or any subsequent user, group or
-                            organization. 2) To keep data sets, metadata, and authorship information
-                            intact so that the integrity of the project and its sources are
-                            maintained and are obvious to any user. 3) To full acknowledge in any
-                            publication, report, or project, both the University of Virginia's
-                            Mountain Lake Biological Station and Virginia Polytechnic Institute and
-                            State University's Fish and Wildlife Information Exchange as creators
-                            and authors of the project. 4) NOT to duplicate or distribute these data
-                            without explicit permission by Mountain Lake Biological Station. The
-                            Mountain Lake Biological Station shares its databases in the spirit of a
-                            free and open exchange of information and ideas for the sake of
-                            advancing scientific knowledge and understanding. Any effort consistent
-                            with this philology is welcome to the use of these data. While use of
-                            data is permitted, ownership of the data remains with Mountain Lake
-                            Biological Station. Permission for use can be revoked at any time. This
-                            statement, at minimum, must appear in any printed or electronic product
-                            resulting from use of these data: "Geographic Information System Data
-                            sets were provided by Mountain Lake Biological Station, University of
-                            Virginia." Following publication, please send two copies of the paper,
-                            report, or article to: University of Virginia Mountain Lake Biological
-                            Station P.O. Box 400327 Charlottesville VA 22904-4327
-                            www.virginia.edu/~mtlake mtlake@virginia.edu 804-982-5486 Please direct
-                            any questions or correspondence relating to these data to the above
-                            address. 06 November 2000 Eric Nagy, Associate
-                            Director.</gco:CharacterString>
+                        <gco:CharacterString>public</gco:CharacterString>
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>

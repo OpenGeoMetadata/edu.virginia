@@ -91,8 +91,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Mountain Lake Biological Station Datasets
-                            (Datastack)</gco:CharacterString>
+                        <gco:CharacterString>Mountain Lake Biological Station 2009 Spring_t</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -114,93 +113,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>This collection (stacked series) of datasets is provided to the
-                    UVA Library's Scholars' Lab by the University of Virginia's Mountain Lake
-                    Biological Station, and is provided AS-IS with no guarantees as regards to its
-                    accuracy or temporal currency. It pertains primarily to the infrastructure, land
-                    cover and land use, and natural physical features of MLBS and the surrounding
-                    region, for use in assisting on-going scientific research and education at MLBS.
-                    * // * The TEMPORAL EXTENT of the datasets in the datastack depend upon their
-                    source: MLBS-created (2000-2007), USFS (1997), USCB (1995), USGS (variable), CAD
-                    survey data (1991), VAGAP (1999), Landsat (?), SPOT (?), but some datasets may
-                    include attribute data from earlier periods. * // * For datasets derived from
-                    DEM data (elevation, slope, aspect, hillshading, derived hydrology and watershed
-                    basins, etc) there are often two versions of the data; one covering a
-                    6-quadrangle study area centered on MLBS, the other an extended 15-quadrangle
-                    area. Some of the other datasets derive from USFS-provided data (either from GWJ
-                    NF or from the JNF-Blacksburg Ranger district), others from US Census TIGER 1995
-                    data, others were created by MLBS researchers from survey data they collected at
-                    MLBS. In the case of thematically-duplicated-but-not-identical datasets from
-                    different sources, a single thematic description is provided (here in the
-                    abstract); see individual file listings for more info. *//* THEMATIC
-                    DATASETS/LAYERS included in this datastack (with non-exclusive list of included
-                    attributes): * Mountain Lake Biological Station location. * MLBS Trail System of
-                    named trails * Mt. Lake Biological Station Pond * Outline of the old Mt. Lake
-                    Golf Course * Mountain Lake Biological Station AutoCAD Drawing (ca. 1991) - with
-                    buildings, trees, outcrops, utilities, etc. * GPS Ground Control Points at MLBS
-                    * USGS Salt Pond Benchmark * Study area boundaries * Boundaries of Craig, Giles,
-                    Montgomery and Monroe (WV) Counties * USGS 7.5 minute topographic quadrangle
-                    boundaries * Bear Cliffs location * George Washington-Jefferson National
-                    Forest/Blacksburg Ranger District surface land ownership (USFS vs private
-                    inholdings) - incl. tract no. * GWJNF administrative and district boundaries *
-                    Forest Service management areas adjacent to the Appalachian Trail * Jefferson NF
-                    old growth forest management areas * JNF roadless areas * JNF wilderness
-                    management areas * Road networks (county/city, state, federal, forest service) -
-                    incl. limited geocoding/address matching info (tiger only) * Railroads * Major
-                    Utility Lines * Regional Landmarks * Rural and Urban Population Densities *
-                    Populated Places (1995) of Blacksburg, Pearisburg, and Pembroke * Peter's
-                    Mountain Ridge, WV * Streams and Rivers - incl. intermittent or perennial status
-                    (tiger only) * Open Water (ponds, lakes, wide rivers) * Depressionless DEM
-                    elevation models - 30m resoultion, Z to nearest 1m * 100 meter interval
-                    Elevation Contours * DEM-derived slopes * DEM-derived aspects - in degrees or 8
-                    cardinal directions * DEM-derived hillshading * DEM-derived flow accumulation *
-                    DEM-derived flow direction * DEM-derived Drainage basins * DEM-derived Watershed
-                    boundaries * DEM-derived Stream Networks * VAGAP Landcover classes (33
-                    categories) * Landsat TM Scene * SPOT PN panchromatic Scene *//* ========
-                    ========= ========= ========= ======== ========= ========= *//* HISTORY
-                    (Lineage): MLBS Trail locations are based on raw GPS data collected by Eric
-                    Nagy. * The GWJ National Forest themes were derived from Arc/Info coverages
-                    produced at 1:24000 scale by Blacksburg Ranger District. Similar data sets were
-                    not available for the adjacent Monongahelia National Forest in West Virginia.
-                    GWJNF Datasets were acquired from the George Washington and Jefferson National
-                    Forest GIS Database at http://svinet2.fs.fed.us/gwjnf/ftp. GWJNF data was
-                    subsequently clipped with the study area extent and converted to shapefiles. *
-                    The US Census county boundary, rivers and creeks, and roads coverages were
-                    derived from shapefile format 1:100,000 U.S. Census Bureau TIGER/Line95 county
-                    data referenced to the North American Datum of 1983 (NAD83) in decimal degrees
-                    of latitude/longitude and converted to NAD 27 UTM zone 17 N meters. Data was
-                    then clipped with the county boundary. * Fifteen (or six) 1:24000 USGS
-                    quadrangle Digital Elevation Models (DEMs) were needed to cover Giles County (or
-                    the more limited study area). DEMS were acquired in Spatial Data Transfer
-                    Standard (SDTS) format from the U.S. Geological Survey website at
-                    http://edcftp.cr.usgs.gov/pub/data/DEM/7.5min . The SDTS files were expanded
-                    using WinZip32 and converted to DEM format with the stds2dem utility. The DEM
-                    files were imported into TNTmips and combined into a single raster with the
-                    TNTmips Mosaic process and the bilinear interpolation method of resampling.
-                    Missing data in the mosaicked raster were corrected using an SML script that
-                    identified "empty" cells and replaced their values with an unweighted average of
-                    the eight-cell neighborhood. A depressionless elevation raster was created from
-                    the corrected mosaic using the TNTmips Watershed process, then exported as an
-                    8-bit unsigned raster in ERDAS format. The ERDAS file was then converted to
-                    Arc/Info GRID format. * The various slope, aspect, hillshaing, and watershed
-                    datasets were derived in a series of steps from the depressionless elevation
-                    raster in Arc/Info GRID using topographic and hydrologic tools. The basins,
-                    watersheds, and streamnet grids were subsequently converted to polygon coverages
-                    and then to shapefiles. * The landcover map was completed by the Virginia Gap
-                    Analysis Project (VAGAP) and was obtained from the digital library at the
-                    Virginia Tech Fish and Wildlife Information Exchange (VT-FWIE). The landcover
-                    raster was converted to Arc/Info GRID format and then clipped with the county
-                    boundary polygon. * The 30m resolution Landsat Thematic Mapper (TM) six-band
-                    composite image was obtained from VT-FWIE. The ERDAS format file was imported
-                    into TNTmips and all six bands were clipped with the study area boundary polygon
-                    using the TNTmips Extract-by-Vector process. The clipped six-band composite
-                    image was exported back into ERDAS format. * Two SPOT scenes were needed to
-                    cover the MLBS study area. The 10m resolution SPOT Panchromatic (PN) single-band
-                    images were obtained from VT-FWIE. The ERDAS format files were imported into
-                    TNTmips and clipped with the study area boundary polygon using the TNTmips
-                    Extract-by-Vector process. The clipped images were combined with the TNTmips
-                    Mosaic process and the cubic convolution method of resampling. The single-band
-                    mosaicked image was exported back into ERDAS format.</gco:CharacterString>
+                <gco:CharacterString>Spring_t for the Mountain Lake Biological Station.</gco:CharacterString>
             </gmd:abstract>
             <gmd:status>
                 <gmd:MD_ProgressCode codeListValue="completed"
@@ -387,33 +300,7 @@
                         />
                     </gmd:useConstraints>
                     <gmd:otherConstraints>
-                        <gco:CharacterString>CONDITIONS OF USE: By accessing these data you agree to
-                            these conditions: 1) NOT to use them for any commercial activity or for
-                            the generation of profit for you or any subsequent user, group or
-                            organization. 2) To keep data sets, metadata, and authorship information
-                            intact so that the integrity of the project and its sources are
-                            maintained and are obvious to any user. 3) To full acknowledge in any
-                            publication, report, or project, both the University of Virginia's
-                            Mountain Lake Biological Station and Virginia Polytechnic Institute and
-                            State University's Fish and Wildlife Information Exchange as creators
-                            and authors of the project. 4) NOT to duplicate or distribute these data
-                            without explicit permission by Mountain Lake Biological Station. The
-                            Mountain Lake Biological Station shares its databases in the spirit of a
-                            free and open exchange of information and ideas for the sake of
-                            advancing scientific knowledge and understanding. Any effort consistent
-                            with this philology is welcome to the use of these data. While use of
-                            data is permitted, ownership of the data remains with Mountain Lake
-                            Biological Station. Permission for use can be revoked at any time. This
-                            statement, at minimum, must appear in any printed or electronic product
-                            resulting from use of these data: "Geographic Information System Data
-                            sets were provided by Mountain Lake Biological Station, University of
-                            Virginia." Following publication, please send two copies of the paper,
-                            report, or article to: University of Virginia Mountain Lake Biological
-                            Station P.O. Box 400327 Charlottesville VA 22904-4327
-                            www.virginia.edu/~mtlake mtlake@virginia.edu 804-982-5486 Please direct
-                            any questions or correspondence relating to these data to the above
-                            address. 06 November 2000 Eric Nagy, Associate
-                            Director.</gco:CharacterString>
+                        <gco:CharacterString>public</gco:CharacterString>
                     </gmd:otherConstraints>
                 </gmd:MD_LegalConstraints>
             </gmd:resourceConstraints>
@@ -431,10 +318,7 @@
                 />
             </gmd:characterSet>
             <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode>boundaries</gmd:MD_TopicCategoryCode>
-            </gmd:topicCategory>
-            <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode>planningCadastre</gmd:MD_TopicCategoryCode>
+                <gmd:MD_TopicCategoryCode>???????????</gmd:MD_TopicCategoryCode>
             </gmd:topicCategory>
             <gmd:extent>
                 <gmd:EX_Extent>

@@ -81,7 +81,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Loudoun 2005 PSFL Grid</gco:CharacterString>
+                        <gco:CharacterString>Loudoun 2005 PSF1 Grid</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -108,7 +108,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>PSFL grid for Loudoun County, Virginia.</gco:CharacterString>
+                <gco:CharacterString>PSF1 grid for Loudoun County, Virginia.</gco:CharacterString>
             </gmd:abstract>
             <gmd:purpose gco:nilReason="missing">
                 <gco:CharacterString/>

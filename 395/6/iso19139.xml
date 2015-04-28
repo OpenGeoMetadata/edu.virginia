@@ -81,7 +81,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Virginia Base Map Program VGIN Tile 200 North</gco:CharacterString>
+                        <gco:CharacterString>Virginia Base Map Program 2007 VGIN Tile 200 North</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -331,27 +331,6 @@
             </gmd:characterSet>
             <gmd:topicCategory>
                 <gmd:MD_TopicCategoryCode>imageryBaseMapsEarthCover</gmd:MD_TopicCategoryCode>
-            </gmd:topicCategory>
-            <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode/>
-            </gmd:topicCategory>
-            <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode/>
-            </gmd:topicCategory>
-            <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode/>
-            </gmd:topicCategory>
-            <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode/>
-            </gmd:topicCategory>
-            <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode/>
-            </gmd:topicCategory>
-            <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode/>
-            </gmd:topicCategory>
-            <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode/>
             </gmd:topicCategory>
             <gmd:extent>
                 <gmd:EX_Extent>

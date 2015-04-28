@@ -81,7 +81,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Chesapeake Bay Program 2003 Segments 1997</gco:CharacterString>
+                        <gco:CharacterString>Chesapeake Bay Program 2003 Segmentation Scheme 1997</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -111,7 +111,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Segments from 1997 for the Chesapeake Bay Program.</gco:CharacterString>
+                <gco:CharacterString>Segmentation scheme from 1997 for the Chesapeake Bay.</gco:CharacterString>
             </gmd:abstract>
             <gmd:purpose gco:nilReason="missing">
                 <gco:CharacterString/>
