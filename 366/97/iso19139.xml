@@ -78,7 +78,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Fairfax 2006 Tax Map</gco:CharacterString>
+                        <gco:CharacterString>Fairfax 2006 Tax Map Grid</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -100,7 +100,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Tax map for Fairfax County, Virginia.</gco:CharacterString>
+                <gco:CharacterString>Tax map grid for Fairfax County, Virginia.</gco:CharacterString>
             </gmd:abstract>
             <gmd:status>
                 <gmd:MD_ProgressCode codeListValue="completed"
