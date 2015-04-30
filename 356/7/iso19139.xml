@@ -75,7 +75,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>District of Columbia 2008 Abra Licensee</gco:CharacterString>
+                        <gco:CharacterString>District of Columbia 2008 ABRA Licensee</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -100,7 +100,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Abra Licensee locations for Washington, DC.</gco:CharacterString>
+                <gco:CharacterString>Achoholic Beverage Regulation Administration Licensee locations for Washington, DC.</gco:CharacterString>
             </gmd:abstract>
             <gmd:purpose gco:nilReason="missing">
                 <gco:CharacterString/>
