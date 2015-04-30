@@ -105,7 +105,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>RR mile markers for Albemarle County, Virginia.</gco:CharacterString>
+                <gco:CharacterString>Railroad mile markers for Albemarle County, Virginia.</gco:CharacterString>
             </gmd:abstract>
             <gmd:status>
                 <gmd:MD_ProgressCode codeListValue="completed" codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_ProgressCode"/>
