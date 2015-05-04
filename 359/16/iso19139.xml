@@ -118,7 +118,7 @@
                 </gmd:CI_Citation>
             </gmd:citation>
             <gmd:abstract>
-                <gco:CharacterString>Rivers as polygons for Afghanistan.</gco:CharacterString>
+                <gco:CharacterString>River polygon features for Afghanistan.</gco:CharacterString>
             </gmd:abstract>
             <gmd:status>
                 <gmd:MD_ProgressCode codeListValue="completed"
