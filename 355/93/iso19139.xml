@@ -87,7 +87,7 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Albemarle 2007 Histoic Landmarks</gco:CharacterString>
+                        <gco:CharacterString>Albemarle 2007 Historic Landmarks</gco:CharacterString>
                     </gmd:title>
                     <gmd:date>
                         <gmd:CI_Date>
@@ -296,7 +296,7 @@
                 <gmd:MD_CharacterSetCode codeListValue="utf8" codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_CharacterSetCode"/>
             </gmd:characterSet>
             <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode>structure</gmd:MD_TopicCategoryCode>
+                <gmd:MD_TopicCategoryCode>location</gmd:MD_TopicCategoryCode>
             </gmd:topicCategory>
             <gmd:extent>
                 <gmd:EX_Extent>

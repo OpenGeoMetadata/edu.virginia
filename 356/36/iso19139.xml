@@ -302,7 +302,7 @@
                 />
             </gmd:characterSet>
             <gmd:topicCategory>
-                <gmd:MD_TopicCategoryCode>health</gmd:MD_TopicCategoryCode>
+                <gmd:MD_TopicCategoryCode>location</gmd:MD_TopicCategoryCode>
             </gmd:topicCategory>
             <gmd:extent>
                 <gmd:EX_Extent>
