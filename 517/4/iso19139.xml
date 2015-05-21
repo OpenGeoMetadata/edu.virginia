@@ -221,7 +221,7 @@
                                 </gmd:MD_MaintenanceInformation>
                         </gmd:resourceMaintenance>
                         <gmd:graphicOverview>
-                                <gmd:MD_BrgeoservereGraphic>
+                                <gmd:MD_BrowseGraphic>
                                         <gmd:fileName>
                                                 <gco:CharacterString>000003017_thumb150.jpg</gco:CharacterString>
                                         </gmd:fileName>
@@ -231,10 +231,10 @@
                                         <gmd:fileType>
                                                 <gco:CharacterString>jpg</gco:CharacterString>
                                         </gmd:fileType>
-                                </gmd:MD_BrgeoservereGraphic>
+                                </gmd:MD_BrowseGraphic>
                         </gmd:graphicOverview>
                         <gmd:graphicOverview>
-                                <gmd:MD_BrgeoservereGraphic>
+                                <gmd:MD_BrowseGraphic>
                                         <gmd:fileName>
                                                 <gco:CharacterString>000003017_thumb500.jpg</gco:CharacterString>
                                         </gmd:fileName>
@@ -244,7 +244,7 @@
                                         <gmd:fileType>
                                                 <gco:CharacterString>jpg</gco:CharacterString>
                                         </gmd:fileType>
-                                </gmd:MD_BrgeoservereGraphic>
+                                </gmd:MD_BrowseGraphic>
                         </gmd:graphicOverview>
                         <gmd:resourceConstraints>
                                 <gmd:MD_LegalConstraints>
@@ -353,7 +353,7 @@
                                                   <gco:CharacterString>georeferenced map 000003017</gco:CharacterString>
                                                   </gmd:description>
                                                 </gmd:CI_OnlineResource>
-                                        </gmd:onLine>4</gmd:MD_DigitalTransferOptions>
+                                        </gmd:onLine></gmd:MD_DigitalTransferOptions>
                         </gmd:transferOptions>
                 </gmd:MD_Distribution>
         </gmd:distributionInfo>
