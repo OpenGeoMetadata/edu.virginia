@@ -3,7 +3,7 @@
 require 'nokogiri'
 
 @doc = Nokogiri::XML(File.open('./errors.xml'))
-
+@doc.remove_namespaces!
 issues = @doc.xpath('/report/incident/systemID')
 
 counter = 0
