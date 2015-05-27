@@ -1,1 +1,31 @@
-{"uuid":{"uuid":"http://gis.lib.virginia.edu/geoserver/wms"},"dc_identifier_s":{"dc_identifier_s":"http://gis.lib.virginia.edu/geoserver/wms"},"dc_title_s":{"dc_title_s":"Mountain Lake Biological Station 2009 Pipeline"},"dc_description_s":{"dc_description_s":"Pipeline for the Mountain Lake Biological Station."},"dc_rights_s":{"dc_rights_s":""},"dct_provenance_s":{"dct_provenance_s":"UVa"},"dct_references_s":{"dct_references_s":"{\"http://schema.org/url\":\"http://gis.lib.virginia.edu/geoserver/wms\",}"},"layer_id_s":{"layer_id_s":"urn:http://gis.lib.virginia.edu/geoserver/wms"},"layer_slug_s":{"layer_slug_s":"UVa-http://gis.lib.virginia.edu/geoserver/wms"},"layer_geom_type_s":{"layer_geom_type_s":""},"layer_modified_dt":{"layer_modified_dt":"2011-10-13"},"dc_format_s":{"dc_format_s":"application/x-esri-shapefile"},"dc_language_s":{"dc_language_s":"English"},"dc_subject_sm":{"dc_subject_sm":"Utilities and Communication"},"dct_issued_s":{"dct_issued_s":"2009-04-21"},"dct_temporal_sm":{"dct_temporal_sm":"2002-2004"},"georss_polygon_s":{"georss_polygon_s":"37.123 -81.126 37.511 -81.126 37.511 -80.376 37.123 -80.376 37.123 -81.126"},"solr_geom":{"solr_geom":"ENVELOPE((-81.126 37.123, -80.376 37.123, -80.376 37.511, -81.126 37.511, -81.126 37.123))"},"georss_box_s":{"georss_box_s":"37.123 -81.126 37.511 -80.376"},"solr_bbox":{"solr_bbox":"-81.126 37.123 -80.376 37.511"},"solr_sw_pt":{"solr_sw_pt":"37.123,-81.126"},"solr_ne_pt":{"solr_ne_pt":"37.511,-80.376"},"solr_year_i":{"solr_year_i":"2002"}}
+{
+    "uuid": "bc516f5d-fdd1-4e70-8fc4-1404cc40d86d-46",
+    "dc_identifier_s": "bc516f5d-fdd1-4e70-8fc4-1404cc40d86d-46",
+    "dc_title_s": "Mountain Lake Biological Station 2009 Pipeline",
+    "dc_description_s": "Pipeline for the Mountain Lake Biological Station.",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UVa",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"bc516f5d-fdd1-4e70-8fc4-1404cc40d86d-46",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=MLBS_2009:pipeline&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"bc516f5d-fdd1-4e70-8fc4-1404cc40d86d-46.iso19139\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\": \"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\": \"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
+    "layer_id_s": "MLBS_2009:pipeline",
+    "layer_slug_s": "uva-MLBS_2009:pipeline",
+    "layer_geom_type_s": "Polygon",
+    "layer_modified_dt": "2011-10-13",
+    "dc_format_s": "application/x-esri-shapefile",
+    "dc_language_s": "eng",
+    "dc_subject_sm": ["utilitiesCommunications"],
+    "dct_issued_s": "2009-04-21",
+    "dct_temporal_sm": "2002-2004",
+    "georss_polygon_s": "37.123 -81.126 37.511 -81.126 37.511 -80.376 37.123 -80.376 37.123 -81.126",
+    "solr_geom": "ENVELOPE(-81.126 37.123, -80.376 37.123, -80.376 37.511, -81.126 37.511, -81.126 37.123)",
+    "georss_box_s": "37.123 -81.126 37.511 -80.376",
+    "solr_year_i": 2002
+}

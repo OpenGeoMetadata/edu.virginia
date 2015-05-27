@@ -1,1 +1,31 @@
-{"uuid":{"uuid":"http://gis.lib.virginia.edu/geoserver/wms"},"dc_identifier_s":{"dc_identifier_s":"http://gis.lib.virginia.edu/geoserver/wms"},"dc_title_s":{"dc_title_s":"McGregor 000003005 - 1730 - Carte de la Louisiane et du cours de Mississipi"},"dc_description_s":{"dc_description_s":"Author: L'Isle, Guillaume de. Credit: Area Table 73-05 1718 L'Isle 1730.  *//*  Includes inset showing New Orleans, Missisippi River delta, and Mobile Bay.  Shgeoserver the routes of various European explorers as well as many Native American habitations and nations."},"dc_rights_s":{"dc_rights_s":""},"dct_provenance_s":{"dct_provenance_s":"UVa"},"dct_references_s":{"dct_references_s":"{\"http://schema.org/url\":\"http://gis.lib.virginia.edu/geoserver/wms\",}"},"layer_id_s":{"layer_id_s":"urn:http://gis.lib.virginia.edu/geoserver/wms"},"layer_slug_s":{"layer_slug_s":"UVa-http://gis.lib.virginia.edu/geoserver/wms"},"layer_geom_type_s":{"layer_geom_type_s":""},"layer_modified_dt":{"layer_modified_dt":"2010-10-18"},"dc_format_s":{"dc_format_s":""},"dc_language_s":{"dc_language_s":"English"},"dc_subject_sm":{"dc_subject_sm":"Imagery and Base Maps"},"dct_issued_s":{"dct_issued_s":"2010-04-05"},"dct_temporal_sm":{"dct_temporal_sm":"1730"},"georss_polygon_s":{"georss_polygon_s":"22.785 -125.515 50.499 -125.515 50.499 -51.699 22.785 -51.699 22.785 -125.515"},"solr_geom":{"solr_geom":"ENVELOPE((-125.515 22.785, -51.699 22.785, -51.699 50.499, -125.515 50.499, -125.515 22.785))"},"georss_box_s":{"georss_box_s":"22.785 -125.515 50.499 -51.699"},"solr_bbox":{"solr_bbox":"-125.515 22.785 -51.699 50.499"},"solr_sw_pt":{"solr_sw_pt":"22.785,-125.515"},"solr_ne_pt":{"solr_ne_pt":"50.499,-51.699"},"solr_year_i":{"solr_year_i":"1730"}}
+{
+    "uuid": "a5f8b200-7787-4064-9527-23629d8c01bc-4",
+    "dc_identifier_s": "a5f8b200-7787-4064-9527-23629d8c01bc-4",
+    "dc_title_s": "McGregor 000003005 - 1730 - Carte de la Louisiane et du cours de Mississipi",
+    "dc_description_s": "Author: L'Isle, Guillaume de. Credit: Area Table 73-05 1718 L'Isle 1730.  *//*  Includes inset showing New Orleans, Missisippi River delta, and Mobile Bay.  Shgeoserver the routes of various European explorers as well as many Native American habitations and nations.",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UVa",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"a5f8b200-7787-4064-9527-23629d8c01bc-4",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=McGregor:000003005_00011&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"a5f8b200-7787-4064-9527-23629d8c01bc-4.iso19139\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\": \"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\": \"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
+    "layer_id_s": "McGregor:000003005_00011",
+    "layer_slug_s": "uva-McGregor:000003005_00011",
+    "layer_geom_type_s": "Polygon",
+    "layer_modified_dt": "2010-10-18",
+    "dc_format_s": "",
+    "dc_language_s": "eng",
+    "dc_subject_sm": ["imageryBaseMapsEarthCover"],
+    "dct_issued_s": "2010-04-05",
+    "dct_temporal_sm": "1730",
+    "georss_polygon_s": "22.785 -125.515 50.499 -125.515 50.499 -51.699 22.785 -51.699 22.785 -125.515",
+    "solr_geom": "ENVELOPE(-125.515 22.785, -51.699 22.785, -51.699 50.499, -125.515 50.499, -125.515 22.785)",
+    "georss_box_s": "22.785 -125.515 50.499 -51.699",
+    "solr_year_i": 1730
+}

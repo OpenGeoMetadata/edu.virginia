@@ -1,1 +1,31 @@
-{"uuid":{"uuid":"http://gis.lib.virginia.edu/geoserver/wms"},"dc_identifier_s":{"dc_identifier_s":"http://gis.lib.virginia.edu/geoserver/wms"},"dc_title_s":{"dc_title_s":"Afghanistan 2005 International Airports"},"dc_description_s":{"dc_description_s":"International airports for Afghanistan."},"dc_rights_s":{"dc_rights_s":""},"dct_provenance_s":{"dct_provenance_s":"UVa"},"dct_references_s":{"dct_references_s":"{\"http://schema.org/url\":\"http://gis.lib.virginia.edu/geoserver/wms\",}"},"layer_id_s":{"layer_id_s":"urn:http://gis.lib.virginia.edu/geoserver/wms"},"layer_slug_s":{"layer_slug_s":"UVa-http://gis.lib.virginia.edu/geoserver/wms"},"layer_geom_type_s":{"layer_geom_type_s":""},"layer_modified_dt":{"layer_modified_dt":"2008-11-13"},"dc_format_s":{"dc_format_s":"application/x-esri-shapefile"},"dc_language_s":{"dc_language_s":"English"},"dc_subject_sm":{"dc_subject_sm":"Transportation"},"dct_issued_s":{"dct_issued_s":"2008-10-01"},"dct_temporal_sm":{"dct_temporal_sm":"2003-2005"},"georss_polygon_s":{"georss_polygon_s":"29 60 39 60 39 75 29 75 29 60"},"solr_geom":{"solr_geom":"ENVELOPE((60 29, 75 29, 75 39, 60 39, 60 29))"},"georss_box_s":{"georss_box_s":"29 60 39 75"},"solr_bbox":{"solr_bbox":"60 29 75 39"},"solr_sw_pt":{"solr_sw_pt":"29,60"},"solr_ne_pt":{"solr_ne_pt":"39,75"},"solr_year_i":{"solr_year_i":"2003"}}
+{
+    "uuid": "b9f8e3e3-c591-41cf-8fed-402bbc5b6855-11",
+    "dc_identifier_s": "b9f8e3e3-c591-41cf-8fed-402bbc5b6855-11",
+    "dc_title_s": "Afghanistan 2005 International Airports",
+    "dc_description_s": "International airports for Afghanistan.",
+    "dc_rights_s": "Public",
+    "dct_provenance_s": "UVa",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"b9f8e3e3-c591-41cf-8fed-402bbc5b6855-11",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Afghanistan:afg_int_airpots&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"b9f8e3e3-c591-41cf-8fed-402bbc5b6855-11.iso19139\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\": \"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\": \"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
+    "layer_id_s": "Afghanistan:afg_int_airpots",
+    "layer_slug_s": "uva-Afghanistan:afg_int_airpots",
+    "layer_geom_type_s": "Polygon",
+    "layer_modified_dt": "2008-11-13",
+    "dc_format_s": "application/x-esri-shapefile",
+    "dc_language_s": "eng",
+    "dc_subject_sm": ["transportation"],
+    "dct_issued_s": "2008-10-01",
+    "dct_temporal_sm": "2003-2005",
+    "georss_polygon_s": "29 60 39 60 39 75 29 75 29 60",
+    "solr_geom": "ENVELOPE(60 29, 75 29, 75 39, 60 39, 60 29)",
+    "georss_box_s": "29 60 39 75",
+    "solr_year_i": 2003
+}
