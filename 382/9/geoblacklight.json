@@ -5,27 +5,18 @@
     "dc_description_s": "Driveways and sidewalks for Norfolk, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{
-        \"http://schema.org/url\":\"315fc8ee-3b57-4ebb-aa24-4300f1c42dc9-9",
-        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Norfolk:minitrans_arc&outputFormat=shape-zip\",
-        
-        \"http://www.isotc211.org/schemas/2005/gmd/\":\"315fc8ee-3b57-4ebb-aa24-4300f1c42dc9-9.iso19139\",
-        
-        \"http://www.opengis.net/def/serviceType/ogc/wms\": \"http://gis.lib.virginia.edu/geoserver/wms\",
-        \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"http://gis.lib.virginia.edu/geoserver/wfs\",
-        \"http://www.opengis.net/def/serviceType/ogc/wcs\": \"http://gis.lib.virginia.edu/geoserver/wcs\"
-    }",
+    "dct_references_s": "{\"http://schema.org/url\":\"315fc8ee-3b57-4ebb-aa24-4300f1c42dc9-9\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Norfolk:minitrans_arc&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"315fc8ee-3b57-4ebb-aa24-4300f1c42dc9-9.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "Norfolk:minitrans_arc",
     "layer_slug_s": "uva-Norfolk:minitrans_arc",
     "layer_geom_type_s": "Polygon",
-    "layer_modified_dt": "2008-11-12",
+    "layer_modified_dt": "2008-11-12T15:29:47Z",
     "dc_format_s": "application/x-esri-shapefile",
     "dc_language_s": "eng",
     "dc_subject_sm": ["transportation"],
     "dct_issued_s": "2008-10-17",
     "dct_temporal_sm": "2005",
     "georss_polygon_s": "36.82 -76.346 36.971 -76.346 36.971 -76.176 36.82 -76.176 36.82 -76.346",
-    "solr_geom": "ENVELOPE(-76.346 36.82, -76.176 36.82, -76.176 36.971, -76.346 36.971, -76.346 36.82)",
+    "solr_geom": "ENVELOPE(-76.346, -76.176, 36.971, 36.82)",
     "georss_box_s": "36.82 -76.346 36.971 -76.176",
     "solr_year_i": 2005
 }

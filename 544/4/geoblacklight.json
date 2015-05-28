@@ -11,27 +11,18 @@
 * Commonly referred to as the Massie map.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{
-        \"http://schema.org/url\":\"d5e3db35-e327-4e50-8d05-976b64acd2a5-4",
-        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Massie:Massie1907VaRR&outputFormat=shape-zip\",
-        
-        \"http://www.isotc211.org/schemas/2005/gmd/\":\"d5e3db35-e327-4e50-8d05-976b64acd2a5-4.iso19139\",
-        
-        \"http://www.opengis.net/def/serviceType/ogc/wms\": \"http://gis.lib.virginia.edu/geoserver/wms\",
-        \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"http://gis.lib.virginia.edu/geoserver/wfs\",
-        \"http://www.opengis.net/def/serviceType/ogc/wcs\": \"http://gis.lib.virginia.edu/geoserver/wcs\"
-    }",
+    "dct_references_s": "{\"http://schema.org/url\":\"d5e3db35-e327-4e50-8d05-976b64acd2a5-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Massie:Massie1907VaRR&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"d5e3db35-e327-4e50-8d05-976b64acd2a5-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "Massie:Massie1907VaRR",
     "layer_slug_s": "uva-Massie:Massie1907VaRR",
     "layer_geom_type_s": "Polygon",
-    "layer_modified_dt": "2010-10-19",
+    "layer_modified_dt": "2010-10-19T15:10:01Z",
     "dc_format_s": "",
     "dc_language_s": "eng",
     "dc_subject_sm": ["imageryBaseMapsEarthCover"],
     "dct_issued_s": "2010-01-06",
     "dct_temporal_sm": "1900-1907",
     "georss_polygon_s": "37.722 -78.84 38.278 -78.84 38.278 -78.207 37.722 -78.207 37.722 -78.84",
-    "solr_geom": "ENVELOPE(-78.84 37.722, -78.207 37.722, -78.207 38.278, -78.84 38.278, -78.84 37.722)",
+    "solr_geom": "ENVELOPE(-78.84, -78.207, 38.278, 37.722)",
     "georss_box_s": "37.722 -78.84 38.278 -78.207",
     "solr_year_i": 1900
 }

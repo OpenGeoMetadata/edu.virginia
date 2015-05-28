@@ -5,27 +5,18 @@
     "dc_description_s": "Schools for Fairfax County, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{
-        \"http://schema.org/url\":\"7544ce60-4ce6-4aa2-b884-9be4c63722e3-86",
-        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Fairfax:SCHOOLS&outputFormat=shape-zip\",
-        
-        \"http://www.isotc211.org/schemas/2005/gmd/\":\"7544ce60-4ce6-4aa2-b884-9be4c63722e3-86.iso19139\",
-        
-        \"http://www.opengis.net/def/serviceType/ogc/wms\": \"http://gis.lib.virginia.edu/geoserver/wms\",
-        \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"http://gis.lib.virginia.edu/geoserver/wfs\",
-        \"http://www.opengis.net/def/serviceType/ogc/wcs\": \"http://gis.lib.virginia.edu/geoserver/wcs\"
-    }",
+    "dct_references_s": "{\"http://schema.org/url\":\"7544ce60-4ce6-4aa2-b884-9be4c63722e3-86\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Fairfax:SCHOOLS&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"7544ce60-4ce6-4aa2-b884-9be4c63722e3-86.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "Fairfax:SCHOOLS",
     "layer_slug_s": "uva-Fairfax:SCHOOLS",
     "layer_geom_type_s": "Polygon",
-    "layer_modified_dt": "2008-11-18",
+    "layer_modified_dt": "2008-11-18T13:53:56Z",
     "dc_format_s": "application/x-esri-shapefile",
     "dc_language_s": "eng",
     "dc_subject_sm": ["structure"],
     "dct_issued_s": "2008-10-17",
     "dct_temporal_sm": "2008",
     "georss_polygon_s": "38.60369 -77.53701 39.05767 -77.53701 39.05767 -77.04136 38.60369 -77.04136 38.60369 -77.53701",
-    "solr_geom": "ENVELOPE(-77.53701 38.60369, -77.04136 38.60369, -77.04136 39.05767, -77.53701 39.05767, -77.53701 38.60369)",
+    "solr_geom": "ENVELOPE(-77.53701, -77.04136, 39.05767, 38.60369)",
     "georss_box_s": "38.60369 -77.53701 39.05767 -77.04136",
     "solr_year_i": 2008
 }

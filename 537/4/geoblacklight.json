@@ -5,27 +5,18 @@
     "dc_description_s": "Author: Senex, John Credit: Area Table 749-99 1719 Senex",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{
-        \"http://schema.org/url\":\"1febcb0f-6044-413a-b67d-89e998659fdc-4",
-        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=McGregor:000003031_00011&outputFormat=shape-zip\",
-        
-        \"http://www.isotc211.org/schemas/2005/gmd/\":\"1febcb0f-6044-413a-b67d-89e998659fdc-4.iso19139\",
-        
-        \"http://www.opengis.net/def/serviceType/ogc/wms\": \"http://gis.lib.virginia.edu/geoserver/wms\",
-        \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"http://gis.lib.virginia.edu/geoserver/wfs\",
-        \"http://www.opengis.net/def/serviceType/ogc/wcs\": \"http://gis.lib.virginia.edu/geoserver/wcs\"
-    }",
+    "dct_references_s": "{\"http://schema.org/url\":\"1febcb0f-6044-413a-b67d-89e998659fdc-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=McGregor:000003031_00011&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"1febcb0f-6044-413a-b67d-89e998659fdc-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "McGregor:000003031_00011",
     "layer_slug_s": "uva-McGregor:000003031_00011",
     "layer_geom_type_s": "Polygon",
-    "layer_modified_dt": "2010-10-18",
+    "layer_modified_dt": "2010-10-18T14:27:32Z",
     "dc_format_s": "",
     "dc_language_s": "eng",
     "dc_subject_sm": ["imageryBaseMapsEarthCover"],
     "dct_issued_s": "2009-11-09",
     "dct_temporal_sm": "1719",
     "georss_polygon_s": "36.2 -79.2 40.5 -79.2 40.5 -73.4 36.2 -73.4 36.2 -79.2",
-    "solr_geom": "ENVELOPE(-79.2 36.2, -73.4 36.2, -73.4 40.5, -79.2 40.5, -79.2 36.2)",
+    "solr_geom": "ENVELOPE(-79.2, -73.4, 40.5, 36.2)",
     "georss_box_s": "36.2 -79.2 40.5 -73.4",
     "solr_year_i": 1719
 }

@@ -5,27 +5,18 @@
     "dc_description_s": "South Norfolk business district for Chesapeake, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{
-        \"http://schema.org/url\":\"ad22bd2c-945d-4e59-aa2c-f28b79dbe9fc-27",
-        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Chesapeake:snbover&outputFormat=shape-zip\",
-        
-        \"http://www.isotc211.org/schemas/2005/gmd/\":\"ad22bd2c-945d-4e59-aa2c-f28b79dbe9fc-27.iso19139\",
-        
-        \"http://www.opengis.net/def/serviceType/ogc/wms\": \"http://gis.lib.virginia.edu/geoserver/wms\",
-        \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"http://gis.lib.virginia.edu/geoserver/wfs\",
-        \"http://www.opengis.net/def/serviceType/ogc/wcs\": \"http://gis.lib.virginia.edu/geoserver/wcs\"
-    }",
+    "dct_references_s": "{\"http://schema.org/url\":\"ad22bd2c-945d-4e59-aa2c-f28b79dbe9fc-27\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Chesapeake:snbover&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"ad22bd2c-945d-4e59-aa2c-f28b79dbe9fc-27.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "Chesapeake:snbover",
     "layer_slug_s": "uva-Chesapeake:snbover",
     "layer_geom_type_s": "Polygon",
-    "layer_modified_dt": "2009-12-18",
+    "layer_modified_dt": "2009-12-18T13:15:04Z",
     "dc_format_s": "application/x-esri-shapefile",
     "dc_language_s": "eng",
     "dc_subject_sm": ["planningCadastre"],
     "dct_issued_s": "2008-10-17",
     "dct_temporal_sm": "2005",
     "georss_polygon_s": "36.542 -76.49801 36.87145 -76.49801 36.87145 -76.05655 36.542 -76.05655 36.542 -76.49801",
-    "solr_geom": "ENVELOPE(-76.49801 36.542, -76.05655 36.542, -76.05655 36.87145, -76.49801 36.87145, -76.49801 36.542)",
+    "solr_geom": "ENVELOPE(-76.49801, -76.05655, 36.87145, 36.542)",
     "georss_box_s": "36.542 -76.49801 36.87145 -76.05655",
     "solr_year_i": 2005
 }

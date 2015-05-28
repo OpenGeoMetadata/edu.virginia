@@ -5,27 +5,18 @@
     "dc_description_s": "Census tract annotations from 2000 for Arlington, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{
-        \"http://schema.org/url\":\"18d634df-f0e5-4a83-b3ba-7d8ca049af46-72",
-        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Arlington:Tract_Anno&outputFormat=shape-zip\",
-        
-        \"http://www.isotc211.org/schemas/2005/gmd/\":\"18d634df-f0e5-4a83-b3ba-7d8ca049af46-72.iso19139\",
-        
-        \"http://www.opengis.net/def/serviceType/ogc/wms\": \"http://gis.lib.virginia.edu/geoserver/wms\",
-        \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"http://gis.lib.virginia.edu/geoserver/wfs\",
-        \"http://www.opengis.net/def/serviceType/ogc/wcs\": \"http://gis.lib.virginia.edu/geoserver/wcs\"
-    }",
+    "dct_references_s": "{\"http://schema.org/url\":\"18d634df-f0e5-4a83-b3ba-7d8ca049af46-72\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Arlington:Tract_Anno&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"18d634df-f0e5-4a83-b3ba-7d8ca049af46-72.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "Arlington:Tract_Anno",
     "layer_slug_s": "uva-Arlington:Tract_Anno",
     "layer_geom_type_s": "Polygon",
-    "layer_modified_dt": "2008-11-18",
+    "layer_modified_dt": "2008-11-18T14:35:29Z",
     "dc_format_s": "application/x-esri-shapefile",
     "dc_language_s": "eng",
     "dc_subject_sm": ["boundaries"],
     "dct_issued_s": "2009-10-04",
     "dct_temporal_sm": "1991-2003",
     "georss_polygon_s": "38.82678 -77.17349 38.93489 -77.17349 38.93489 -77.03046 38.82678 -77.03046 38.82678 -77.17349",
-    "solr_geom": "ENVELOPE(-77.17349 38.82678, -77.03046 38.82678, -77.03046 38.93489, -77.17349 38.93489, -77.17349 38.82678)",
+    "solr_geom": "ENVELOPE(-77.17349, -77.03046, 38.93489, 38.82678)",
     "georss_box_s": "38.82678 -77.17349 38.93489 -77.03046",
     "solr_year_i": 1991
 }

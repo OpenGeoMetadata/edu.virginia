@@ -6,27 +6,18 @@
 distributed by ESRI from source data obtained from USGS and ArcUSA.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{
-        \"http://schema.org/url\":\"8f1a97d1-6c95-4106-b1b1-c326e0eb1624-8",
-        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=USGSindexmaps:usgs_va_indx24k&outputFormat=shape-zip\",
-        
-        \"http://www.isotc211.org/schemas/2005/gmd/\":\"8f1a97d1-6c95-4106-b1b1-c326e0eb1624-8.iso19139\",
-        
-        \"http://www.opengis.net/def/serviceType/ogc/wms\": \"http://gis.lib.virginia.edu/geoserver/wms\",
-        \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"http://gis.lib.virginia.edu/geoserver/wfs\",
-        \"http://www.opengis.net/def/serviceType/ogc/wcs\": \"http://gis.lib.virginia.edu/geoserver/wcs\"
-    }",
+    "dct_references_s": "{\"http://schema.org/url\":\"8f1a97d1-6c95-4106-b1b1-c326e0eb1624-8\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=USGSindexmaps:usgs_va_indx24k&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"8f1a97d1-6c95-4106-b1b1-c326e0eb1624-8.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "USGSindexmaps:usgs_va_indx24k",
     "layer_slug_s": "uva-USGSindexmaps:usgs_va_indx24k",
     "layer_geom_type_s": "Polygon",
-    "layer_modified_dt": "2010-11-08",
+    "layer_modified_dt": "2010-11-08T20:16:13Z",
     "dc_format_s": "application/x-esri-shapefile",
     "dc_language_s": "eng",
     "dc_subject_sm": ["location"],
     "dct_issued_s": "2009-08-27",
     "dct_temporal_sm": "1932-1998",
     "georss_polygon_s": "36.5 -83.75 39.5 -83.75 39.5 -75.125 36.5 -75.125 36.5 -83.75",
-    "solr_geom": "ENVELOPE(-83.75 36.5, -75.125 36.5, -75.125 39.5, -83.75 39.5, -83.75 36.5)",
+    "solr_geom": "ENVELOPE(-83.75, -75.125, 39.5, 36.5)",
     "georss_box_s": "36.5 -83.75 39.5 -75.125",
     "solr_year_i": 1932
 }

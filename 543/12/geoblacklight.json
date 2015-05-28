@@ -5,27 +5,18 @@
     "dc_description_s": "Railroads for the University of Virginia from 1994.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{
-        \"http://schema.org/url\":\"8ea8c93c-a8bd-4446-bb36-8bfae66d98a0-12",
-        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=UVA94:uva94_rails&outputFormat=shape-zip\",
-        
-        \"http://www.isotc211.org/schemas/2005/gmd/\":\"8ea8c93c-a8bd-4446-bb36-8bfae66d98a0-12.iso19139\",
-        
-        \"http://www.opengis.net/def/serviceType/ogc/wms\": \"http://gis.lib.virginia.edu/geoserver/wms\",
-        \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"http://gis.lib.virginia.edu/geoserver/wfs\",
-        \"http://www.opengis.net/def/serviceType/ogc/wcs\": \"http://gis.lib.virginia.edu/geoserver/wcs\"
-    }",
+    "dct_references_s": "{\"http://schema.org/url\":\"8ea8c93c-a8bd-4446-bb36-8bfae66d98a0-12\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=UVA94:uva94_rails&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"8ea8c93c-a8bd-4446-bb36-8bfae66d98a0-12.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "UVA94:uva94_rails",
     "layer_slug_s": "uva-UVA94:uva94_rails",
     "layer_geom_type_s": "Polygon",
-    "layer_modified_dt": "2010-01-05",
+    "layer_modified_dt": "2010-01-05T17:23:21Z",
     "dc_format_s": "application/x-esri-shapefile",
     "dc_language_s": "eng",
     "dc_subject_sm": ["transportation"],
     "dct_issued_s": "2010-01-05",
     "dct_temporal_sm": "1992-1997",
     "georss_polygon_s": "38.02109 -78.48596 38.06727 -78.48596 38.06727 -78.5526 38.02109 -78.5526 38.02109 -78.48596",
-    "solr_geom": "ENVELOPE(-78.48596 38.02109, -78.5526 38.02109, -78.5526 38.06727, -78.48596 38.06727, -78.48596 38.02109)",
+    "solr_geom": "ENVELOPE(-78.48596, -78.5526, 38.06727, 38.02109)",
     "georss_box_s": "38.02109 -78.48596 38.06727 -78.5526",
     "solr_year_i": 1992
 }

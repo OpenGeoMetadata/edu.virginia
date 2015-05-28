@@ -5,27 +5,18 @@
     "dc_description_s": "Other traffic control signs for Washington, DC.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{
-        \"http://schema.org/url\":\"6d3aed6e-65da-4456-b839-4b609b3fc9da-79",
-        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Washington_DC:OtherTrfPt&outputFormat=shape-zip\",
-        
-        \"http://www.isotc211.org/schemas/2005/gmd/\":\"6d3aed6e-65da-4456-b839-4b609b3fc9da-79.iso19139\",
-        
-        \"http://www.opengis.net/def/serviceType/ogc/wms\": \"http://gis.lib.virginia.edu/geoserver/wms\",
-        \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"http://gis.lib.virginia.edu/geoserver/wfs\",
-        \"http://www.opengis.net/def/serviceType/ogc/wcs\": \"http://gis.lib.virginia.edu/geoserver/wcs\"
-    }",
+    "dct_references_s": "{\"http://schema.org/url\":\"6d3aed6e-65da-4456-b839-4b609b3fc9da-79\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Washington_DC:OtherTrfPt&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"6d3aed6e-65da-4456-b839-4b609b3fc9da-79.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "Washington_DC:OtherTrfPt",
     "layer_slug_s": "uva-Washington_DC:OtherTrfPt",
     "layer_geom_type_s": "Polygon",
-    "layer_modified_dt": "2009-08-18",
+    "layer_modified_dt": "2009-08-18T11:12:25Z",
     "dc_format_s": "application/x-esri-shapefile",
     "dc_language_s": "eng",
     "dc_subject_sm": ["transportation"],
     "dct_issued_s": "2008-10-01",
     "dct_temporal_sm": "2000-2008",
     "georss_polygon_s": "38.79163 -77.1199 38.99596 -77.1199 38.99596 -76.90912 38.79163 -76.90912 38.79163 -77.1199",
-    "solr_geom": "ENVELOPE(-77.1199 38.79163, -76.90912 38.79163, -76.90912 38.99596, -77.1199 38.99596, -77.1199 38.79163)",
+    "solr_geom": "ENVELOPE(-77.1199, -76.90912, 38.99596, 38.79163)",
     "georss_box_s": "38.79163 -77.1199 38.99596 -76.90912",
     "solr_year_i": 2000
 }

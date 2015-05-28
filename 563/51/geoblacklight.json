@@ -5,27 +5,18 @@
     "dc_description_s": "Railroad edges for Albemarle County, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{
-        \"http://schema.org/url\":\"3f2f9cba-a35d-47de-b027-cd498383f8e8-51",
-        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Albemarle2010:ALB10_Railroad_Edges&outputFormat=shape-zip\",
-        
-        \"http://www.isotc211.org/schemas/2005/gmd/\":\"3f2f9cba-a35d-47de-b027-cd498383f8e8-51.iso19139\",
-        
-        \"http://www.opengis.net/def/serviceType/ogc/wms\": \"http://gis.lib.virginia.edu/geoserver/wms\",
-        \"http://www.opengis.net/def/serviceType/ogc/wfs\": \"http://gis.lib.virginia.edu/geoserver/wfs\",
-        \"http://www.opengis.net/def/serviceType/ogc/wcs\": \"http://gis.lib.virginia.edu/geoserver/wcs\"
-    }",
+    "dct_references_s": "{\"http://schema.org/url\":\"3f2f9cba-a35d-47de-b027-cd498383f8e8-51\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Albemarle2010:ALB10_Railroad_Edges&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"3f2f9cba-a35d-47de-b027-cd498383f8e8-51.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "Albemarle2010:ALB10_Railroad_Edges",
     "layer_slug_s": "uva-Albemarle2010:ALB10_Railroad_Edges",
     "layer_geom_type_s": "Polygon",
-    "layer_modified_dt": "2010-11-08",
+    "layer_modified_dt": "2010-11-08T17:13:30Z",
     "dc_format_s": "application/x-esri-shapefile",
     "dc_language_s": "eng",
     "dc_subject_sm": ["transportation"],
     "dct_issued_s": "2010-11-04",
     "dct_temporal_sm": "2010",
     "georss_polygon_s": "37.72255 -78.83913 38.27794 -78.83913 38.27794 -78.20801 37.72255 -78.20801 37.72255 -78.83913",
-    "solr_geom": "ENVELOPE(-78.83913 37.72255, -78.20801 37.72255, -78.20801 38.27794, -78.83913 38.27794, -78.83913 37.72255)",
+    "solr_geom": "ENVELOPE(-78.83913, -78.20801, 38.27794, 37.72255)",
     "georss_box_s": "37.72255 -78.83913 38.27794 -78.20801",
     "solr_year_i": 2010
 }
