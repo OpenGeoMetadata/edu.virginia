@@ -1,11 +1,11 @@
-{
+{ "add": { "doc": {
     "uuid": "027eabdb-5d25-4c6a-807c-2c7180923026-26",
     "dc_identifier_s": "027eabdb-5d25-4c6a-807c-2c7180923026-26",
     "dc_title_s": "Sanborn Fire Insurance Maps - Charlottesville, VA - 1920 Map 19",
     "dc_description_s": "Map 19 of the Sanborn Fire Insurance Maps.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"027eabdb-5d25-4c6a-807c-2c7180923026-26\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=SanbornCVL:1920map19&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"027eabdb-5d25-4c6a-807c-2c7180923026-26.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"027eabdb-5d25-4c6a-807c-2c7180923026-26\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=SanbornCVL:1920map19&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"027eabdb-5d25-4c6a-807c-2c7180923026-26.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "SanbornCVL:1920map19",
     "layer_slug_s": "uva-SanbornCVL:1920map19",
     "layer_geom_type_s": "Polygon",
@@ -20,3 +20,4 @@
     "georss_box_s": "37.988007 -78.524842 38.050745 -78.451464",
     "solr_year_i": 1920
 }
+} }

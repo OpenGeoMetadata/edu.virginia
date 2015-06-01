@@ -1,11 +1,11 @@
-{
+{ "add": { "doc": {
     "uuid": "39e497d8-b964-4c38-8fcf-f57a8758609c-5",
     "dc_identifier_s": "39e497d8-b964-4c38-8fcf-f57a8758609c-5",
     "dc_title_s": "University of Virginia 2006 Ditches",
     "dc_description_s": "Ditches for the University of Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"39e497d8-b964-4c38-8fcf-f57a8758609c-5\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=UVA:DITCH_POLYLINE&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"39e497d8-b964-4c38-8fcf-f57a8758609c-5.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"39e497d8-b964-4c38-8fcf-f57a8758609c-5\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=UVA:DITCH_POLYLINE&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"39e497d8-b964-4c38-8fcf-f57a8758609c-5.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "UVA:DITCH_POLYLINE",
     "layer_slug_s": "uva-UVA:DITCH_POLYLINE",
     "layer_geom_type_s": "Polygon",
@@ -20,3 +20,4 @@
     "georss_box_s": "38.02109 -78.48596 38.06727 -78.5526",
     "solr_year_i": 2008
 }
+} }

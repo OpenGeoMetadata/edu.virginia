@@ -1,11 +1,11 @@
-{
+{ "add": { "doc": {
     "uuid": "851f261e-c078-4a2a-8d0c-fb9788af6557-5",
     "dc_identifier_s": "851f261e-c078-4a2a-8d0c-fb9788af6557-5",
     "dc_title_s": "Portsmouth 2005 Regional Water Features",
     "dc_description_s": "Regional water features for Portsmouth, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"851f261e-c078-4a2a-8d0c-fb9788af6557-5\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Portsmouth:regional_water_ns&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"851f261e-c078-4a2a-8d0c-fb9788af6557-5.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"851f261e-c078-4a2a-8d0c-fb9788af6557-5\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Portsmouth:regional_water_ns&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"851f261e-c078-4a2a-8d0c-fb9788af6557-5.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "Portsmouth:regional_water_ns",
     "layer_slug_s": "uva-Portsmouth:regional_water_ns",
     "layer_geom_type_s": "Polygon",
@@ -20,3 +20,4 @@
     "georss_box_s": "36.786 -76.421 36.899 -76.289",
     "solr_year_i": 2003
 }
+} }

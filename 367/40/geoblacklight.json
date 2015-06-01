@@ -1,11 +1,11 @@
-{
+{ "add": { "doc": {
     "uuid": "ad22bd2c-945d-4e59-aa2c-f28b79dbe9fc-40",
     "dc_identifier_s": "ad22bd2c-945d-4e59-aa2c-f28b79dbe9fc-40",
     "dc_title_s": "Chesapeake 2005 Western Branch Neighborhood Contour Lines",
     "dc_description_s": "Western Branch neighborhood contour lines for Chesapeake, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"ad22bd2c-945d-4e59-aa2c-f28b79dbe9fc-40\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Chesapeake:w_branch_cl&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"ad22bd2c-945d-4e59-aa2c-f28b79dbe9fc-40.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"ad22bd2c-945d-4e59-aa2c-f28b79dbe9fc-40\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Chesapeake:w_branch_cl&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"ad22bd2c-945d-4e59-aa2c-f28b79dbe9fc-40.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "Chesapeake:w_branch_cl",
     "layer_slug_s": "uva-Chesapeake:w_branch_cl",
     "layer_geom_type_s": "Polygon",
@@ -20,3 +20,4 @@
     "georss_box_s": "36.542 -76.49801 36.87145 -76.05655",
     "solr_year_i": 2005
 }
+} }

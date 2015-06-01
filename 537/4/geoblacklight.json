@@ -1,11 +1,11 @@
-{
+{ "add": { "doc": {
     "uuid": "1febcb0f-6044-413a-b67d-89e998659fdc-4",
     "dc_identifier_s": "1febcb0f-6044-413a-b67d-89e998659fdc-4",
     "dc_title_s": "McGregor 000003031 - 1719 - A new map of Virginia, Mary-Land and the improved parts of Penn-sylvania & New Jersey",
     "dc_description_s": "Author: Senex, John Credit: Area Table 749-99 1719 Senex",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"1febcb0f-6044-413a-b67d-89e998659fdc-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=McGregor:000003031_00011&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"1febcb0f-6044-413a-b67d-89e998659fdc-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"1febcb0f-6044-413a-b67d-89e998659fdc-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003031_00011&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"1febcb0f-6044-413a-b67d-89e998659fdc-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "McGregor:000003031_00011",
     "layer_slug_s": "uva-McGregor:000003031_00011",
     "layer_geom_type_s": "Polygon",
@@ -20,3 +20,4 @@
     "georss_box_s": "36.2 -79.2 40.5 -73.4",
     "solr_year_i": 1719
 }
+} }

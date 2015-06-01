@@ -1,11 +1,11 @@
-{
+{ "add": { "doc": {
     "uuid": "18d634df-f0e5-4a83-b3ba-7d8ca049af46-73",
     "dc_identifier_s": "18d634df-f0e5-4a83-b3ba-7d8ca049af46-73",
     "dc_title_s": "Arlington 2003 Census Tracts 1990",
     "dc_description_s": "Census tract boundaries from 1990 for Arlington, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"18d634df-f0e5-4a83-b3ba-7d8ca049af46-73\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Arlington:Tracts1990&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"18d634df-f0e5-4a83-b3ba-7d8ca049af46-73.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"18d634df-f0e5-4a83-b3ba-7d8ca049af46-73\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Arlington:Tracts1990&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"18d634df-f0e5-4a83-b3ba-7d8ca049af46-73.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "Arlington:Tracts1990",
     "layer_slug_s": "uva-Arlington:Tracts1990",
     "layer_geom_type_s": "Polygon",
@@ -20,3 +20,4 @@
     "georss_box_s": "38.82678 -77.17349 38.93489 -77.03046",
     "solr_year_i": 1991
 }
+} }

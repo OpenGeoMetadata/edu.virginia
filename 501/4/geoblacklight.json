@@ -1,4 +1,4 @@
-{
+{ "add": { "doc": {
     "uuid": "29573f3b-c8d8-468b-b462-28f2ed458215-4",
     "dc_identifier_s": "29573f3b-c8d8-468b-b462-28f2ed458215-4",
     "dc_title_s": "Charlottesville Land Co 1890 Minor Venable",
@@ -7,7 +7,7 @@
                     E. Credit: G3884 .C4 G46 1890",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"29573f3b-c8d8-468b-b462-28f2ed458215-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=MinorVenable:000000847_00011_2&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"29573f3b-c8d8-468b-b462-28f2ed458215-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"29573f3b-c8d8-468b-b462-28f2ed458215-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=MinorVenable:000000847_00011_2&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"29573f3b-c8d8-468b-b462-28f2ed458215-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "MinorVenable:000000847_00011_2",
     "layer_slug_s": "uva-MinorVenable:000000847_00011_2",
     "layer_geom_type_s": "Polygon",
@@ -22,3 +22,4 @@
     "georss_box_s": "38.00202 -78.53148 38.05814 -78.43691",
     "solr_year_i": 1890
 }
+} }

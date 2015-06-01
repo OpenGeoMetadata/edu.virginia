@@ -1,11 +1,11 @@
-{
+{ "add": { "doc": {
     "uuid": "c0f7d37a-2056-4958-a072-3c475ca49c80-120",
     "dc_identifier_s": "c0f7d37a-2056-4958-a072-3c475ca49c80-120",
     "dc_title_s": "Albemarle 2007 School Locations",
     "dc_description_s": "School locations for Albemarle County, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"c0f7d37a-2056-4958-a072-3c475ca49c80-120\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Albemarle:school_locations_current&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"c0f7d37a-2056-4958-a072-3c475ca49c80-120.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"c0f7d37a-2056-4958-a072-3c475ca49c80-120\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Albemarle:school_locations_current&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"c0f7d37a-2056-4958-a072-3c475ca49c80-120.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "Albemarle:school_locations_current",
     "layer_slug_s": "uva-Albemarle:school_locations_current",
     "layer_geom_type_s": "Polygon",
@@ -20,3 +20,4 @@
     "georss_box_s": "37.72255 -78.83913 38.27794 -78.20801",
     "solr_year_i": 2000
 }
+} }

@@ -1,4 +1,4 @@
-{
+{ "add": { "doc": {
     "uuid": "3a2a9aeb-72ea-44e4-adb1-b6a12488dd2c-10",
     "dc_identifier_s": "3a2a9aeb-72ea-44e4-adb1-b6a12488dd2c-10",
     "dc_title_s": "South Africa Datastack",
@@ -12,7 +12,7 @@
      students, faculty and staff of the University of Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"3a2a9aeb-72ea-44e4-adb1-b6a12488dd2c-10\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=SouthAfrica:ponet_polygon&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"3a2a9aeb-72ea-44e4-adb1-b6a12488dd2c-10.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"3a2a9aeb-72ea-44e4-adb1-b6a12488dd2c-10\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=SouthAfrica:ponet_polygon&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"3a2a9aeb-72ea-44e4-adb1-b6a12488dd2c-10.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "SouthAfrica:ponet_polygon",
     "layer_slug_s": "uva-SouthAfrica:ponet_polygon",
     "layer_geom_type_s": "Polygon",
@@ -27,3 +27,4 @@
     "georss_box_s": "-35.5 14.4 -19.5 36.25",
     "solr_year_i": 2000
 }
+} }

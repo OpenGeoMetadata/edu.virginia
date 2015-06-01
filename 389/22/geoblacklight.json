@@ -1,11 +1,11 @@
-{
+{ "add": { "doc": {
     "uuid": "0c2b60a5-f6a4-40ab-8495-7c22097f02f2-22",
     "dc_identifier_s": "0c2b60a5-f6a4-40ab-8495-7c22097f02f2-22",
     "dc_title_s": "Loudoun 2005 Drains",
     "dc_description_s": "Drains for Loudoun County, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"0c2b60a5-f6a4-40ab-8495-7c22097f02f2-22\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Loudoun:h_drains_arc&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"0c2b60a5-f6a4-40ab-8495-7c22097f02f2-22.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"0c2b60a5-f6a4-40ab-8495-7c22097f02f2-22\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Loudoun:h_drains_arc&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"0c2b60a5-f6a4-40ab-8495-7c22097f02f2-22.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "Loudoun:h_drains_arc",
     "layer_slug_s": "uva-Loudoun:h_drains_arc",
     "layer_geom_type_s": "Polygon",
@@ -20,3 +20,4 @@
     "georss_box_s": "38.84437 -77.96328 39.32594 -77.32408",
     "solr_year_i": 2008
 }
+} }

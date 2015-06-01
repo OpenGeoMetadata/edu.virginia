@@ -2,18 +2,10 @@
     "uuid": "1881eeb9-3d0e-4872-badd-506c6448ea7b-4",
     "dc_identifier_s": "1881eeb9-3d0e-4872-badd-506c6448ea7b-4",
     "dc_title_s": "McGregor 000003016 - 1649 - Nova Anglia Novvm Belgium et Virginia",
-    "dc_description_s": "* Variant Tile: Nova Anglia, Novum Belgium et Virginia
-* Author: Jansson, Jan
-* Credit: Area Table 755 1636 Jansson 1649
-* Published: Amstelodami : Johannes Janssonius Excudit, [ca.1649]
-        * Relief shown pictorially.
-        * Scale in strapwork box right lower recto.
-        * On verso: German text, captioned "New Belgica und New Anglia" and "New Anglia"; signature mark Ccc; catchword New.
-        * Burden, State 1, from 1649 edition of Newer Atlas (Mercator/Hondius atlas variant).
-        * Derived from 1630 map of Johannes de Laet.",
+    "dc_description_s": "* Variant Tile: Nova Anglia, Novum Belgium et Virginia * Author: Jansson, Jan * Credit: Area Table 755 1636 Jansson 1649 * Published: Amstelodami : Johannes Janssonius Excudit, [ca.1649]         * Relief shown pictorially.         * Scale in strapwork box right lower recto.         * On verso: German text, captioned 'New Belgica und New Anglia' and 'New Anglia'; signature mark Ccc; catchword New.         * Burden, State 1, from 1649 edition of Newer Atlas (Mercator/Hondius atlas variant).        * Derived from 1630 map of Johannes de Laet.", 
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"1881eeb9-3d0e-4872-badd-506c6448ea7b-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=McGregor:000003016_00011&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"1881eeb9-3d0e-4872-badd-506c6448ea7b-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"1881eeb9-3d0e-4872-badd-506c6448ea7b-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003016_00011&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"1881eeb9-3d0e-4872-badd-506c6448ea7b-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "McGregor:000003016_00011",
     "layer_slug_s": "uva-McGregor:000003016_00011",
     "layer_geom_type_s": "Polygon",
@@ -28,3 +20,4 @@
     "georss_box_s": "27.222251 -88.357268 50.415578 -54.974196",
     "solr_year_i": 1649
 }
+

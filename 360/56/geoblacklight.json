@@ -1,11 +1,11 @@
-{
+{ "add": { "doc": {
     "uuid": "18d634df-f0e5-4a83-b3ba-7d8ca049af46-56",
     "dc_identifier_s": "18d634df-f0e5-4a83-b3ba-7d8ca049af46-56",
     "dc_title_s": "Arlington 2003 Voter Precincts 2000",
     "dc_description_s": "Voter precinct from 2000 for Arlington, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"18d634df-f0e5-4a83-b3ba-7d8ca049af46-56\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Arlington:Precincts2000&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"18d634df-f0e5-4a83-b3ba-7d8ca049af46-56.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"18d634df-f0e5-4a83-b3ba-7d8ca049af46-56\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Arlington:Precincts2000&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"18d634df-f0e5-4a83-b3ba-7d8ca049af46-56.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "Arlington:Precincts2000",
     "layer_slug_s": "uva-Arlington:Precincts2000",
     "layer_geom_type_s": "Polygon",
@@ -20,3 +20,4 @@
     "georss_box_s": "38.82678 -77.17349 38.93489 -77.03046",
     "solr_year_i": 1991
 }
+} }

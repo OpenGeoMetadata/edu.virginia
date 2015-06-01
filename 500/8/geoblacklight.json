@@ -1,11 +1,11 @@
-{
+{ "add": { "doc": {
     "uuid": "cf6baa41-d43c-4be6-af5c-1e2ef9e1f25b-8",
     "dc_identifier_s": "cf6baa41-d43c-4be6-af5c-1e2ef9e1f25b-8",
     "dc_title_s": "USGS Virginia Geographic Names Information System (GNIS) 2009 Stream and Valley Heads",
     "dc_description_s": "Stream and Valley Heads from the USGS Virginia Geographic Names Information System (GNIS).",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"cf6baa41-d43c-4be6-af5c-1e2ef9e1f25b-8\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=VAgnis:gnis09_va_svhead&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"cf6baa41-d43c-4be6-af5c-1e2ef9e1f25b-8.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"cf6baa41-d43c-4be6-af5c-1e2ef9e1f25b-8\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=VAgnis:gnis09_va_svhead&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"cf6baa41-d43c-4be6-af5c-1e2ef9e1f25b-8.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "VAgnis:gnis09_va_svhead",
     "layer_slug_s": "uva-VAgnis:gnis09_va_svhead",
     "layer_geom_type_s": "Polygon",
@@ -20,3 +20,4 @@
     "georss_box_s": "33.871561 -84.531879 40.322111 -75.107963",
     "solr_year_i": 1609
 }
+} }

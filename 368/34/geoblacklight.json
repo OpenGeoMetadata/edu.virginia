@@ -1,11 +1,11 @@
-{
+{ "add": { "doc": {
     "uuid": "d06f6afe-b4ae-4fc8-aebb-faf93f878cce-34",
     "dc_identifier_s": "d06f6afe-b4ae-4fc8-aebb-faf93f878cce-34",
     "dc_title_s": "Richmond 2008 Planning Districts",
     "dc_description_s": "Planning districts for Richmond, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"d06f6afe-b4ae-4fc8-aebb-faf93f878cce-34\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Richmond:area_PlanningDistrict&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"d06f6afe-b4ae-4fc8-aebb-faf93f878cce-34.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"d06f6afe-b4ae-4fc8-aebb-faf93f878cce-34\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Richmond:area_PlanningDistrict&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"d06f6afe-b4ae-4fc8-aebb-faf93f878cce-34.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "Richmond:area_PlanningDistrict",
     "layer_slug_s": "uva-Richmond:area_PlanningDistrict",
     "layer_geom_type_s": "Polygon",
@@ -20,3 +20,4 @@
     "georss_box_s": "37.44625 -77.60278 37.60507 -77.38319",
     "solr_year_i": 2007
 }
+} }

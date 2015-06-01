@@ -1,4 +1,4 @@
-{
+{ "add": { "doc": {
     "uuid": "d5265752-d6ac-4895-a651-2dd44cfcf7a1-4",
     "dc_identifier_s": "d5265752-d6ac-4895-a651-2dd44cfcf7a1-4",
     "dc_title_s": "McGregor 000003020 - 1747 (copy 1) - A survey of the Northern Neck of Virginia, being the lands belonging to the Rt. Honourable Thomas Lord Fairfax Baron Cameron, bounded by & within the Bay of Chesapoyocke and between the rivers Rappahannock and Potowmack: With the courses of the rivers Rappahannock and Potowmack, in Virginia, as surveyed according to order in the years 1736 & 1737.",
@@ -11,7 +11,7 @@
 * SPECIAL COLLECTIONS. Copy 1: Hand colored, and annotated to show additional roads, plantations, counties and towns.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"d5265752-d6ac-4895-a651-2dd44cfcf7a1-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=McGregor:000003020_00011&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"d5265752-d6ac-4895-a651-2dd44cfcf7a1-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"d5265752-d6ac-4895-a651-2dd44cfcf7a1-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003020_00011&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"d5265752-d6ac-4895-a651-2dd44cfcf7a1-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "McGregor:000003020_00011",
     "layer_slug_s": "uva-McGregor:000003020_00011",
     "layer_geom_type_s": "Polygon",
@@ -26,3 +26,4 @@
     "georss_box_s": "37.045 -80.07965 40.133 -75.46588",
     "solr_year_i": 1806
 }
+} }

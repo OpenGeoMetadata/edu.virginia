@@ -1,11 +1,11 @@
-{
+{ "add": { "doc": {
     "uuid": "5442d5ec-1f3d-4709-b10c-70cec6e0b02d-4",
     "dc_identifier_s": "5442d5ec-1f3d-4709-b10c-70cec6e0b02d-4",
     "dc_title_s": "McGregor 000003045 - 1787 - Plan of the siege of York Town in Virginia",
     "dc_description_s": "Author: Faden, William Credit: Area Table 757-91 1787 Faden",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"5442d5ec-1f3d-4709-b10c-70cec6e0b02d-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=McGregor:000003045_000BB&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"5442d5ec-1f3d-4709-b10c-70cec6e0b02d-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"5442d5ec-1f3d-4709-b10c-70cec6e0b02d-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003045_000BB&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"5442d5ec-1f3d-4709-b10c-70cec6e0b02d-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "McGregor:000003045_000BB",
     "layer_slug_s": "uva-McGregor:000003045_000BB",
     "layer_geom_type_s": "Polygon",
@@ -20,3 +20,4 @@
     "georss_box_s": "37.1 -76.6 37.27 -76.4",
     "solr_year_i": 1787
 }
+} }

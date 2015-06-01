@@ -1,17 +1,11 @@
-{
+{ "add": { "doc": {
     "uuid": "98434362-9ab9-4407-89a3-dd6b6fdf2609-5",
     "dc_identifier_s": "98434362-9ab9-4407-89a3-dd6b6fdf2609-5",
     "dc_title_s": "Pitner's 1920 Map of Albemarle County, VA. Only inset of Charlottesville, Virginia.",
-    "dc_description_s": "
-* Published by Carl Pitner, 404 Star Bldg., Washington-D.C.
-* Detailed inset map of Charlottesville at 1:6000 scale.
-* Shgeoserver white schools, high schools, colored schools, churches, improved roads, unimproved roads, district boundaries and railroads.
-* Also includes historic places and landmarks.
-* Other copies (not this one) were issued with printed statement "Compliments of the National Bank and Trust Co., Charlottesville, Va."
-* Multiple georeferenced versions: minimally adjusted (linear transformation: #1) and maximally adjusted (cubic transformation + rubbersheeting adjustment: #4).",
+    "dc_description_s": " * Published by Carl Pitner, 404 Star Bldg., Washington-D.C.  * Detailed inset map of Charlottesville at 1:6000 scale.  * Shgeoserver white schools, high schools, colored schools, churches, improved roads, unimproved roads, district boundaries and railroads.  * Also includes historic places and landmarks.  * Other copies (not this one) were issued with printed statement 'Compliments of the National Bank and Trust Co., Charlottesville, Va.' * Multiple georeferenced versions: minimally adjusted (linear transformation: #1) and maximally adjusted (cubic transformation + rubbersheeting adjustment: #4).",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"98434362-9ab9-4407-89a3-dd6b6fdf2609-5\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=HistAlbMAps:Pitner1920cville&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"98434362-9ab9-4407-89a3-dd6b6fdf2609-5.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"98434362-9ab9-4407-89a3-dd6b6fdf2609-5\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=HistAlbMAps:Pitner1920cville&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"98434362-9ab9-4407-89a3-dd6b6fdf2609-5.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "HistAlbMAps:Pitner1920cville",
     "layer_slug_s": "uva-HistAlbMAps:Pitner1920cville",
     "layer_geom_type_s": "Polygon",
@@ -26,3 +20,4 @@
     "georss_box_s": "37.722 -78.84 38.278 -78.207",
     "solr_year_i": 1920
 }
+} }

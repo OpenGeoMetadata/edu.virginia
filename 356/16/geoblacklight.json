@@ -1,12 +1,12 @@
-{
+{ "add": { "doc": {
     "uuid": "6d3aed6e-65da-4456-b839-4b609b3fc9da-16",
     "dc_identifier_s": "6d3aed6e-65da-4456-b839-4b609b3fc9da-16",
     "dc_title_s": "District of Columbia 2008 Assessment Sub-Neighborhoods",
     "dc_description_s": "Assessment Sub-Neighborhoods for Washington, DC.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"6d3aed6e-65da-4456-b839-4b609b3fc9da-16\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=Washington_DC:AsSubNbhdPly
-                                    AsSubNbhdPly_Type&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"6d3aed6e-65da-4456-b839-4b609b3fc9da-16.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"6d3aed6e-65da-4456-b839-4b609b3fc9da-16\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Washington_DC:AsSubNbhdPly
+                                    AsSubNbhdPly_Type&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"6d3aed6e-65da-4456-b839-4b609b3fc9da-16.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "Washington_DC:AsSubNbhdPly
                                     AsSubNbhdPly_Type",
     "layer_slug_s": "uva-Washington_DC:AsSubNbhdPly
@@ -23,3 +23,4 @@
     "georss_box_s": "38.79163 -77.1199 38.99596 -76.90912",
     "solr_year_i": 2000
 }
+} }

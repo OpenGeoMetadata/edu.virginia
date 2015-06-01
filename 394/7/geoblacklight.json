@@ -1,11 +1,11 @@
-{
+{ "add": { "doc": {
     "uuid": "a8e9c784-6ac3-426f-9848-a7337f30eb90-7",
     "dc_identifier_s": "a8e9c784-6ac3-426f-9848-a7337f30eb90-7",
     "dc_title_s": "UVA Cultural Landscape Survey 2008 Land Use",
     "dc_description_s": "Land use for the University of Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"a8e9c784-6ac3-426f-9848-a7337f30eb90-7\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wfs/reflect?layers=UVACLS:Land_Use&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"a8e9c784-6ac3-426f-9848-a7337f30eb90-7.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"a8e9c784-6ac3-426f-9848-a7337f30eb90-7\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=UVACLS:Land_Use&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"a8e9c784-6ac3-426f-9848-a7337f30eb90-7.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
     "layer_id_s": "UVACLS:Land_Use",
     "layer_slug_s": "uva-UVACLS:Land_Use",
     "layer_geom_type_s": "Polygon",
@@ -20,3 +20,4 @@
     "georss_box_s": "38.01878 -78.5527 38.05735 -78.48499",
     "solr_year_i": 1790
 }
+} }
