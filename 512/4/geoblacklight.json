@@ -1,4 +1,4 @@
-{ "add": { "doc": {
+{
     "uuid": "72cd2f2e-06d7-429c-9f1f-af597134c2fb-4",
     "dc_identifier_s": "72cd2f2e-06d7-429c-9f1f-af597134c2fb-4",
     "dc_title_s": "McGregor 000003010 - 1741 - A map of the British Empire in America : with the French, Spanish and Hollandish settlements adjacent thereto",
@@ -12,7 +12,16 @@
 * Identified as the 1st state of Dutch Key Map (Covens and Mortier) by Mark Babinski. See his Popple website at the University of Southern Maine Library.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"72cd2f2e-06d7-429c-9f1f-af597134c2fb-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003010_00011&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"72cd2f2e-06d7-429c-9f1f-af597134c2fb-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/72cd2f2e-06d7-429c-9f1f-af597134c2fb-4/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003010_00011&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/72cd2f2e-06d7-429c-9f1f-af597134c2fb-4/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "McGregor:000003010_00011",
     "layer_slug_s": "uva-McGregor:000003010_00011",
     "layer_geom_type_s": "Polygon",
@@ -27,4 +36,3 @@
     "georss_box_s": "0.253874 -115.02862 58.138731 -40.58023",
     "solr_year_i": 1741
 }
-} }

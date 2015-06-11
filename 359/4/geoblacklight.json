@@ -1,11 +1,20 @@
-{ "add": { "doc": {
+{
     "uuid": "b9f8e3e3-c591-41cf-8fed-402bbc5b6855-4",
     "dc_identifier_s": "b9f8e3e3-c591-41cf-8fed-402bbc5b6855-4",
     "dc_title_s": "Afghanistan 2005 Cultivated Areas",
     "dc_description_s": "Cultivated areas for Afghanistan.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"b9f8e3e3-c591-41cf-8fed-402bbc5b6855-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Afghanistan:CULT_ARE&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"b9f8e3e3-c591-41cf-8fed-402bbc5b6855-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/b9f8e3e3-c591-41cf-8fed-402bbc5b6855-4/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Afghanistan:CULT_ARE&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/b9f8e3e3-c591-41cf-8fed-402bbc5b6855-4/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "Afghanistan:CULT_ARE",
     "layer_slug_s": "uva-Afghanistan:CULT_ARE",
     "layer_geom_type_s": "Polygon",
@@ -20,4 +29,3 @@
     "georss_box_s": "29 60 39 75",
     "solr_year_i": 2003
 }
-} }

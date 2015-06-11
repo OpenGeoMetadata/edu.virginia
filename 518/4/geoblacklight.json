@@ -1,11 +1,26 @@
-{ "add": { "doc": {
+{
     "uuid": "c39e4af4-07f8-4be6-8665-93ec1240d3b4-4",
     "dc_identifier_s": "c39e4af4-07f8-4be6-8665-93ec1240d3b4-4",
     "dc_title_s": "McGregor 000003018 - 1683 - Virginie",
-    "dc_description_s": "* Author: Manesson-Mallet, Allain * Credit: Area Table 755 1683 Mallet * 'Fig. 15.' in upper right corner recto, just outside neatline.  * 'der Jungfrauen Landt.' printed above the upper margin, to the left of 'Fig. 15.' * Verso is blank.  * From an edition of Alain M. Mallet's Description de l'univers, Paris, 1683.  * Letter 'D' printed at right lower margin recto. Elizabeth Cocke Coles Fund.",
+    "dc_description_s": "* Author: Manesson-Mallet, Allain
+* Credit: Area Table 755 1683 Mallet
+        * "Fig. 15." in upper right corner recto, just outside neatline.
+        * "der Jungfrauen Landt." printed above the upper margin, to the left of "Fig. 15."
+        * Verso is blank.
+        * From an edition of Alain M. Mallet's Description de l'univers, Paris, 1683.
+* Letter "D" printed at right lower margin recto. Elizabeth Cocke Coles Fund.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"c39e4af4-07f8-4be6-8665-93ec1240d3b4-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003018_00011&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"c39e4af4-07f8-4be6-8665-93ec1240d3b4-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/c39e4af4-07f8-4be6-8665-93ec1240d3b4-4/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003018_00011&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/c39e4af4-07f8-4be6-8665-93ec1240d3b4-4/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "McGregor:000003018_00011",
     "layer_slug_s": "uva-McGregor:000003018_00011",
     "layer_geom_type_s": "Polygon",
@@ -20,4 +35,3 @@
     "georss_box_s": "35.923819 -79.045187 40.634346 -74.328558",
     "solr_year_i": 1683
 }
-} }

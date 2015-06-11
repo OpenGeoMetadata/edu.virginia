@@ -1,11 +1,20 @@
-{ "add": { "doc": {
+{
     "uuid": "d7115dd1-2ca0-416c-a641-a925c3a537b0-5",
     "dc_identifier_s": "d7115dd1-2ca0-416c-a641-a925c3a537b0-5",
     "dc_title_s": "Virginia Statewide 2008 Road Centerlines",
     "dc_description_s": "Road centerlines for Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"d7115dd1-2ca0-416c-a641-a925c3a537b0-5\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Virginia:RCL&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"d7115dd1-2ca0-416c-a641-a925c3a537b0-5.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/d7115dd1-2ca0-416c-a641-a925c3a537b0-5/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Virginia:RCL&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/d7115dd1-2ca0-416c-a641-a925c3a537b0-5/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "Virginia:RCL",
     "layer_slug_s": "uva-Virginia:RCL",
     "layer_geom_type_s": "Polygon",
@@ -18,4 +27,3 @@
     "solr_geom": "ENVELOPE(-83.830748, -75.245577, 39.4468, 36.458983)",
     "georss_box_s": "36.458983 -83.830748 39.4468 -75.245577"
 }
-} }

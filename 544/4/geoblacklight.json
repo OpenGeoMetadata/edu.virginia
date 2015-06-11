@@ -1,4 +1,4 @@
-{ "add": { "doc": {
+{
     "uuid": "d5e3db35-e327-4e50-8d05-976b64acd2a5-4",
     "dc_identifier_s": "d5e3db35-e327-4e50-8d05-976b64acd2a5-4",
     "dc_title_s": "Massie - 1907 - A new and historical map of Albemarle County, Virginia",
@@ -11,7 +11,16 @@
 * Commonly referred to as the Massie map.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"d5e3db35-e327-4e50-8d05-976b64acd2a5-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Massie:Massie1907VaRR&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"d5e3db35-e327-4e50-8d05-976b64acd2a5-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/d5e3db35-e327-4e50-8d05-976b64acd2a5-4/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Massie:Massie1907VaRR&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/d5e3db35-e327-4e50-8d05-976b64acd2a5-4/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "Massie:Massie1907VaRR",
     "layer_slug_s": "uva-Massie:Massie1907VaRR",
     "layer_geom_type_s": "Polygon",
@@ -26,4 +35,3 @@
     "georss_box_s": "37.722 -78.84 38.278 -78.207",
     "solr_year_i": 1900
 }
-} }

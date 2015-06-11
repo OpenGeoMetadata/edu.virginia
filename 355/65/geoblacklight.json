@@ -1,11 +1,20 @@
-{ "add": { "doc": {
+{
     "uuid": "c0f7d37a-2056-4958-a072-3c475ca49c80-65",
     "dc_identifier_s": "c0f7d37a-2056-4958-a072-3c475ca49c80-65",
     "dc_title_s": "Albemarle 2007 Soils",
     "dc_description_s": "Soils for Albemarle County, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"c0f7d37a-2056-4958-a072-3c475ca49c80-65\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Albemarle:albemarle_soils&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"c0f7d37a-2056-4958-a072-3c475ca49c80-65.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/c0f7d37a-2056-4958-a072-3c475ca49c80-65/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Albemarle:albemarle_soils&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/c0f7d37a-2056-4958-a072-3c475ca49c80-65/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "Albemarle:albemarle_soils",
     "layer_slug_s": "uva-Albemarle:albemarle_soils",
     "layer_geom_type_s": "Polygon",
@@ -20,4 +29,3 @@
     "georss_box_s": "37.72255 -78.83913 38.27794 -78.20801",
     "solr_year_i": 2000
 }
-} }

@@ -1,11 +1,20 @@
-{ "add": { "doc": {
+{
     "uuid": "8077194b-2399-4af3-912b-c32479c80881-4",
     "dc_identifier_s": "8077194b-2399-4af3-912b-c32479c80881-4",
     "dc_title_s": "McGregor 000003482 - 1635 - Nova Virginiae tabula",
     "dc_description_s": "Credit: Area Table 755 1630 Blaeu 1635",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"8077194b-2399-4af3-912b-c32479c80881-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003482_00011&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"8077194b-2399-4af3-912b-c32479c80881-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/8077194b-2399-4af3-912b-c32479c80881-4/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003482_00011&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/8077194b-2399-4af3-912b-c32479c80881-4/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "McGregor:000003482_00011",
     "layer_slug_s": "uva-McGregor:000003482_00011",
     "layer_geom_type_s": "Polygon",
@@ -20,4 +29,3 @@
     "georss_box_s": "36.22 -78.53 39.453 -74.309",
     "solr_year_i": 1630
 }
-} }

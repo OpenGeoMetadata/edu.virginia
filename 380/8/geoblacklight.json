@@ -1,11 +1,20 @@
-{ "add": { "doc": {
+{
     "uuid": "8ce1500e-c12e-4529-b27f-ef5980b249ba-8",
     "dc_identifier_s": "8ce1500e-c12e-4529-b27f-ef5980b249ba-8",
     "dc_title_s": "Henrico 2004 Hydrology Lines",
     "dc_description_s": "Hydrology line features for Henrico County, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"8ce1500e-c12e-4529-b27f-ef5980b249ba-8\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Henrico:hydrol&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"8ce1500e-c12e-4529-b27f-ef5980b249ba-8.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/8ce1500e-c12e-4529-b27f-ef5980b249ba-8/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Henrico:hydrol&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/8ce1500e-c12e-4529-b27f-ef5980b249ba-8/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "Henrico:hydrol",
     "layer_slug_s": "uva-Henrico:hydrol",
     "layer_geom_type_s": "Polygon",
@@ -20,4 +29,3 @@
     "georss_box_s": "37.3523 -77.65805 37.71074 -77.17331",
     "solr_year_i": 2003
 }
-} }

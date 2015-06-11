@@ -1,11 +1,20 @@
-{ "add": { "doc": {
+{
     "uuid": "3ba2cce2-baa9-4abf-aa4c-2d1575697329-12",
     "dc_identifier_s": "3ba2cce2-baa9-4abf-aa4c-2d1575697329-12",
     "dc_title_s": "Rappahannock River Basin 1998 Public Land",
     "dc_description_s": "Public land for Rappahannock River Basin.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"3ba2cce2-baa9-4abf-aa4c-2d1575697329-12\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Rappahannock_River_Basin:publands&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"3ba2cce2-baa9-4abf-aa4c-2d1575697329-12.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/3ba2cce2-baa9-4abf-aa4c-2d1575697329-12/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Rappahannock_River_Basin:publands&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/3ba2cce2-baa9-4abf-aa4c-2d1575697329-12/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "Rappahannock_River_Basin:publands",
     "layer_slug_s": "uva-Rappahannock_River_Basin:publands",
     "layer_geom_type_s": "Polygon",
@@ -20,4 +29,3 @@
     "georss_box_s": "37.55 -78.527 38.897 -76.281",
     "solr_year_i": 1998
 }
-} }

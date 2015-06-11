@@ -1,11 +1,20 @@
-{ "add": { "doc": {
+{
     "uuid": "072c6724-8b20-42e1-85dc-0aedda83fa4c-4",
     "dc_identifier_s": "072c6724-8b20-42e1-85dc-0aedda83fa4c-4",
     "dc_title_s": "McGregor 000003012 - 1775 - A map of the most inhabited part of Virginia : containing the whole province of Maryland with part of PA, NJ and NC",
     "dc_description_s": "Author: Fry, Joshua Credit: Area Table 755 1775 Fry",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"072c6724-8b20-42e1-85dc-0aedda83fa4c-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003012_st1&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"072c6724-8b20-42e1-85dc-0aedda83fa4c-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/072c6724-8b20-42e1-85dc-0aedda83fa4c-4/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003012_st1&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/072c6724-8b20-42e1-85dc-0aedda83fa4c-4/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "McGregor:000003012_st1",
     "layer_slug_s": "uva-McGregor:000003012_st1",
     "layer_geom_type_s": "Polygon",
@@ -20,4 +29,3 @@
     "georss_box_s": "35.731 -84.104 40.511 -74",
     "solr_year_i": 1775
 }
-} }

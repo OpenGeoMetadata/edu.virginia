@@ -1,11 +1,20 @@
-{ "add": { "doc": {
+{
     "uuid": "5e7b4eae-c575-4ce9-b9ec-3ffb1b0c5f2b-4",
     "dc_identifier_s": "5e7b4eae-c575-4ce9-b9ec-3ffb1b0c5f2b-4",
     "dc_title_s": "Hanover 2004 Buildings",
     "dc_description_s": "Buildings for Hanover County, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"5e7b4eae-c575-4ce9-b9ec-3ffb1b0c5f2b-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Hanover:bldg&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"5e7b4eae-c575-4ce9-b9ec-3ffb1b0c5f2b-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/5e7b4eae-c575-4ce9-b9ec-3ffb1b0c5f2b-4/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Hanover:bldg&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/5e7b4eae-c575-4ce9-b9ec-3ffb1b0c5f2b-4/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "Hanover:bldg",
     "layer_slug_s": "uva-Hanover:bldg",
     "layer_geom_type_s": "Polygon",
@@ -20,4 +29,3 @@
     "georss_box_s": "37.538 -77.805 38.008 -77.108",
     "solr_year_i": 2001
 }
-} }

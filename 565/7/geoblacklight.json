@@ -1,11 +1,20 @@
-{ "add": { "doc": {
+{
     "uuid": "8f1a97d1-6c95-4106-b1b1-c326e0eb1624-7",
     "dc_identifier_s": "8f1a97d1-6c95-4106-b1b1-c326e0eb1624-7",
     "dc_title_s": "USGS 2009 VA DOQQ index map and inventory status",
     "dc_description_s": "Digital Orthophoto Quarter Quadrangle (DOQQ) inventory map, includes attribute data about the archival status and location of each individual VA DOQQ image in the Scholar Lab's collection. Included in that additional information is the data on which each individual photo was taken.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"8f1a97d1-6c95-4106-b1b1-c326e0eb1624-7\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=USGSindexmaps:uva_va_doqqinv2010&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"8f1a97d1-6c95-4106-b1b1-c326e0eb1624-7.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/8f1a97d1-6c95-4106-b1b1-c326e0eb1624-7/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=USGSindexmaps:uva_va_doqqinv2010&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/8f1a97d1-6c95-4106-b1b1-c326e0eb1624-7/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "USGSindexmaps:uva_va_doqqinv2010",
     "layer_slug_s": "uva-USGSindexmaps:uva_va_doqqinv2010",
     "layer_geom_type_s": "Polygon",
@@ -20,4 +29,3 @@
     "georss_box_s": "36.5 -83.75 39.5 -75.125",
     "solr_year_i": 1932
 }
-} }

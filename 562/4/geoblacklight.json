@@ -1,4 +1,4 @@
-{ "add": { "doc": {
+{
     "uuid": "a9c16f15-80fa-4a57-bb1a-cdfe52a181f5-4",
     "dc_identifier_s": "a9c16f15-80fa-4a57-bb1a-cdfe52a181f5-4",
     "dc_title_s": "McGregor  000003015 - 1786 - A new map of the United States of North America, with the British Dominions on that Continent &c.",
@@ -11,7 +11,16 @@
 * First published by Sayer in 1774, with several subsequent imprint dates. Cf. McCorkle.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"a9c16f15-80fa-4a57-bb1a-cdfe52a181f5-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003015_000CC&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"a9c16f15-80fa-4a57-bb1a-cdfe52a181f5-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/a9c16f15-80fa-4a57-bb1a-cdfe52a181f5-4/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003015_000CC&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/a9c16f15-80fa-4a57-bb1a-cdfe52a181f5-4/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "McGregor:000003015_000CC",
     "layer_slug_s": "uva-McGregor:000003015_000CC",
     "layer_geom_type_s": "Polygon",
@@ -26,4 +35,3 @@
     "georss_box_s": "6.132 -123.4152 57.265 14.5747",
     "solr_year_i": 1786
 }
-} }

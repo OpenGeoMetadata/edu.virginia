@@ -1,11 +1,20 @@
-{ "add": { "doc": {
+{
     "uuid": "8ea8c93c-a8bd-4446-bb36-8bfae66d98a0-15",
     "dc_identifier_s": "8ea8c93c-a8bd-4446-bb36-8bfae66d98a0-15",
     "dc_title_s": "University of Virginia 1994 Structures",
     "dc_description_s": "Structures for the University of Virginia from 1994.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"8ea8c93c-a8bd-4446-bb36-8bfae66d98a0-15\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=UVA94:uva94_structures&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"8ea8c93c-a8bd-4446-bb36-8bfae66d98a0-15.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/8ea8c93c-a8bd-4446-bb36-8bfae66d98a0-15/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=UVA94:uva94_structures&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/8ea8c93c-a8bd-4446-bb36-8bfae66d98a0-15/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "UVA94:uva94_structures",
     "layer_slug_s": "uva-UVA94:uva94_structures",
     "layer_geom_type_s": "Polygon",
@@ -20,4 +29,3 @@
     "georss_box_s": "38.02109 -78.48596 38.06727 -78.5526",
     "solr_year_i": 1992
 }
-} }

@@ -1,11 +1,20 @@
-{ "add": { "doc": {
+{
     "uuid": "a5f8b200-7787-4064-9527-23629d8c01bc-4",
     "dc_identifier_s": "a5f8b200-7787-4064-9527-23629d8c01bc-4",
     "dc_title_s": "McGregor 000003005 - 1730 - Carte de la Louisiane et du cours de Mississipi",
     "dc_description_s": "Author: L'Isle, Guillaume de. Credit: Area Table 73-05 1718 L'Isle 1730.  *//*  Includes inset showing New Orleans, Missisippi River delta, and Mobile Bay.  Shgeoserver the routes of various European explorers as well as many Native American habitations and nations.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"a5f8b200-7787-4064-9527-23629d8c01bc-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003005_00011&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"a5f8b200-7787-4064-9527-23629d8c01bc-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/a5f8b200-7787-4064-9527-23629d8c01bc-4/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003005_00011&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/a5f8b200-7787-4064-9527-23629d8c01bc-4/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "McGregor:000003005_00011",
     "layer_slug_s": "uva-McGregor:000003005_00011",
     "layer_geom_type_s": "Polygon",
@@ -20,4 +29,3 @@
     "georss_box_s": "22.785 -125.515 50.499 -51.699",
     "solr_year_i": 1730
 }
-} }

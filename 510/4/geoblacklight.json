@@ -1,4 +1,4 @@
-{ "add": { "doc": {
+{
     "uuid": "abbeb057-8cdb-462a-9c6e-5c992b4fe915-4",
     "dc_identifier_s": "abbeb057-8cdb-462a-9c6e-5c992b4fe915-4",
     "dc_title_s": "McGregor 000003008 - 1695 - A new map of the English empire in America : viz Virginia New York MaryLand New Iarsey Carolina New England Pennsylvania Newfoundland New France &c.",
@@ -6,7 +6,16 @@
 Credit: Area Table 7 1695 Morden",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"abbeb057-8cdb-462a-9c6e-5c992b4fe915-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003008_00011&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"abbeb057-8cdb-462a-9c6e-5c992b4fe915-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/abbeb057-8cdb-462a-9c6e-5c992b4fe915-4/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003008_00011&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/abbeb057-8cdb-462a-9c6e-5c992b4fe915-4/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "McGregor:000003008_00011",
     "layer_slug_s": "uva-McGregor:000003008_00011",
     "layer_geom_type_s": "Polygon",
@@ -21,4 +30,3 @@ Credit: Area Table 7 1695 Morden",
     "georss_box_s": "22.746 -100.84 49.351 -36.864",
     "solr_year_i": 1806
 }
-} }

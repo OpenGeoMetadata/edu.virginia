@@ -1,11 +1,20 @@
-{ "add": { "doc": {
+{
     "uuid": "7f998281-a1ee-4fde-8f74-7bc92f98a1c3-9",
     "dc_identifier_s": "7f998281-a1ee-4fde-8f74-7bc92f98a1c3-9",
     "dc_title_s": "Virginia Base Map Program 2007 VGIN Tile 400 South",
     "dc_description_s": "Virginia Geographic Information Network (VGIN) tile 400 south.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"7f998281-a1ee-4fde-8f74-7bc92f98a1c3-9\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=VBMP:vgin_tile_400_south&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"7f998281-a1ee-4fde-8f74-7bc92f98a1c3-9.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/7f998281-a1ee-4fde-8f74-7bc92f98a1c3-9/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=VBMP:vgin_tile_400_south&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/7f998281-a1ee-4fde-8f74-7bc92f98a1c3-9/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "VBMP:vgin_tile_400_south",
     "layer_slug_s": "uva-VBMP:vgin_tile_400_south",
     "layer_geom_type_s": "Polygon",
@@ -18,4 +27,3 @@
     "solr_geom": "ENVELOPE(-83.7, -75.1, 39.51, 36.45)",
     "georss_box_s": "36.45 -83.7 39.51 -75.1"
 }
-} }

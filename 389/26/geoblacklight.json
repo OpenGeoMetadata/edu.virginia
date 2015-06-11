@@ -1,11 +1,20 @@
-{ "add": { "doc": {
+{
     "uuid": "0c2b60a5-f6a4-40ab-8495-7c22097f02f2-26",
     "dc_identifier_s": "0c2b60a5-f6a4-40ab-8495-7c22097f02f2-26",
     "dc_title_s": "Loudoun 2005 LCSA Sewers",
     "dc_description_s": "Loudoun County Sanitation Authority (LCSA) sewers for Loudoun County, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"0c2b60a5-f6a4-40ab-8495-7c22097f02f2-26\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Loudoun:lcsa_sewater_arc&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"0c2b60a5-f6a4-40ab-8495-7c22097f02f2-26.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/0c2b60a5-f6a4-40ab-8495-7c22097f02f2-26/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Loudoun:lcsa_sewater_arc&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/0c2b60a5-f6a4-40ab-8495-7c22097f02f2-26/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "Loudoun:lcsa_sewater_arc",
     "layer_slug_s": "uva-Loudoun:lcsa_sewater_arc",
     "layer_geom_type_s": "Polygon",
@@ -20,4 +29,3 @@
     "georss_box_s": "38.84437 -77.96328 39.32594 -77.32408",
     "solr_year_i": 2008
 }
-} }

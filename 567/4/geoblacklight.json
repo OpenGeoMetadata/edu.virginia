@@ -1,11 +1,20 @@
-{ "add": { "doc": {
+{
     "uuid": "6f6da182-9354-45dd-be23-828e89b2c2e9-4",
     "dc_identifier_s": "6f6da182-9354-45dd-be23-828e89b2c2e9-4",
     "dc_title_s": "USGS 2008 FGDC Metadata",
     "dc_description_s": "Full USGS - FGDC metadata.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"6f6da182-9354-45dd-be23-828e89b2c2e9-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Full USGS - FGDC metadata  (UVA copy)&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"6f6da182-9354-45dd-be23-828e89b2c2e9-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/6f6da182-9354-45dd-be23-828e89b2c2e9-4/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Full USGS - FGDC metadata  (UVA copy)&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/6f6da182-9354-45dd-be23-828e89b2c2e9-4/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "Full USGS - FGDC metadata  (UVA copy)",
     "layer_slug_s": "uva-Full USGS - FGDC metadata  (UVA copy)",
     "layer_geom_type_s": "Polygon",
@@ -20,4 +29,3 @@
     "georss_box_s": "36.535133 -83.675682 39.465752 -75.09758",
     "solr_year_i": 2005
 }
-} }

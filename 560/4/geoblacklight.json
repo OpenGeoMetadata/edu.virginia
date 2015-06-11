@@ -1,4 +1,4 @@
-{ "add": { "doc": {
+{
     "uuid": "31e7c3e1-6523-4cb2-87db-ed31c0df4d75-4",
     "dc_identifier_s": "31e7c3e1-6523-4cb2-87db-ed31c0df4d75-4",
     "dc_title_s": "McGregor 000003021 - 1747 (copy 2) - A survey of the Northern Neck of Virginia, being the lands belonging to the Rt. Honourable Thomas Lord Fairfax Baron Cameron, bounded by & within the Bay of Chesapoyocke and between the rivers Rappahannock and Potowmack: With the courses of the rivers Rappahannock and Potowmack, in Virginia, as surveyed according to order in the years 1736 & 1737.",
@@ -9,7 +9,16 @@
 * SPECIAL COLLECTIONS. Copy 2 Uncolored and without annotations. Imperfect, with tears and extra creases; tissue backed.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"31e7c3e1-6523-4cb2-87db-ed31c0df4d75-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003021_00011&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"31e7c3e1-6523-4cb2-87db-ed31c0df4d75-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/31e7c3e1-6523-4cb2-87db-ed31c0df4d75-4/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003021_00011&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/31e7c3e1-6523-4cb2-87db-ed31c0df4d75-4/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "McGregor:000003021_00011",
     "layer_slug_s": "uva-McGregor:000003021_00011",
     "layer_geom_type_s": "Polygon",
@@ -24,4 +33,3 @@
     "georss_box_s": "37.045 -80.07965 40.133 -75.46588",
     "solr_year_i": 1806
 }
-} }

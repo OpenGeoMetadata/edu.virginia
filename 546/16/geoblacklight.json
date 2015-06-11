@@ -1,11 +1,20 @@
-{ "add": { "doc": {
+{
     "uuid": "a8240059-86f5-4cb4-98fc-a10ace4d2d94-16",
     "dc_identifier_s": "a8240059-86f5-4cb4-98fc-a10ace4d2d94-16",
     "dc_title_s": "Sanborn Fire Insurance Maps - Charlottesville, VA - 1907 Map 10",
     "dc_description_s": "Map 10 of the Sanborn Fire Insurance Maps.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"a8240059-86f5-4cb4-98fc-a10ace4d2d94-16\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=SanbornCVL:1907map10&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"a8240059-86f5-4cb4-98fc-a10ace4d2d94-16.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/a8240059-86f5-4cb4-98fc-a10ace4d2d94-16/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=SanbornCVL:1907map10&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/a8240059-86f5-4cb4-98fc-a10ace4d2d94-16/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "SanbornCVL:1907map10",
     "layer_slug_s": "uva-SanbornCVL:1907map10",
     "layer_geom_type_s": "Polygon",
@@ -20,4 +29,3 @@
     "georss_box_s": "37.988007 -78.524842 38.050745 -78.451464",
     "solr_year_i": 1907
 }
-} }

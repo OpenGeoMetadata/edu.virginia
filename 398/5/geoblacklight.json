@@ -1,11 +1,20 @@
-{ "add": { "doc": {
+{
     "uuid": "d7388bbb-29df-4968-b446-e574d5d0a737-5",
     "dc_identifier_s": "d7388bbb-29df-4968-b446-e574d5d0a737-5",
     "dc_title_s": "Chesapeake Bay Program 2003 Waterbodies",
     "dc_description_s": "Waterbodies for the Chesapeake Bay Program.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"d7388bbb-29df-4968-b446-e574d5d0a737-5\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Chesapeake_Bay_Program:wb&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"d7388bbb-29df-4968-b446-e574d5d0a737-5.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/d7388bbb-29df-4968-b446-e574d5d0a737-5/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Chesapeake_Bay_Program:wb&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/d7388bbb-29df-4968-b446-e574d5d0a737-5/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "Chesapeake_Bay_Program:wb",
     "layer_slug_s": "uva-Chesapeake_Bay_Program:wb",
     "layer_geom_type_s": "Polygon",
@@ -18,4 +27,3 @@
     "solr_geom": "ENVELOPE(-80.99831, -73.999555, 43.500083, 36.59637)",
     "georss_box_s": "36.59637 -80.99831 43.500083 -73.999555"
 }
-} }

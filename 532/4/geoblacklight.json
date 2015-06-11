@@ -1,11 +1,20 @@
-{ "add": { "doc": {
+{
     "uuid": "9befed21-450c-4535-851f-d62a25ea97fd-4",
     "dc_identifier_s": "9befed21-450c-4535-851f-d62a25ea97fd-4",
     "dc_title_s": "McGregor 000003038 - 1635 - New England : the most remarqueable parts thus named by the high and mighty Prince Charles, nowe King of great Britaine",
     "dc_description_s": "Author: Smith, John Credit: Area Table 74 1616 Smith 1635",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"9befed21-450c-4535-851f-d62a25ea97fd-4\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003038_00011&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"9befed21-450c-4535-851f-d62a25ea97fd-4.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/9befed21-450c-4535-851f-d62a25ea97fd-4/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003038_00011&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/9befed21-450c-4535-851f-d62a25ea97fd-4/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "McGregor:000003038_00011",
     "layer_slug_s": "uva-McGregor:000003038_00011",
     "layer_geom_type_s": "Polygon",
@@ -20,4 +29,3 @@
     "georss_box_s": "39.75 -74.45 44 -68",
     "solr_year_i": 1635
 }
-} }

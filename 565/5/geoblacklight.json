@@ -1,11 +1,20 @@
-{ "add": { "doc": {
+{
     "uuid": "8f1a97d1-6c95-4106-b1b1-c326e0eb1624-5",
     "dc_identifier_s": "8f1a97d1-6c95-4106-b1b1-c326e0eb1624-5",
     "dc_title_s": "ESRI 2009 1:100,000 USGS quad index metadata (UVA portal copy)",
     "dc_description_s": "Metadata for full quadrangle index maps at 1:100,000 scale.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://schema.org/url\":\"8f1a97d1-6c95-4106-b1b1-c326e0eb1624-5\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=UVA's Virginia Gazetteer - online access to USGS DRGs, DEMs, DOQQs, and more&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"8f1a97d1-6c95-4106-b1b1-c326e0eb1624-5.iso19139\",\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"}",
+    "dct_references_s": "{
+        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/8f1a97d1-6c95-4106-b1b1-c326e0eb1624-5/iso19139.html\",
+        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=UVA's Virginia Gazetteer - online access to USGS DRGs, DEMs, DOQQs, and more&request=GetFeature&outputFormat=shape-zip\",
+        
+        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/8f1a97d1-6c95-4106-b1b1-c326e0eb1624-5/iso19139.xml\",
+        
+        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
+        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
+        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
+    }",
     "layer_id_s": "UVA's Virginia Gazetteer - online access to USGS DRGs, DEMs, DOQQs, and more",
     "layer_slug_s": "uva-UVA's Virginia Gazetteer - online access to USGS DRGs, DEMs, DOQQs, and more",
     "layer_geom_type_s": "Polygon",
@@ -20,4 +29,3 @@
     "georss_box_s": "36.5 -83.75 39.5 -75.125",
     "solr_year_i": 1932
 }
-} }
