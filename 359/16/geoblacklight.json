@@ -5,7 +5,7 @@
     "dc_description_s": "River polygon features for Afghanistan.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Afghanistan:river_region&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io//edu.virginia/359/16/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS\\u0026typeName=Afghanistan:river_region\\u0026request=GetFeature\\u0026outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/359/16/iso19139.xml\"}",
     "layer_id_s": "Afghanistan:river_region",
     "layer_slug_s": "uva-Afghanistan:river_region",
     "layer_geom_type_s": "MultiPolygon",
@@ -16,7 +16,7 @@
     "georss_box_s": "29.0 60.0 39.0 75.0",
     "layer_modified_dt": "2008-11-13T18:37:19Z",
     "dc_subject_sm": [
-        "inlandWaters"
+        "Inland Waters"
     ],
     "dct_issued_s": "2008-10-01",
     "dct_temporal_sm": "2003-2005",

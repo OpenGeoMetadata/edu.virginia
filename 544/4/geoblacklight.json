@@ -5,7 +5,7 @@
     "dc_description_s": "Author: Frank A. Massie.  Credit: Owned and published by the Virginia School Company, 1907.  UVA library call#: G3883 .A3 1907 .M3.\n* Inset: Junction rail road map of Virginia, also showing relative position of Albemarle Co. in the state.\n* Includes statistics for Albemarle County and Charlottesville for 1906; population figures for 1900.\n* Elevation indicated by hachures.\n* Contains geographic and geological features, roads, railroads, telephone lines, post offices, voting places, schools (white, colored, and high schools), churches, historic sites, and homes of many county residents.\n* Additional historical notes in the map margins.\n* Commonly referred to as the Massie map.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Massie:Massie1907VaRR&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io//edu.virginia/544/4/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS\\u0026typeName=Massie:Massie1907VaRR\\u0026request=GetFeature\\u0026outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/544/4/iso19139.xml\"}",
     "layer_id_s": "Massie:Massie1907VaRR",
     "layer_slug_s": "uva-Massie:Massie1907VaRR",
     "layer_geom_type_s": "Polygon",
@@ -16,7 +16,7 @@
     "georss_box_s": "37.722 -78.84 38.278 -78.207",
     "layer_modified_dt": "2010-10-19T15:10:01Z",
     "dc_subject_sm": [
-        "imageryBaseMapsEarthCover"
+        "Imagery Base Maps Earth Cover"
     ],
     "dct_issued_s": "2010-01-06",
     "dct_temporal_sm": "1900-1907",

@@ -5,7 +5,7 @@
     "dc_description_s": "Metadata for full quadrangle index maps at 1:250,000 scale.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=UVA's Virginia Gazetteer - online access to USGS DRGs, DEMs, DOQQs, and more&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io//edu.virginia/565/6/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS\\u0026typeName=UVA's Virginia Gazetteer - online access to USGS DRGs, DEMs, DOQQs, and more\\u0026request=GetFeature\\u0026outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/565/6/iso19139.xml\"}",
     "layer_id_s": "UVA's Virginia Gazetteer - online access to USGS DRGs, DEMs, DOQQs, and more",
     "layer_slug_s": "uva-UVA's Virginia Gazetteer - online access to USGS DRGs, DEMs, DOQQs, and more",
     "layer_geom_type_s": "Polygon",
@@ -16,7 +16,7 @@
     "georss_box_s": "36.5 -83.75 39.5 -75.125",
     "layer_modified_dt": "2010-11-08T20:16:13Z",
     "dc_subject_sm": [
-        "location"
+        "Location"
     ],
     "dct_issued_s": "2009-08-27",
     "dct_temporal_sm": "1932-1998",

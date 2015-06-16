@@ -5,7 +5,7 @@
     "dc_description_s": "Author: Duval, P. (Pierre).  Credit: Area Table 181-2 1677 Duval.  *//* shgeoserver primarily North and Central America, plus fictional or misplaced lands in the Pacific.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003143_00011&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io//edu.virginia/548/4/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS\\u0026typeName=McGregor:000003143_00011\\u0026request=GetFeature\\u0026outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/548/4/iso19139.xml\"}",
     "layer_id_s": "McGregor:000003143_00011",
     "layer_slug_s": "uva-McGregor:000003143_00011",
     "layer_geom_type_s": "Polygon",
@@ -16,7 +16,7 @@
     "georss_box_s": "-10.0 -169.1 88.9 -25.0",
     "layer_modified_dt": "2010-10-18T14:35:59Z",
     "dc_subject_sm": [
-        "imageryBaseMapsEarthCover"
+        "Imagery Base Maps Earth Cover"
     ],
     "dct_issued_s": "2010-04-05",
     "dct_temporal_sm": "1677-1677",

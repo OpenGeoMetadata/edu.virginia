@@ -5,7 +5,7 @@
     "dc_description_s": "Vehicle driveways in Charlottesville, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Charlottesville2010:CV10_vehicle_driveway_area&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io//edu.virginia/564/27/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS\\u0026typeName=Charlottesville2010:CV10_vehicle_driveway_area\\u0026request=GetFeature\\u0026outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/564/27/iso19139.xml\"}",
     "layer_id_s": "Charlottesville2010:CV10_vehicle_driveway_area",
     "layer_slug_s": "uva-Charlottesville2010:CV10_vehicle_driveway_area",
     "layer_geom_type_s": "MultiPolygon",
@@ -16,7 +16,7 @@
     "georss_box_s": "37.97745 -78.67702 38.19625 -78.34292",
     "layer_modified_dt": "2010-11-08T17:14:48Z",
     "dc_subject_sm": [
-        "transportation"
+        "Transportation"
     ],
     "dct_issued_s": "2010-11-08",
     "dct_temporal_sm": "2010-2010",

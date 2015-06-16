@@ -5,7 +5,7 @@
     "dc_description_s": "Water bodies from 2009 for the Mountain Lake Biological Station.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=MLBS_2009:WBD&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io//edu.virginia/403/27/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS\\u0026typeName=MLBS_2009:WBD\\u0026request=GetFeature\\u0026outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/403/27/iso19139.xml\"}",
     "layer_id_s": "MLBS_2009:WBD",
     "layer_slug_s": "uva-MLBS_2009:WBD",
     "layer_geom_type_s": "MultiPolygon",
@@ -16,7 +16,7 @@
     "georss_box_s": "37.123 -81.126 37.511 -80.376",
     "layer_modified_dt": "2011-10-13T12:48:38Z",
     "dc_subject_sm": [
-        "inlandWaters"
+        "Inland Waters"
     ],
     "dct_issued_s": "2009-04-21",
     "dct_temporal_sm": "2002-2004",
