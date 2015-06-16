@@ -5,27 +5,20 @@
     "dc_description_s": "Hydrology line features for Norfolk, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{
-        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/315fc8ee-3b57-4ebb-aa24-4300f1c42dc9-7/iso19139.html\",
-        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Norfolk:hydrol_arc&request=GetFeature&outputFormat=shape-zip\",
-        
-        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/315fc8ee-3b57-4ebb-aa24-4300f1c42dc9-7/iso19139.xml\",
-        
-        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
-        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
-        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
-    }",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/url\":\"https://opengeometadata.github.io/edu.virginia/315fc8ee-3b57-4ebb-aa24-4300f1c42dc9-7/iso19139.html\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Norfolk:hydrol_arc&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/315fc8ee-3b57-4ebb-aa24-4300f1c42dc9-7/iso19139.xml\"}",
     "layer_id_s": "Norfolk:hydrol_arc",
     "layer_slug_s": "uva-Norfolk:hydrol_arc",
-    "layer_geom_type_s": "Polygon",
-    "layer_modified_dt": "2008-11-12T15:29:47Z",
+    "layer_geom_type_s": "MultiLineString",
     "dc_format_s": "application/x-esri-shapefile",
     "dc_language_s": "eng",
-    "dc_subject_sm": ["inlandWaters"],
-    "dct_issued_s": "2008-10-17",
-    "dct_temporal_sm": "2005",
     "georss_polygon_s": "36.82 -76.346 36.971 -76.346 36.971 -76.176 36.82 -76.176 36.82 -76.346",
     "solr_geom": "ENVELOPE(-76.346, -76.176, 36.971, 36.82)",
     "georss_box_s": "36.82 -76.346 36.971 -76.176",
+    "layer_modified_dt": "2008-11-12T15:29:47Z",
+    "dc_subject_sm": [
+        "inlandWaters"
+    ],
+    "dct_issued_s": "2008-10-17",
+    "dct_temporal_sm": "2005-2005",
     "solr_year_i": 2005
 }

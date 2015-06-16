@@ -2,36 +2,23 @@
     "uuid": "42c4bad6-bc6f-4559-be6f-b2fa873ea007-4",
     "dc_identifier_s": "42c4bad6-bc6f-4559-be6f-b2fa873ea007-4",
     "dc_title_s": "McGregor 000003039 - 1747 (1852) - A survey of the Northern Neck of Virginia, being the lands belonging to the Rt. Honourable Thomas Lord Fairfax Baron Cameron, bounded by & within the Bay of Chesapoyocke and between the rivers Rappahannock and Potowmack: With the courses of the rivers Rappahannock and Potowmack, in Virginia, as surveyed according to order in the years 1736 & 1737.",
-    "dc_description_s": "
-* Credit: Area Table 755-2 1747 Warner 1852
-* Published: London : Litho. Photographic Inst. 492, New Oxford Street, [ca. 1852]
-* Stephenson and McKee attribute the 1747 (larger) issue map to John Warner.
-* Relief shown pictorially.
-* Date of publication from Swem.
-* SPECIAL COLLECTIONS. Generally soiled; linen backed.",
+    "dc_description_s": "* Credit: Area Table 755-2 1747 Warner 1852\n* Published: London : Litho. Photographic Inst. 492, New Oxford Street, [ca. 1852]\n* Stephenson and McKee attribute the 1747 (larger) issue map to John Warner.\n* Relief shown pictorially.\n* Date of publication from Swem.\n* SPECIAL COLLECTIONS. Generally soiled; linen backed.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{
-        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/42c4bad6-bc6f-4559-be6f-b2fa873ea007-4/iso19139.html\",
-        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003039_00011&request=GetFeature&outputFormat=shape-zip\",
-        
-        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/42c4bad6-bc6f-4559-be6f-b2fa873ea007-4/iso19139.xml\",
-        
-        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
-        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
-        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
-    }",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/url\":\"https://opengeometadata.github.io/edu.virginia/42c4bad6-bc6f-4559-be6f-b2fa873ea007-4/iso19139.html\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003039_00011&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/42c4bad6-bc6f-4559-be6f-b2fa873ea007-4/iso19139.xml\"}",
     "layer_id_s": "McGregor:000003039_00011",
     "layer_slug_s": "uva-McGregor:000003039_00011",
     "layer_geom_type_s": "Polygon",
-    "layer_modified_dt": "2010-10-21T15:16:16Z",
     "dc_format_s": "",
     "dc_language_s": "eng",
-    "dc_subject_sm": ["imageryBaseMapsEarthCover"],
-    "dct_issued_s": "2009-07-14",
-    "dct_temporal_sm": "1852",
     "georss_polygon_s": "37.045 -80.07965 40.133 -80.07965 40.133 -75.46588 37.045 -75.46588 37.045 -80.07965",
     "solr_geom": "ENVELOPE(-80.07965, -75.46588, 40.133, 37.045)",
     "georss_box_s": "37.045 -80.07965 40.133 -75.46588",
+    "layer_modified_dt": "2010-10-21T15:16:16Z",
+    "dc_subject_sm": [
+        "imageryBaseMapsEarthCover"
+    ],
+    "dct_issued_s": "2009-07-14",
+    "dct_temporal_sm": "1852-1852",
     "solr_year_i": 1852
 }

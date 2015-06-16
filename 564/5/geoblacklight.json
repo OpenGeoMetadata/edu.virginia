@@ -5,27 +5,20 @@
     "dc_description_s": "2 foot elevation contours for Charlottesville, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{
-        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/61e802a9-7077-4ad4-84ee-c93f6486daae-5/iso19139.html\",
-        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Charlottesville2010:CV10_contour_line_2ft&request=GetFeature&outputFormat=shape-zip\",
-        
-        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/61e802a9-7077-4ad4-84ee-c93f6486daae-5/iso19139.xml\",
-        
-        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
-        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
-        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
-    }",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/url\":\"https://opengeometadata.github.io/edu.virginia/61e802a9-7077-4ad4-84ee-c93f6486daae-5/iso19139.html\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Charlottesville2010:CV10_contour_line_2ft&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/61e802a9-7077-4ad4-84ee-c93f6486daae-5/iso19139.xml\"}",
     "layer_id_s": "Charlottesville2010:CV10_contour_line_2ft",
     "layer_slug_s": "uva-Charlottesville2010:CV10_contour_line_2ft",
-    "layer_geom_type_s": "Polygon",
-    "layer_modified_dt": "2010-11-08T17:14:48Z",
+    "layer_geom_type_s": "MultiLineString",
     "dc_format_s": "application/x-esri-shapefile",
     "dc_language_s": "eng",
-    "dc_subject_sm": ["elevation"],
-    "dct_issued_s": "2010-11-08",
-    "dct_temporal_sm": "2010",
     "georss_polygon_s": "37.97745 -78.67702 38.19625 -78.67702 38.19625 -78.34292 37.97745 -78.34292 37.97745 -78.67702",
     "solr_geom": "ENVELOPE(-78.67702, -78.34292, 38.19625, 37.97745)",
     "georss_box_s": "37.97745 -78.67702 38.19625 -78.34292",
+    "layer_modified_dt": "2010-11-08T17:14:48Z",
+    "dc_subject_sm": [
+        "elevation"
+    ],
+    "dct_issued_s": "2010-11-08",
+    "dct_temporal_sm": "2010-2010",
     "solr_year_i": 2010
 }

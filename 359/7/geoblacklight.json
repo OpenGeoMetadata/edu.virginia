@@ -5,27 +5,20 @@
     "dc_description_s": "Country boundary for Afghanistan.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{
-        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/b9f8e3e3-c591-41cf-8fed-402bbc5b6855-7/iso19139.html\",
-        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Afghanistan:admin1_poly_32&request=GetFeature&outputFormat=shape-zip\",
-        
-        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/b9f8e3e3-c591-41cf-8fed-402bbc5b6855-7/iso19139.xml\",
-        
-        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
-        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
-        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
-    }",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/url\":\"https://opengeometadata.github.io/edu.virginia/b9f8e3e3-c591-41cf-8fed-402bbc5b6855-7/iso19139.html\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Afghanistan:admin1_poly_32&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/b9f8e3e3-c591-41cf-8fed-402bbc5b6855-7/iso19139.xml\"}",
     "layer_id_s": "Afghanistan:admin1_poly_32",
     "layer_slug_s": "uva-Afghanistan:admin1_poly_32",
-    "layer_geom_type_s": "Polygon",
-    "layer_modified_dt": "2008-11-13T18:37:19Z",
+    "layer_geom_type_s": "MultiPolygon",
     "dc_format_s": "application/x-esri-shapefile",
     "dc_language_s": "eng",
-    "dc_subject_sm": ["boundaries"],
+    "georss_polygon_s": "29.0 60.0 39.0 60.0 39.0 75.0 29.0 75.0 29.0 60.0",
+    "solr_geom": "ENVELOPE(60.0, 75.0, 39.0, 29.0)",
+    "georss_box_s": "29.0 60.0 39.0 75.0",
+    "layer_modified_dt": "2008-11-13T18:37:19Z",
+    "dc_subject_sm": [
+        "boundaries"
+    ],
     "dct_issued_s": "2008-10-01",
     "dct_temporal_sm": "2003-2005",
-    "georss_polygon_s": "29 60 39 60 39 75 29 75 29 60",
-    "solr_geom": "ENVELOPE(60, 75, 39, 29)",
-    "georss_box_s": "29 60 39 75",
     "solr_year_i": 2003
 }

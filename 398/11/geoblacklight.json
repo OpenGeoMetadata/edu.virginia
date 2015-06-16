@@ -5,25 +5,20 @@
     "dc_description_s": "Segmentation scheme from 1997 for the Chesapeake Bay.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{
-        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/d7388bbb-29df-4968-b446-e574d5d0a737-11/iso19139.html\",
-        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Chesapeake_Bay_Program:cbseg1997&request=GetFeature&outputFormat=shape-zip\",
-        
-        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/d7388bbb-29df-4968-b446-e574d5d0a737-11/iso19139.xml\",
-        
-        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
-        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
-        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
-    }",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/url\":\"https://opengeometadata.github.io/edu.virginia/d7388bbb-29df-4968-b446-e574d5d0a737-11/iso19139.html\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Chesapeake_Bay_Program:cbseg1997&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/d7388bbb-29df-4968-b446-e574d5d0a737-11/iso19139.xml\"}",
     "layer_id_s": "Chesapeake_Bay_Program:cbseg1997",
     "layer_slug_s": "uva-Chesapeake_Bay_Program:cbseg1997",
-    "layer_geom_type_s": "Polygon",
-    "layer_modified_dt": "2010-05-04T16:23:18Z",
+    "layer_geom_type_s": "MultiPolygon",
     "dc_format_s": "application/x-esri-shapefile",
     "dc_language_s": "eng",
-    "dc_subject_sm": ["boundaries"],
-    "dct_issued_s": "2008-10-17",
     "georss_polygon_s": "36.59637 -80.99831 43.500083 -80.99831 43.500083 -73.999555 36.59637 -73.999555 36.59637 -80.99831",
     "solr_geom": "ENVELOPE(-80.99831, -73.999555, 43.500083, 36.59637)",
-    "georss_box_s": "36.59637 -80.99831 43.500083 -73.999555"
+    "georss_box_s": "36.59637 -80.99831 43.500083 -73.999555",
+    "layer_modified_dt": "2010-05-04T16:23:18Z",
+    "dc_subject_sm": [
+        "boundaries"
+    ],
+    "dct_issued_s": "2008-10-17",
+    "dct_temporal_sm": "",
+    "solr_year_i": 0
 }

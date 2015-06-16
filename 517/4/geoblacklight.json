@@ -2,37 +2,23 @@
     "uuid": "420b4aaa-9889-402e-a4d0-b1c2d72b4fbb-4",
     "dc_identifier_s": "420b4aaa-9889-402e-a4d0-b1c2d72b4fbb-4",
     "dc_title_s": "McGregor 000003017 - 1818 - A correct map of Virginia",
-    "dc_description_s": "* Author: Carey, Mathew
-* Credit: Area Table 755 1818 Carey
-* Published: [Philadelphia : M. Carey, ca.1818]
-        * Relief shown by hachures.
-        * Prime meridians: Philadelphia (top) and London (bottom).
-        * Probably from: Carey's General Atlas, Improved and Enlarged.
-        * "17" printed upper right, within plate mark.
-        * County boundaries outlined in color.",
+    "dc_description_s": "* Author: Carey, Mathew\n* Credit: Area Table 755 1818 Carey\n* Published: [Philadelphia : M. Carey, ca.1818]\n        * Relief shown by hachures.\n        * Prime meridians: Philadelphia (top) and London (bottom).\n        * Probably from: Carey's General Atlas, Improved and Enlarged.\n        * \"17\" printed upper right, within plate mark.\n        * County boundaries outlined in color.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{
-        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/420b4aaa-9889-402e-a4d0-b1c2d72b4fbb-4/iso19139.html\",
-        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003017_00011&request=GetFeature&outputFormat=shape-zip\",
-        
-        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/420b4aaa-9889-402e-a4d0-b1c2d72b4fbb-4/iso19139.xml\",
-        
-        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
-        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
-        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
-    }",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/url\":\"https://opengeometadata.github.io/edu.virginia/420b4aaa-9889-402e-a4d0-b1c2d72b4fbb-4/iso19139.html\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003017_00011&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/420b4aaa-9889-402e-a4d0-b1c2d72b4fbb-4/iso19139.xml\"}",
     "layer_id_s": "McGregor:000003017_00011",
     "layer_slug_s": "uva-McGregor:000003017_00011",
     "layer_geom_type_s": "Polygon",
-    "layer_modified_dt": "2010-10-29T14:48:13Z",
     "dc_format_s": "",
     "dc_language_s": "eng",
-    "dc_subject_sm": ["imageryBaseMapsEarthCover"],
-    "dct_issued_s": "2009-07-14",
-    "dct_temporal_sm": "1818",
     "georss_polygon_s": "36.098957 -84.268492 41.053629 -84.268492 41.053629 -74.660606 36.098957 -74.660606 36.098957 -84.268492",
     "solr_geom": "ENVELOPE(-84.268492, -74.660606, 41.053629, 36.098957)",
     "georss_box_s": "36.098957 -84.268492 41.053629 -74.660606",
+    "layer_modified_dt": "2010-10-29T14:48:13Z",
+    "dc_subject_sm": [
+        "imageryBaseMapsEarthCover"
+    ],
+    "dct_issued_s": "2009-07-14",
+    "dct_temporal_sm": "1818-1818",
     "solr_year_i": 1818
 }

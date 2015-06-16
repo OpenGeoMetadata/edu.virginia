@@ -5,27 +5,20 @@
     "dc_description_s": "County boundary for Henrico County, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{
-        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/8ce1500e-c12e-4529-b27f-ef5980b249ba-20/iso19139.html\",
-        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Henrico:boundary&request=GetFeature&outputFormat=shape-zip\",
-        
-        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/8ce1500e-c12e-4529-b27f-ef5980b249ba-20/iso19139.xml\",
-        
-        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
-        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
-        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
-    }",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/url\":\"https://opengeometadata.github.io/edu.virginia/8ce1500e-c12e-4529-b27f-ef5980b249ba-20/iso19139.html\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Henrico:boundary&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/8ce1500e-c12e-4529-b27f-ef5980b249ba-20/iso19139.xml\"}",
     "layer_id_s": "Henrico:boundary",
     "layer_slug_s": "uva-Henrico:boundary",
-    "layer_geom_type_s": "Polygon",
-    "layer_modified_dt": "2008-11-19T10:35:51Z",
+    "layer_geom_type_s": "MultiPolygon",
     "dc_format_s": "application/x-esri-shapefile",
     "dc_language_s": "eng",
-    "dc_subject_sm": ["boundaries"],
-    "dct_issued_s": "2008-10-17",
-    "dct_temporal_sm": "2003-2004",
     "georss_polygon_s": "37.3523 -77.65805 37.71074 -77.65805 37.71074 -77.17331 37.3523 -77.17331 37.3523 -77.65805",
     "solr_geom": "ENVELOPE(-77.65805, -77.17331, 37.71074, 37.3523)",
     "georss_box_s": "37.3523 -77.65805 37.71074 -77.17331",
+    "layer_modified_dt": "2008-11-19T10:35:51Z",
+    "dc_subject_sm": [
+        "boundaries"
+    ],
+    "dct_issued_s": "2008-10-17",
+    "dct_temporal_sm": "2003-2004",
     "solr_year_i": 2003
 }

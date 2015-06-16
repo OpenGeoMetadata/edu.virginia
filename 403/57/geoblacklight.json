@@ -5,27 +5,20 @@
     "dc_description_s": "White pines for the Mountain Lake Biological Station.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{
-        \"http://schema.org/url\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/bc516f5d-fdd1-4e70-8fc4-1404cc40d86d-57/iso19139.html\",
-        \"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=MLBS_2009:white_pine&request=GetFeature&outputFormat=shape-zip\",
-        
-        \"http://www.isotc211.org/schemas/2005/gmd/\":\"https://geoblacklight.lib.virginia.edu/metadata/edu.virginia/bc516f5d-fdd1-4e70-8fc4-1404cc40d86d-57/iso19139.xml\",
-        
-        \"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",
-        \"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",
-        \"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\"
-    }",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/url\":\"https://opengeometadata.github.io/edu.virginia/bc516f5d-fdd1-4e70-8fc4-1404cc40d86d-57/iso19139.html\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=MLBS_2009:white_pine&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/bc516f5d-fdd1-4e70-8fc4-1404cc40d86d-57/iso19139.xml\"}",
     "layer_id_s": "MLBS_2009:white_pine",
     "layer_slug_s": "uva-MLBS_2009:white_pine",
-    "layer_geom_type_s": "Polygon",
-    "layer_modified_dt": "2011-10-13T12:48:38Z",
+    "layer_geom_type_s": "MultiLineString",
     "dc_format_s": "application/x-esri-shapefile",
     "dc_language_s": "eng",
-    "dc_subject_sm": ["biota"],
-    "dct_issued_s": "2009-04-21",
-    "dct_temporal_sm": "2002-2004",
     "georss_polygon_s": "37.123 -81.126 37.511 -81.126 37.511 -80.376 37.123 -80.376 37.123 -81.126",
     "solr_geom": "ENVELOPE(-81.126, -80.376, 37.511, 37.123)",
     "georss_box_s": "37.123 -81.126 37.511 -80.376",
+    "layer_modified_dt": "2011-10-13T12:48:38Z",
+    "dc_subject_sm": [
+        "biota"
+    ],
+    "dct_issued_s": "2009-04-21",
+    "dct_temporal_sm": "2002-2004",
     "solr_year_i": 2002
 }
