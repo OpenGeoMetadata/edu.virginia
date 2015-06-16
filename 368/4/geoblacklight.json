@@ -9,7 +9,7 @@
     "layer_id_s": "Richmond:AreasOfInterest",
     "layer_slug_s": "uva-Richmond:AreasOfInterest",
     "layer_geom_type_s": "MultiPolygon",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "37.44625 -77.60278 37.60507 -77.60278 37.60507 -77.38319 37.44625 -77.38319 37.44625 -77.60278",
     "solr_geom": "ENVELOPE(-77.60278, -77.38319, 37.60507, 37.44625)",

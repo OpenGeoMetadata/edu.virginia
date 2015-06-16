@@ -9,7 +9,7 @@
     "layer_id_s": "Alexandria:Parcel_y",
     "layer_slug_s": "uva-Alexandria:Parcel_y",
     "layer_geom_type_s": "MultiPolygon",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "38.78585 -77.14433 38.84494 -77.14433 38.84494 -77.03728 38.78585 -77.03728 38.78585 -77.14433",
     "solr_geom": "ENVELOPE(-77.14433, -77.03728, 38.84494, 38.78585)",

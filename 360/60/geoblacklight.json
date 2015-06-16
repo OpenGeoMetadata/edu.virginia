@@ -9,7 +9,7 @@
     "layer_id_s": "Arlington:Section_Annoation",
     "layer_slug_s": "uva-Arlington:Section_Annoation",
     "layer_geom_type_s": "MultiPoint",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "38.82678 -77.17349 38.93489 -77.17349 38.93489 -77.03046 38.82678 -77.03046 38.82678 -77.17349",
     "solr_geom": "ENVELOPE(-77.17349, -77.03046, 38.93489, 38.82678)",

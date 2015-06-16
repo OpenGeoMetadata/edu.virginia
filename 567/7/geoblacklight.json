@@ -9,7 +9,7 @@
     "layer_id_s": "USGS_va_geology:vafaults_dd",
     "layer_slug_s": "uva-USGS_va_geology:vafaults_dd",
     "layer_geom_type_s": "Polygon",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "36.535133 -83.675682 39.465752 -83.675682 39.465752 -75.09758 36.535133 -75.09758 36.535133 -83.675682",
     "solr_geom": "ENVELOPE(-83.675682, -75.09758, 39.465752, 36.535133)",

@@ -9,7 +9,7 @@
     "layer_id_s": "VBMP:vgin_tile_200_south",
     "layer_slug_s": "uva-VBMP:vgin_tile_200_south",
     "layer_geom_type_s": "MultiPolygon",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "36.45 -83.7 39.51 -83.7 39.51 -75.1 36.45 -75.1 36.45 -83.7",
     "solr_geom": "ENVELOPE(-83.7, -75.1, 39.51, 36.45)",

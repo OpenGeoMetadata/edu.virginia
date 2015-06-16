@@ -9,7 +9,7 @@
     "layer_id_s": "Washington_DC:MetroFullLn",
     "layer_slug_s": "uva-Washington_DC:MetroFullLn",
     "layer_geom_type_s": "MultiLineString",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "38.79163 -77.1199 38.99596 -77.1199 38.99596 -76.90912 38.79163 -76.90912 38.79163 -77.1199",
     "solr_geom": "ENVELOPE(-77.1199, -76.90912, 38.99596, 38.79163)",

@@ -9,7 +9,7 @@
     "layer_id_s": "Afghanistan:afg_int_airpots",
     "layer_slug_s": "uva-Afghanistan:afg_int_airpots",
     "layer_geom_type_s": "MultiPoint",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "29.0 60.0 39.0 60.0 39.0 75.0 29.0 75.0 29.0 60.0",
     "solr_geom": "ENVELOPE(60.0, 75.0, 39.0, 29.0)",

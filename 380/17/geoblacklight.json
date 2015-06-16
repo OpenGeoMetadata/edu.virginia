@@ -9,7 +9,7 @@
     "layer_id_s": "Henrico:trees",
     "layer_slug_s": "uva-Henrico:trees",
     "layer_geom_type_s": "MultiPolygon",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "37.3523 -77.65805 37.71074 -77.65805 37.71074 -77.17331 37.3523 -77.17331 37.3523 -77.65805",
     "solr_geom": "ENVELOPE(-77.65805, -77.17331, 37.71074, 37.3523)",

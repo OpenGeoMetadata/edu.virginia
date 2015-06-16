@@ -9,7 +9,7 @@
     "layer_id_s": "Chesapeake_Bay_Program:RAIL_NY_arc",
     "layer_slug_s": "uva-Chesapeake_Bay_Program:RAIL_NY_arc",
     "layer_geom_type_s": "MultiLineString",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "36.59637 -80.99831 43.500083 -80.99831 43.500083 -73.999555 36.59637 -73.999555 36.59637 -80.99831",
     "solr_geom": "ENVELOPE(-80.99831, -73.999555, 43.500083, 36.59637)",

@@ -9,7 +9,7 @@
     "layer_id_s": "UVACLS:Springs",
     "layer_slug_s": "uva-UVACLS:Springs",
     "layer_geom_type_s": "MultiPoint",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "38.01878 -78.5527 38.05735 -78.5527 38.05735 -78.48499 38.01878 -78.48499 38.01878 -78.5527",
     "solr_geom": "ENVELOPE(-78.5527, -78.48499, 38.05735, 38.01878)",

@@ -9,7 +9,7 @@
     "layer_id_s": "Charlottesville2010:CV10_surface_water_course_area",
     "layer_slug_s": "uva-Charlottesville2010:CV10_surface_water_course_area",
     "layer_geom_type_s": "MultiPolygon",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "37.97745 -78.67702 38.19625 -78.67702 38.19625 -78.34292 37.97745 -78.34292 37.97745 -78.67702",
     "solr_geom": "ENVELOPE(-78.67702, -78.34292, 38.19625, 37.97745)",

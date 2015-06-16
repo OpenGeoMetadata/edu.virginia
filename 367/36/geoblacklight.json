@@ -9,7 +9,7 @@
     "layer_id_s": "Chesapeake:pgrove_east_cl",
     "layer_slug_s": "uva-Chesapeake:pgrove_east_cl",
     "layer_geom_type_s": "MultiLineString",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "36.542 -76.49801 36.87145 -76.49801 36.87145 -76.05655 36.542 -76.05655 36.542 -76.49801",
     "solr_geom": "ENVELOPE(-76.49801, -76.05655, 36.87145, 36.542)",

@@ -9,7 +9,7 @@
     "layer_id_s": "MLBS_2009:pipeline",
     "layer_slug_s": "uva-MLBS_2009:pipeline",
     "layer_geom_type_s": "MultiLineString",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "37.123 -81.126 37.511 -81.126 37.511 -80.376 37.123 -80.376 37.123 -81.126",
     "solr_geom": "ENVELOPE(-81.126, -80.376, 37.511, 37.123)",

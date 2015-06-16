@@ -9,7 +9,7 @@
     "layer_id_s": "Newberry:OR_Newberry",
     "layer_slug_s": "uva-Newberry:OR_Newberry",
     "layer_geom_type_s": "MultiPolygon",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "25.837377 -179.14734 71.389612 -179.14734 71.389612 -66.949426 25.837377 -66.949426 25.837377 -179.14734",
     "solr_geom": "ENVELOPE(-179.14734, -66.949426, 71.389612, 25.837377)",

@@ -9,7 +9,7 @@
     "layer_id_s": "Loudoun:miscpt_point",
     "layer_slug_s": "uva-Loudoun:miscpt_point",
     "layer_geom_type_s": "MultiPoint",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "38.84437 -77.96328 39.32594 -77.96328 39.32594 -77.32408 38.84437 -77.32408 38.84437 -77.96328",
     "solr_geom": "ENVELOPE(-77.96328, -77.32408, 39.32594, 38.84437)",

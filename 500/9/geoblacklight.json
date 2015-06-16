@@ -9,7 +9,7 @@
     "layer_id_s": "VAgnis:gnis09_va_svmoth",
     "layer_slug_s": "uva-VAgnis:gnis09_va_svmoth",
     "layer_geom_type_s": "Polygon",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "33.871561 -84.531879 40.322111 -84.531879 40.322111 -75.107963 33.871561 -75.107963 33.871561 -84.531879",
     "solr_geom": "ENVELOPE(-84.531879, -75.107963, 40.322111, 33.871561)",

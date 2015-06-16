@@ -9,7 +9,7 @@
     "layer_id_s": "Albemarle:ACSAJA2004",
     "layer_slug_s": "uva-Albemarle:ACSAJA2004",
     "layer_geom_type_s": "MultiPolygon",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "37.72255 -78.83913 38.27794 -78.83913 38.27794 -78.20801 37.72255 -78.20801 37.72255 -78.83913",
     "solr_geom": "ENVELOPE(-78.83913, -78.20801, 38.27794, 37.72255)",

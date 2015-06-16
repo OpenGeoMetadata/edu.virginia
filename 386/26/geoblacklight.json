@@ -9,7 +9,7 @@
     "layer_id_s": "UVA:TRAIL_POLY",
     "layer_slug_s": "uva-UVA:TRAIL_POLY",
     "layer_geom_type_s": "MultiPolygon",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "38.02109 -78.48596 38.06727 -78.48596 38.06727 -78.5526 38.02109 -78.5526 38.02109 -78.48596",
     "solr_geom": "ENVELOPE(-78.48596, -78.5526, 38.06727, 38.02109)",

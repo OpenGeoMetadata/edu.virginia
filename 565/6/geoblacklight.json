@@ -9,7 +9,7 @@
     "layer_id_s": "UVA's Virginia Gazetteer - online access to USGS DRGs, DEMs, DOQQs, and more",
     "layer_slug_s": "uva-UVA's Virginia Gazetteer - online access to USGS DRGs, DEMs, DOQQs, and more",
     "layer_geom_type_s": "Polygon",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "36.5 -83.75 39.5 -83.75 39.5 -75.125 36.5 -75.125 36.5 -83.75",
     "solr_geom": "ENVELOPE(-83.75, -75.125, 39.5, 36.5)",

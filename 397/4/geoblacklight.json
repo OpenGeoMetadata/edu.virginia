@@ -9,7 +9,7 @@
     "layer_id_s": "Virginia:CO_VA_poly",
     "layer_slug_s": "uva-Virginia:CO_VA_poly",
     "layer_geom_type_s": "MultiPolygon",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "36.458983 -83.830748 39.4468 -83.830748 39.4468 -75.245577 36.458983 -75.245577 36.458983 -83.830748",
     "solr_geom": "ENVELOPE(-83.830748, -75.245577, 39.4468, 36.458983)",

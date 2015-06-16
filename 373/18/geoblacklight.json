@@ -9,7 +9,7 @@
     "layer_id_s": "Hanover:utility",
     "layer_slug_s": "uva-Hanover:utility",
     "layer_geom_type_s": "MultiLineString",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "37.538 -77.805 38.008 -77.805 38.008 -77.108 37.538 -77.108 37.538 -77.805",
     "solr_geom": "ENVELOPE(-77.805, -77.108, 38.008, 37.538)",

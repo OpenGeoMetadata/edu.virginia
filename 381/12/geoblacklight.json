@@ -9,7 +9,7 @@
     "layer_id_s": "Rappahannock_River_Basin:publands",
     "layer_slug_s": "uva-Rappahannock_River_Basin:publands",
     "layer_geom_type_s": "MultiPolygon",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "37.55 -78.527 38.897 -78.527 38.897 -76.281 37.55 -76.281 37.55 -78.527",
     "solr_geom": "ENVELOPE(-78.527, -76.281, 38.897, 37.55)",

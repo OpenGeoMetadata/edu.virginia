@@ -9,7 +9,7 @@
     "layer_id_s": "Fairfax:COMMERCIAL_REVITALIZATION_AREAS",
     "layer_slug_s": "uva-Fairfax:COMMERCIAL_REVITALIZATION_AREAS",
     "layer_geom_type_s": "MultiPolygon",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "38.60369 -77.53701 39.05767 -77.53701 39.05767 -77.04136 38.60369 -77.04136 38.60369 -77.53701",
     "solr_geom": "ENVELOPE(-77.53701, -77.04136, 39.05767, 38.60369)",

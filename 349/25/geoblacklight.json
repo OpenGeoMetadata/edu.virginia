@@ -9,7 +9,7 @@
     "layer_id_s": "Charlottesville:SanitaryPipes",
     "layer_slug_s": "uva-Charlottesville:SanitaryPipes",
     "layer_geom_type_s": "MultiLineString",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "37.97745 -78.67702 38.19625 -78.67702 38.19625 -78.34292 37.97745 -78.34292 37.97745 -78.67702",
     "solr_geom": "ENVELOPE(-78.67702, -78.34292, 38.19625, 37.97745)",

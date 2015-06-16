@@ -9,7 +9,7 @@
     "layer_id_s": "Portsmouth:streets_ns",
     "layer_slug_s": "uva-Portsmouth:streets_ns",
     "layer_geom_type_s": "MultiLineString",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "36.786 -76.421 36.899 -76.421 36.899 -76.289 36.786 -76.289 36.786 -76.421",
     "solr_geom": "ENVELOPE(-76.421, -76.289, 36.899, 36.786)",
