@@ -5,7 +5,7 @@
     "dc_description_s": "4 foot Digital Terrain Model (DTM) contours in Albemarle County (index 10) from 2007 VBMP data.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/url\":\"https://opengeometadata.github.io/edu.virginia/3f2f9cba-a35d-47de-b027-cd498383f8e8-79/iso19139.html\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Alb10contour4ft:ALB10_Y2007topo4_10&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/3f2f9cba-a35d-47de-b027-cd498383f8e8-79/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Alb10contour4ft:ALB10_Y2007topo4_10&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/3f2f9cba-a35d-47de-b027-cd498383f8e8-79/iso19139.xml\"}",
     "layer_id_s": "Alb10contour4ft:ALB10_Y2007topo4_10",
     "layer_slug_s": "uva-Alb10contour4ft:ALB10_Y2007topo4_10",
     "layer_geom_type_s": "Polygon",
