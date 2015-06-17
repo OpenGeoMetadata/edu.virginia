@@ -5,18 +5,18 @@
     "dc_description_s": "* By Samuel Dunn, Mathematician ; improved from the surveys of Capt. Carver. \n* Credit: Area Table 73 1786 Dunn \n* Published: London : Printed for Robt. Sayer, Map & Sea Chartseller, no. 53 Fleet Street, as the Act directs, 10 June, 1786. \n* Inset table: The United States ... comprehend the following states, viz ... ; The British Dominions ... comprehend the following regions, provinces & islands viz ...\n* Printed color code indicated for United States, British, French and Spanish territory.\n* First published by Sayer in 1774, with several subsequent imprint dates. Cf. McCorkle.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003015_000CC&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io//edu.virginia/562/4/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wms/reflect?layers=McGregor:000003015_000CC\\u0026format=image/tiff\\u0026width=3000\\u0026height=3000\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/562/4/iso19139.xml\"}",
     "layer_id_s": "McGregor:000003015_000CC",
     "layer_slug_s": "uva-McGregor:000003015_000CC",
-    "layer_geom_type_s": "Polygon",
-    "dc_format_s": "",
+    "layer_geom_type_s": "Raster",
+    "dc_format_s": "GeoTIFF",
     "dc_language_s": "eng",
     "georss_polygon_s": "6.132 -123.4152 57.265 -123.4152 57.265 14.5747 6.132 14.5747 6.132 -123.4152",
     "solr_geom": "ENVELOPE(-123.4152, 14.5747, 57.265, 6.132)",
     "georss_box_s": "6.132 -123.4152 57.265 14.5747",
     "layer_modified_dt": "2010-10-29T14:18:07Z",
     "dc_subject_sm": [
-        "imageryBaseMapsEarthCover"
+        "Imagery Base Maps Earth Cover"
     ],
     "dct_issued_s": "2010-10-29",
     "dct_temporal_sm": "1786-1786",

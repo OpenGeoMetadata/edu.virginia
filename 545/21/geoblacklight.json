@@ -5,18 +5,18 @@
     "dc_description_s": "Map 14 of the Sanborn Fire Insurance Maps.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=SanbornCVL:1920map14&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io//edu.virginia/545/21/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wms/reflect?layers=SanbornCVL:1920map14\\u0026format=image/tiff\\u0026width=3000\\u0026height=3000\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/545/21/iso19139.xml\"}",
     "layer_id_s": "SanbornCVL:1920map14",
     "layer_slug_s": "uva-SanbornCVL:1920map14",
-    "layer_geom_type_s": "Polygon",
-    "dc_format_s": "",
+    "layer_geom_type_s": "Raster",
+    "dc_format_s": "GeoTIFF",
     "dc_language_s": "eng",
     "georss_polygon_s": "37.988007 -78.524842 38.050745 -78.524842 38.050745 -78.451464 37.988007 -78.451464 37.988007 -78.524842",
     "solr_geom": "ENVELOPE(-78.524842, -78.451464, 38.050745, 37.988007)",
     "georss_box_s": "37.988007 -78.524842 38.050745 -78.451464",
     "layer_modified_dt": "2010-02-23T18:00:56Z",
     "dc_subject_sm": [
-        "imageryBaseMapsEarthCover"
+        "Imagery Base Maps Earth Cover"
     ],
     "dct_issued_s": "2010-02-23",
     "dct_temporal_sm": "1920-1920",

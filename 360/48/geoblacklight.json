@@ -5,18 +5,18 @@
     "dc_description_s": "Building Names, 1:1,200 scale text for Arlington, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Arlington:Place_Names__1200&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io//edu.virginia/360/48/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS\\u0026typeName=Arlington:Place_Names__1200\\u0026request=GetFeature\\u0026outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/360/48/iso19139.xml\"}",
     "layer_id_s": "Arlington:Place_Names__1200",
     "layer_slug_s": "uva-Arlington:Place_Names__1200",
-    "layer_geom_type_s": "Polygon",
-    "dc_format_s": "application/x-esri-shapefile",
+    "layer_geom_type_s": "Raster",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "38.82678 -77.17349 38.93489 -77.17349 38.93489 -77.03046 38.82678 -77.03046 38.82678 -77.17349",
     "solr_geom": "ENVELOPE(-77.17349, -77.03046, 38.93489, 38.82678)",
     "georss_box_s": "38.82678 -77.17349 38.93489 -77.03046",
     "layer_modified_dt": "2008-11-18T14:35:29Z",
     "dc_subject_sm": [
-        "structure"
+        "Structure"
     ],
     "dct_issued_s": "2009-10-04",
     "dct_temporal_sm": "1991-2003",

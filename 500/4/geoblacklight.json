@@ -5,18 +5,18 @@
     "dc_description_s": "Cultural place names from the USGS Virginia Geographic Names Information System (GNIS).",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=VAgnis:gnis09_va_cultural&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io//edu.virginia/500/4/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS\\u0026typeName=VAgnis:gnis09_va_cultural\\u0026request=GetFeature\\u0026outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/500/4/iso19139.xml\"}",
     "layer_id_s": "VAgnis:gnis09_va_cultural",
     "layer_slug_s": "uva-VAgnis:gnis09_va_cultural",
     "layer_geom_type_s": "MultiPoint",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "33.871561 -84.531879 40.322111 -84.531879 40.322111 -75.107963 33.871561 -75.107963 33.871561 -84.531879",
     "solr_geom": "ENVELOPE(-84.531879, -75.107963, 40.322111, 33.871561)",
     "georss_box_s": "33.871561 -84.531879 40.322111 -75.107963",
     "layer_modified_dt": "2010-11-08T13:48:27Z",
     "dc_subject_sm": [
-        "society"
+        "Society"
     ],
     "dct_issued_s": "2009-08-27",
     "dct_temporal_sm": "1609-2009",

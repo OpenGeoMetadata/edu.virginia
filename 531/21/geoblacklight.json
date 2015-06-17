@@ -5,18 +5,18 @@
     "dc_description_s": "Historic county boundaries for Kentucky from the Newberry Library Collection.  Attribution-NonCommercial-ShareAlike 2.5 Creative Commons License.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Newberry:KY_Newberry&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io//edu.virginia/531/21/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS\\u0026typeName=Newberry:KY_Newberry\\u0026request=GetFeature\\u0026outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/531/21/iso19139.xml\"}",
     "layer_id_s": "Newberry:KY_Newberry",
     "layer_slug_s": "uva-Newberry:KY_Newberry",
     "layer_geom_type_s": "MultiPolygon",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "25.837377 -179.14734 71.389612 -179.14734 71.389612 -66.949426 25.837377 -66.949426 25.837377 -179.14734",
     "solr_geom": "ENVELOPE(-179.14734, -66.949426, 71.389612, 25.837377)",
     "georss_box_s": "25.837377 -179.14734 71.389612 -66.949426",
     "layer_modified_dt": "2010-11-03T17:48:47Z",
     "dc_subject_sm": [
-        "boundaries"
+        "Boundaries"
     ],
     "dct_issued_s": "2008-10-17",
     "dct_temporal_sm": "1634-2000",

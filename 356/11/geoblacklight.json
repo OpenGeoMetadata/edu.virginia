@@ -5,18 +5,18 @@
     "dc_description_s": "Air space restrictions for Washington, DC.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Washington_DC:AirSpacePly&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io//edu.virginia/356/11/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS\\u0026typeName=Washington_DC:AirSpacePly\\u0026request=GetFeature\\u0026outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/356/11/iso19139.xml\"}",
     "layer_id_s": "Washington_DC:AirSpacePly",
     "layer_slug_s": "uva-Washington_DC:AirSpacePly",
     "layer_geom_type_s": "MultiPolygon",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "38.79163 -77.1199 38.99596 -77.1199 38.99596 -76.90912 38.79163 -76.90912 38.79163 -77.1199",
     "solr_geom": "ENVELOPE(-77.1199, -76.90912, 38.99596, 38.79163)",
     "georss_box_s": "38.79163 -77.1199 38.99596 -76.90912",
     "layer_modified_dt": "2009-08-18T11:12:25Z",
     "dc_subject_sm": [
-        "boundaries"
+        "Boundaries"
     ],
     "dct_issued_s": "2008-10-01",
     "dct_temporal_sm": "2000-2008",

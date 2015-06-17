@@ -5,18 +5,18 @@
     "dc_description_s": "Greenway bridges for Charlottesville, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Charlottesville:gwy_bridges_greenway&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io//edu.virginia/349/72/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS\\u0026typeName=Charlottesville:gwy_bridges_greenway\\u0026request=GetFeature\\u0026outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/349/72/iso19139.xml\"}",
     "layer_id_s": "Charlottesville:gwy_bridges_greenway",
     "layer_slug_s": "uva-Charlottesville:gwy_bridges_greenway",
     "layer_geom_type_s": "MultiPolygon",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "37.97745 -78.67702 38.19625 -78.67702 38.19625 -78.34292 37.97745 -78.34292 37.97745 -78.67702",
     "solr_geom": "ENVELOPE(-78.67702, -78.34292, 38.19625, 37.97745)",
     "georss_box_s": "37.97745 -78.67702 38.19625 -78.34292",
     "layer_modified_dt": "2010-11-08T12:46:04Z",
     "dc_subject_sm": [
-        "environment"
+        "Environment"
     ],
     "dct_issued_s": "2008-10-17",
     "dct_temporal_sm": "2002-2007",

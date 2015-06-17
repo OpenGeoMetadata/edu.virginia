@@ -5,18 +5,18 @@
     "dc_description_s": "2 foot contours for Alexandria, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Alexandria:Contour2_l&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io//edu.virginia/362/10/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS\\u0026typeName=Alexandria:Contour2_l\\u0026request=GetFeature\\u0026outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/362/10/iso19139.xml\"}",
     "layer_id_s": "Alexandria:Contour2_l",
     "layer_slug_s": "uva-Alexandria:Contour2_l",
     "layer_geom_type_s": "MultiLineString",
-    "dc_format_s": "application/x-esri-shapefile",
+    "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "38.78585 -77.14433 38.84494 -77.14433 38.84494 -77.03728 38.78585 -77.03728 38.78585 -77.14433",
     "solr_geom": "ENVELOPE(-77.14433, -77.03728, 38.84494, 38.78585)",
     "georss_box_s": "38.78585 -77.14433 38.84494 -77.03728",
     "layer_modified_dt": "2014-08-13T15:12:25Z",
     "dc_subject_sm": [
-        "elevation"
+        "Elevation"
     ],
     "dct_issued_s": "2008-10-01",
     "dct_temporal_sm": "",
