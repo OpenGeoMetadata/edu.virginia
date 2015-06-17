@@ -8,7 +8,7 @@
     "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS\\u0026typeName=Alb10contour4ft:ALB10_Y2007topo4_15\\u0026request=GetFeature\\u0026outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/563/84/iso19139.xml\"}",
     "layer_id_s": "Alb10contour4ft:ALB10_Y2007topo4_15",
     "layer_slug_s": "uva-Alb10contour4ft:ALB10_Y2007topo4_15",
-    "layer_geom_type_s": "Polygon",
+    "layer_geom_type_s": "Raster",
     "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "37.72255 -78.83913 38.27794 -78.83913 38.27794 -78.20801 37.72255 -78.20801 37.72255 -78.83913",

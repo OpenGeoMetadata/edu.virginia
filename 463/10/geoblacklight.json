@@ -8,7 +8,7 @@
     "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS\\u0026typeName=SouthAfrica:ponet_polygon\\u0026request=GetFeature\\u0026outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/463/10/iso19139.xml\"}",
     "layer_id_s": "SouthAfrica:ponet_polygon",
     "layer_slug_s": "uva-SouthAfrica:ponet_polygon",
-    "layer_geom_type_s": "Polygon",
+    "layer_geom_type_s": "Raster",
     "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "-35.5 14.4 -19.5 14.4 -19.5 36.25 -35.5 36.25 -35.5 14.4",

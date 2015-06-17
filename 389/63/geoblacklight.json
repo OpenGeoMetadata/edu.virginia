@@ -8,7 +8,7 @@
     "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS\\u0026typeName=Loudoun:tracts00_polygon\\u0026request=GetFeature\\u0026outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/389/63/iso19139.xml\"}",
     "layer_id_s": "Loudoun:tracts00_polygon",
     "layer_slug_s": "uva-Loudoun:tracts00_polygon",
-    "layer_geom_type_s": "Polygon",
+    "layer_geom_type_s": "Raster",
     "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "38.84437 -77.96328 39.32594 -77.96328 39.32594 -77.32408 38.84437 -77.32408 38.84437 -77.96328",

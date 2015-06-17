@@ -8,7 +8,7 @@
     "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wms/reflect?layers=SanbornCVL:1907map18a\\u0026format=image/tiff\\u0026width=3000\\u0026height=3000\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/546/24/iso19139.xml\"}",
     "layer_id_s": "SanbornCVL:1907map18a",
     "layer_slug_s": "uva-SanbornCVL:1907map18a",
-    "layer_geom_type_s": "Polygon",
+    "layer_geom_type_s": "Raster",
     "dc_format_s": "GeoTIFF",
     "dc_language_s": "eng",
     "georss_polygon_s": "37.988007 -78.524842 38.050745 -78.524842 38.050745 -78.451464 37.988007 -78.451464 37.988007 -78.524842",

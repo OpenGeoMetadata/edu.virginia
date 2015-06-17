@@ -8,7 +8,7 @@
     "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS\\u0026typeName=Chesapeake_Bay_Program:WBODY_WVA_point\\u0026request=GetFeature\\u0026outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/398/15/iso19139.xml\"}",
     "layer_id_s": "Chesapeake_Bay_Program:WBODY_WVA_point",
     "layer_slug_s": "uva-Chesapeake_Bay_Program:WBODY_WVA_point",
-    "layer_geom_type_s": "Polygon",
+    "layer_geom_type_s": "Raster",
     "dc_format_s": "Shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "36.59637 -80.99831 43.500083 -80.99831 43.500083 -73.999555 36.59637 -73.999555 36.59637 -80.99831",
