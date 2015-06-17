@@ -5,18 +5,18 @@
     "dc_description_s": "Street centerlines for Portsmouth, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS\\u0026typeName=Portsmouth:streets_ns\\u0026request=GetFeature\\u0026outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/383/6/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Portsmouth:streets_ns&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io//edu.virginia/383/6/iso19139.xml\"}",
     "layer_id_s": "Portsmouth:streets_ns",
     "layer_slug_s": "uva-Portsmouth:streets_ns",
     "layer_geom_type_s": "MultiLineString",
-    "dc_format_s": "Shapefile",
+    "dc_format_s": "application/x-esri-shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "36.786 -76.421 36.899 -76.421 36.899 -76.289 36.786 -76.289 36.786 -76.421",
     "solr_geom": "ENVELOPE(-76.421, -76.289, 36.899, 36.786)",
     "georss_box_s": "36.786 -76.421 36.899 -76.289",
     "layer_modified_dt": "2008-11-12T15:45:03Z",
     "dc_subject_sm": [
-        "Transportation"
+        "transportation"
     ],
     "dct_issued_s": "2008-10-17",
     "dct_temporal_sm": "2003-2005",

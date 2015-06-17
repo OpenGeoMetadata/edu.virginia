@@ -5,18 +5,18 @@
     "dc_description_s": "* Author: Manesson-Mallet, Allain\n* Credit: Area Table 755 1683 Mallet\n        * \"Fig. 15.\" in upper right corner recto, just outside neatline.\n        * \"der Jungfrauen Landt.\" printed above the upper margin, to the left of \"Fig. 15.\"\n        * Verso is blank.\n        * From an edition of Alain M. Mallet's Description de l'univers, Paris, 1683.\n* Letter \"D\" printed at right lower margin recto. Elizabeth Cocke Coles Fund.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/wms/reflect?layers=McGregor:000003018_00011\\u0026format=image/tiff\\u0026width=3000\\u0026height=3000\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/518/4/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=McGregor:000003018_00011&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io//edu.virginia/518/4/iso19139.xml\"}",
     "layer_id_s": "McGregor:000003018_00011",
     "layer_slug_s": "uva-McGregor:000003018_00011",
-    "layer_geom_type_s": "Raster",
-    "dc_format_s": "GeoTIFF",
+    "layer_geom_type_s": "Polygon",
+    "dc_format_s": "",
     "dc_language_s": "eng",
     "georss_polygon_s": "35.923819 -79.045187 40.634346 -79.045187 40.634346 -74.328558 35.923819 -74.328558 35.923819 -79.045187",
     "solr_geom": "ENVELOPE(-79.045187, -74.328558, 40.634346, 35.923819)",
     "georss_box_s": "35.923819 -79.045187 40.634346 -74.328558",
     "layer_modified_dt": "2010-10-29T14:46:18Z",
     "dc_subject_sm": [
-        "Imagery Base Maps Earth Cover"
+        "imageryBaseMapsEarthCover"
     ],
     "dct_issued_s": "2009-07-14",
     "dct_temporal_sm": "1683-1683",

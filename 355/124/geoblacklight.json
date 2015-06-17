@@ -5,18 +5,18 @@
     "dc_description_s": "Shenandoah National Park in Albemarle County, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS\\u0026typeName=Albemarle:snp\\u0026request=GetFeature\\u0026outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/355/124/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Albemarle:snp&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io//edu.virginia/355/124/iso19139.xml\"}",
     "layer_id_s": "Albemarle:snp",
     "layer_slug_s": "uva-Albemarle:snp",
     "layer_geom_type_s": "MultiPolygon",
-    "dc_format_s": "Shapefile",
+    "dc_format_s": "application/x-esri-shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "37.72255 -78.83913 38.27794 -78.83913 38.27794 -78.20801 37.72255 -78.20801 37.72255 -78.83913",
     "solr_geom": "ENVELOPE(-78.83913, -78.20801, 38.27794, 37.72255)",
     "georss_box_s": "37.72255 -78.83913 38.27794 -78.20801",
     "layer_modified_dt": "2010-11-04T16:15:20Z",
     "dc_subject_sm": [
-        "Environment"
+        "environment"
     ],
     "dct_issued_s": "2010-01-25",
     "dct_temporal_sm": "2000-2007",

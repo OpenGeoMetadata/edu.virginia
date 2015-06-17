@@ -5,18 +5,18 @@
     "dc_description_s": "Topographic lines-section 1/5 for Hanover County, Virginia.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS\\u0026typeName=Hanover:topo1\\u0026request=GetFeature\\u0026outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/373/12/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Hanover:topo1&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io//edu.virginia/373/12/iso19139.xml\"}",
     "layer_id_s": "Hanover:topo1",
     "layer_slug_s": "uva-Hanover:topo1",
     "layer_geom_type_s": "MultiLineString",
-    "dc_format_s": "Shapefile",
+    "dc_format_s": "application/x-esri-shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "37.538 -77.805 38.008 -77.805 38.008 -77.108 37.538 -77.108 37.538 -77.805",
     "solr_geom": "ENVELOPE(-77.805, -77.108, 38.008, 37.538)",
     "georss_box_s": "37.538 -77.805 38.008 -77.108",
     "layer_modified_dt": "2009-08-26T09:17:10Z",
     "dc_subject_sm": [
-        "Elevation"
+        "elevation"
     ],
     "dct_issued_s": "2008-10-17",
     "dct_temporal_sm": "2001-2004",

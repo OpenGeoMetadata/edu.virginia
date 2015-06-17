@@ -5,18 +5,18 @@
     "dc_description_s": "Onsite septic suitability for Rappahannock River Basin.",
     "dc_rights_s": "Public",
     "dct_provenance_s": "UVa",
-    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS\\u0026typeName=Rappahannock_River_Basin:onsite\\u0026request=GetFeature\\u0026outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io/edu.virginia/381/10/iso19139.xml\"}",
+    "dct_references_s": "{\"http://www.opengis.net/def/serviceType/ogc/wms\":\"http://gis.lib.virginia.edu/geoserver/wms\",\"http://www.opengis.net/def/serviceType/ogc/wfs\":\"http://gis.lib.virginia.edu/geoserver/wfs\",\"http://www.opengis.net/def/serviceType/ogc/wcs\":\"http://gis.lib.virginia.edu/geoserver/wcs\",\"http://schema.org/downloadUrl\":\"http://gis.lib.virginia.edu/geoserver/ows?service=WFS&typeName=Rappahannock_River_Basin:onsite&request=GetFeature&outputFormat=shape-zip\",\"http://www.isotc211.org/schemas/2005/gmd/\":\"https://opengeometadata.github.io//edu.virginia/381/10/iso19139.xml\"}",
     "layer_id_s": "Rappahannock_River_Basin:onsite",
     "layer_slug_s": "uva-Rappahannock_River_Basin:onsite",
     "layer_geom_type_s": "MultiPolygon",
-    "dc_format_s": "Shapefile",
+    "dc_format_s": "application/x-esri-shapefile",
     "dc_language_s": "eng",
     "georss_polygon_s": "37.55 -78.527 38.897 -78.527 38.897 -76.281 37.55 -76.281 37.55 -78.527",
     "solr_geom": "ENVELOPE(-78.527, -76.281, 38.897, 37.55)",
     "georss_box_s": "37.55 -78.527 38.897 -76.281",
     "layer_modified_dt": "2008-11-12T13:22:38Z",
     "dc_subject_sm": [
-        "Utilities Communication"
+        "utilitiesCommunication"
     ],
     "dct_issued_s": "2008-10-17",
     "dct_temporal_sm": "1998-1998",
